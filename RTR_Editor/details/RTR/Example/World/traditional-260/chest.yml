@@ -1,0 +1,8 @@
+chestCounter: 37245
+chest0:
+  openCost: 1900
+  chestLevel: 1
+  godItemsAmount: 1
+  perksAmount: 1
+version: Release 1b
+chestXP: 1744

@@ -1,0 +1,192 @@
+goal2:
+  perkAward: 1
+  goalDescription: Build $GRE15 buildings$WHI0 in $GRE1Applemeadow$WHI0!
+  goalAmount: 5
+  goalType: BUILD
+  goalProgress: 0
+  mobType: 'null'
+  canReset: true
+  mapFileName: Applemeadow
+  godXPAward: 200
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 0
+  goalName: Build
+  awardsNewGoal: false
+  spellType: 'null'
+  resourceType: 'null'
+goal1:
+  perkAward: 1
+  goalDescription: Throw $GRE180 Slimes$WHI0 in a cullis gate in $GRE1Applemeadow$WHI0!
+  goalAmount: 80
+  goalType: THROW_MONSTER_IN_CULLIS_GATE
+  goalProgress: 2
+  mobType: SLIME
+  canReset: true
+  mapFileName: Applemeadow
+  godXPAward: 300
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 2
+  goalName: Throw Monsters in a Cullis Gate
+  awardsNewGoal: false
+  spellType: 'null'
+  resourceType: 'null'
+goal0:
+  perkAward: 1000
+  goalDescription: Survive $GRE1one year$WHI0 in $GRE1every region in the world$WHI0.
+  goalAmount: 44
+  goalType: WIN
+  goalProgress: 0
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 1000000
+  completed: false
+  winGoal: true
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 0
+  goalName: Win
+  awardsNewGoal: false
+  spellType: 'null'
+  resourceType: 'null'
+goal9:
+  perkAward: 0
+  goalDescription: Survive $GRE163$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 63
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 630
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'
+goal8:
+  perkAward: 0
+  goalDescription: Survive $GRE156$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 56
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 560
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'
+goal7:
+  perkAward: 0
+  goalDescription: Survive $GRE149$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 49
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 490
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'
+goal6:
+  perkAward: 0
+  goalDescription: Survive $GRE142$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 42
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 420
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'
+version: Release 1b
+goal5:
+  perkAward: 0
+  goalDescription: Survive $GRE135$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 35
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 350
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'
+goal4:
+  perkAward: 0
+  goalDescription: Survive $GRE128$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 28
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 280
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'
+goalsCorruptionReductionAmount: 0
+goal3:
+  perkAward: 0
+  goalDescription: Survive $GRE121$WHI0 days to$GRE1 unlock a goal$WHI0!
+  goalAmount: 21
+  goalType: DAYS_PAST_GOAL_UNLOCK
+  goalProgress: 17
+  mobType: 'null'
+  canReset: false
+  mapFileName: 'null'
+  godXPAward: 210
+  completed: false
+  winGoal: false
+  objectType: 'null'
+  startAmount: 0
+  goalProgressDisplayed: 17
+  goalName: Unlock New Goal
+  awardsNewGoal: true
+  spellType: 'null'
+  resourceType: 'null'

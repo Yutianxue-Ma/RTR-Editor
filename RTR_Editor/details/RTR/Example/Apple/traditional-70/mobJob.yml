@@ -1,0 +1,71 @@
+MINER:
+  desiredWorkers: 1
+  maximumWorkers: 8
+  currentWorkers: 1
+WAY_MAKER:
+  desiredWorkers: 1
+  maximumWorkers: 6
+  currentWorkers: 1
+WATER_MASTER:
+  desiredWorkers: 2
+  maximumWorkers: 5
+  currentWorkers: 2
+LUMBERJACK:
+  desiredWorkers: 1
+  maximumWorkers: 6
+  currentWorkers: 1
+STONE_CUTTER:
+  desiredWorkers: 1
+  maximumWorkers: 2
+  currentWorkers: 1
+version: Release 1b
+FARMER:
+  desiredWorkers: 6
+  maximumWorkers: 15
+  currentWorkers: 6
+FLETCHER:
+  desiredWorkers: 2
+  maximumWorkers: 2
+  currentWorkers: 2
+RANGER:
+  desiredWorkers: 6
+  maximumWorkers: 6
+  currentWorkers: 6
+CRYSTAL_HARVESTER:
+  desiredWorkers: 1
+  maximumWorkers: 8
+  currentWorkers: 1
+CRYSILLER:
+  desiredWorkers: 1
+  maximumWorkers: 2
+  currentWorkers: 1
+BUILDER:
+  desiredWorkers: 7
+  maximumWorkers: 20
+  currentWorkers: 5
+CARPENTER:
+  desiredWorkers: 2
+  maximumWorkers: 2
+  currentWorkers: 2
+TRASHER:
+  desiredWorkers: 2
+  maximumWorkers: 5
+  currentWorkers: 2
+COOK:
+  desiredWorkers: 2
+  maximumWorkers: 2
+  currentWorkers: 2
+SMELTER:
+  desiredWorkers: 1
+  maximumWorkers: 2
+  currentWorkers: 1
+MEDIC:
+  desiredWorkers: 1
+  maximumWorkers: 2
+  currentWorkers: 1
+NONE:
+  currentWorkers: -36
+ORGANIZER:
+  desiredWorkers: 1
+  maximumWorkers: 13
+  currentWorkers: 1

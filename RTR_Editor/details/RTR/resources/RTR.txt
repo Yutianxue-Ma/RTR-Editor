@@ -1,0 +1,61 @@
+--Corruption
++Find (x,y) array and mark as grid of dots from ~0 to largest number found
++Clickable grid for on/off
+
+--Essence
++CRUD and checks(ID, target..
++types (being deliv
+
+--Migration
+--Missile
+--Spawn
+--Stats
+--Weather
+/-Influence
+
+--Mob
++CRUD mobs
++Check(......lots)
+
+--MobJob
++Check and update
+
+--Object
++Like Moc, complx
+
+--Resource
++CRUD
++Update object list
++Farmlands
++Barlist
+
+--Road
++point map? (x,y,dur)
+
+--Time
++Update times
++Select types
+
+--Trade
++paired sell/buy CRUD
+
+--WordSelection
++~(?,?,?) map
+
+
+============================
+WORLD
+
+--Migration
+--Time
+--Chest
+--Goal
+--God
+
+--Resouce
++Link with object id update
+
+--Perk
++toggles f/t
+
+

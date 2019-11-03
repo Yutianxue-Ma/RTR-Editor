@@ -1,0 +1,10 @@
+gainPeriodTick: 17
+influenceAmountMax: 1560
+activeSpell:
+  '0': METEOR
+  '1': MOTIVATE_LAND
+  '2': MEND
+  '3': SUMMON_LABOR_GOLEM
+  '4': SUMMON_HOLY_GOLEM
+influenceAmount: 1066
+version: Release 1b

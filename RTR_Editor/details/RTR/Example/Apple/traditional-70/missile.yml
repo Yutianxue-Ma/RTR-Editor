@@ -1,0 +1,34 @@
+missile0:
+  damageCause: TOWER
+  decayRate: 300
+  isActive: true
+  damageTypesMax:
+    '0':
+      damageAmount: 45
+      damageType: MAGIC_REGULAR
+  lightIntensity: 2
+  mobGroup: MONSTER
+  missileType: ELEMENTAL_BOLT
+  targetCoordinatesX: -1
+  targetCoordinatesY: -1
+  decayRateTick: 32
+  damageTypesMin:
+    '0':
+      damageAmount: 25
+      damageType: MAGIC_REGULAR
+  missileY: 1588.35
+  missileX: 741.92017
+  originX: 712.0
+  originY: 1672.0
+  targetY: 1522.2571
+  targetX: 769.0656
+  velY: -3.0
+  lightRadius: 16
+  velX: 2.64
+  targetMobID: 1989
+  firingObjectID: 176
+  isTop: true
+  velMod: 0.15999998
+  tileX: 46
+  tileY: 99
+version: Release 1b

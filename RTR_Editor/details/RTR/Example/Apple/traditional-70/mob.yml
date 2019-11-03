@@ -1,0 +1,7298 @@
+mob3:
+  gender: MALE
+  strength: 90
+  decayTick: 6034
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 22
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 29
+  colorLayers4: 0,0,0,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 130
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 561
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 2.3561945
+  hungerMax: 100
+  decaying: true
+  bleedingAmount: 597
+  mobType: DRONE
+  level: 6
+  assignment: {
+    }
+  mobID: 1827
+  socialMax: 100
+  fullName: Nine of Ten
+  mobY: 347.74173
+  mobX: 2078.9734
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 270
+  activeNodeName: AI_DEATH
+  dexterity: 45
+  agingRateTick: 88605
+  statusIconDelayTick: 115
+  baseVelocity: 0.5175
+  diesSlowlyRateTick: 117
+  position: WEST
+  thirstMax: 100
+  tileX: 130
+  age: 1
+  energyMax: 100
+  tileY: 22
+mob2:
+  gender: MALE
+  strength: 73
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 9
+  colorLayers4: 0,0,0,255
+  colorLayers1: 106,78,66,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 452
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  combatDelayTick: 20
+  alpha: 1.0
+  angle: -1.5707964
+  hitPoints: 219
+  hungerMax: 100
+  mobType: DRONE
+  level: 4
+  assignment: {
+    }
+  mobID: 1976
+  socialMax: 100
+  fullName: Eleven of Thirteen
+  mobY: 298.78836
+  mobX: 2946.573
+  activeNodeData:
+    aiStep: 1
+    pathStep: 12
+    pathCoordinatesList: '[183,9] [182,10] [181,11] [181,12] [181,13] [181,14] [181,15]
+      [181,16] [182,16] [182,17] [183,17] [183,18] [184,18] [184,19] [184,20] [185,20]
+      [185,21]'
+    pathCoordinatesBlockList: '[184,18]'
+    goalCoordinates: 183,9
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 219
+  activeNodeName: AI_WANDER
+  dexterity: 32
+  agingRateTick: 6455
+  statusIconDelayTick: 370
+  baseVelocity: 0.498
+  thirstMax: 100
+  tileX: 184
+  energyMax: 100
+  tileY: 19
+mob1:
+  gender: MALE
+  strength: 127
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 282
+  colorLayers4: 0,0,0,255
+  colorLayers1: 167,133,106,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 296
+  workSpeedReductionBase: 9
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 1.5707964
+  hitPoints: 381
+  hungerMax: 100
+  workDelayTick: 469
+  mobType: DRONE
+  level: 10
+  assignment:
+    secondaryCoordinates: 12,19
+    primaryCoordinates: 11,19
+    pickupResourceType: WOOD
+    assignmentType: CORRUPTION_HARVESTING
+  mobID: 1581
+  socialMax: 100
+  fullName: Fourteen of Sixteen
+  mobY: 296.2258
+  mobX: 178.92798
+  activeNodeData:
+    aiStep: 2
+    pathCompleted: true
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 381
+  activeNodeName: AI_CORRUPTION_HARVEST_WORK
+  dexterity: 68
+  agingRateTick: 96410
+  statusIconDelayTick: 455
+  baseVelocity: 0.552
+  position: EAST
+  thirstMax: 100
+  tileX: 11
+  age: 1
+  energyMax: 100
+  tileY: 19
+mob0:
+  gender: FEMALE
+  strength: 100
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  experience: 49
+  colorLayers4: 0,0,0,255
+  colorLayers1: 229,200,168,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 946
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  combatDelayTick: 62
+  alpha: 1.0
+  hitPoints: 300
+  hungerMax: 100
+  mobType: DRONE
+  level: 6
+  assignment: {
+    }
+  mobID: 1902
+  socialMax: 100
+  fullName: Six of Ten
+  mobY: 120.3123
+  mobX: 224.00044
+  activeNodeData:
+    aiStep: 1
+    pathStep: 1
+    pathCoordinatesList: '[15,10] [14,9] [14,8] [13,8] [12,7]'
+    pathCoordinatesBlockList: '[14,9]'
+    goalCoordinates: 15,10
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 300
+  activeNodeName: AI_WANDER
+  dexterity: 35
+  agingRateTick: 54973
+  statusIconDelayTick: 152
+  baseVelocity: 0.5025
+  position: EAST
+  thirstMax: 100
+  tileX: 14
+  age: 1
+  energyMax: 100
+  tileY: 8
+mob7:
+  gender: FEMALE
+  strength: 127
+  decayTick: 5865
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 29
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 28
+  colorLayers4: 0,0,0,255
+  colorLayers1: 183,166,158,255
+  workFindExtraResourcesLastX: 123
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 409
+  workSpeedReductionBase: 9
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 1.5707964
+  hungerMax: 100
+  decaying: true
+  mobType: DRONE
+  level: 9
+  assignment: {
+    }
+  mobID: 1675
+  socialMax: 100
+  fullName: Six of Fourteen
+  mobY: 472.40466
+  mobX: 1963.1328
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 381
+  activeNodeName: AI_DEATH
+  dexterity: 53
+  agingRateTick: 54502
+  statusIconDelayTick: 582
+  baseVelocity: 0.5295
+  diesSlowlyRateTick: 355
+  position: SOUTH
+  thirstMax: 100
+  tileX: 123
+  age: 1
+  energyMax: 100
+  tileY: 30
+mob6:
+  gender: MALE
+  strength: 79
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  carriedResourcesListIDs: '21253'
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 5
+  colorLayers4: 0,0,0,255
+  colorLayers1: 165,107,70,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1988
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: 3.1415927
+  hitPoints: 237
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 71,117
+    assignmentType: DELIVERY
+  mobID: 1970
+  socialMax: 100
+  fullName: One of One
+  mobY: 424.19534
+  mobX: 1060.0668
+  activeNodeData:
+    aiStep: 1
+    pathStep: 93
+    pathCoordinatesList: '[71,117] [71,116] [71,115] [71,114] [72,113] [72,112] [72,111]
+      [72,110] [71,109] [70,108] [69,107] [68,106] [67,105] [67,104] [67,103] [67,102]
+      [67,101] [67,100] [67,99] [66,98] [66,97] [66,96] [66,95] [66,94] [66,93] [66,92]
+      [66,91] [66,90] [66,89] [66,88] [66,87] [66,86] [66,85] [66,84] [66,83] [66,82]
+      [66,81] [66,80] [66,79] [66,78] [66,77] [66,76] [66,75] [65,74] [64,73] [64,72]
+      [64,71] [64,70] [64,69] [64,68] [63,67] [63,66] [63,65] [63,64] [62,63] [61,62]
+      [61,61] [60,60] [59,60] [59,59] [59,58] [58,57] [57,56] [57,55] [57,54] [57,53]
+      [57,52] [57,51] [57,50] [57,49] [57,48] [57,47] [57,46] [57,45] [57,44] [57,43]
+      [57,42] [57,41] [58,40] [59,39] [59,38] [59,37] [59,36] [59,35] [60,34] [61,34]
+      [62,33] [63,33] [64,32] [64,31] [64,30] [64,29] [65,28] [66,27] [67,27] [68,26]
+      [69,25] [70,25] [71,25] [72,25] [73,24] [73,23] [73,22] [74,21] [75,20]'
+    goalCoordinates: 71,117
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 237
+  activeNodeName: AI_CORRUPTION_DELIVER_ROAD_RESOURCE_IN_HAND
+  dexterity: 41
+  agingRateTick: 15995
+  currentVelocity: 0.6138
+  statusIconDelayTick: 104
+  baseVelocity: 0.5115
+  position: WEST
+  thirstMax: 100
+  tileX: 67
+  energyMax: 100
+  tileY: 27
+mob5:
+  socialRateTick: 258
+  strength: 131
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 511
+  lastDamageCause: TOWER
+  hitPoints: 393
+  hungerMax: 100
+  energy: 52
+  mobType: DOGGO
+  level: 7
+  mobID: 125
+  socialMax: 100
+  ownerID: 7
+  hostileMobGroups: MONSTER
+  hitPointsMax: 393
+  hunger: 54
+  agingRateTick: 51997
+  firstName: Barkley
+  statusIconDelayTick: 277
+  thirstDrinkTimeTick: 3
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 21711
+  energyMax: 100
+  lastName: ''
+  inventoryFoodSlotID: 22089
+  thermalAdjustRateTick: 187
+  gender: FEMALE
+  colorLayers0: 153,96,49,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 109
+  energyDecayRateTick: 799
+  colorLayers3: 183,115,58,255
+  colorLayers4: 122,76,39,255
+  colorLayers1: 229,144,73,255
+  workFindExtraResourcesLastX: 160
+  colorLayers2: 183,115,58,255
+  lifeExpectancy: 19
+  colorLayers5: 17,17,17,255
+  healthRegenRateTick: 296
+  workSpeedReductionBase: 12
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 97
+  lastDamageType: ELECTRIC
+  alpha: 1.0
+  angle: 2.3561945
+  mobJobType: DOGGO
+  thirst: 85
+  social: 60
+  assignment:
+    deliveryObjectName: $YEL1Small Ammo Storage
+    pickupResourceIDs: '22332'
+    primaryCoordinates: 112,83
+    deliveryObjectID: '122'
+    assignmentType: PICK_UP_RESOURCE_FROM_GROUND
+  fullName: Barkley
+  thirstDecayRateTick: 1802
+  mobY: 416.12692
+  bodyTemp: 34
+  mobX: 2202.579
+  activeNodeData:
+    aiStep: 1
+    pathStep: 63
+    pathCoordinatesList: '[112,83] [113,84] [114,84] [115,84] [116,84] [117,84] [118,83]
+      [119,83] [120,82] [120,81] [121,80] [122,79] [123,78] [124,77] [125,76] [125,75]
+      [125,74] [125,73] [125,72] [125,71] [125,70] [125,69] [126,68] [126,67] [126,66]
+      [126,65] [126,64] [126,63] [126,62] [127,61] [127,60] [127,59] [127,58] [127,57]
+      [127,56] [127,55] [127,54] [128,53] [128,52] [128,51] [128,50] [128,49] [128,48]
+      [128,47] [128,46] [129,45] [129,44] [129,43] [129,42] [129,41] [129,40] [129,39]
+      [129,38] [130,37] [131,36] [132,35] [132,34] [132,33] [132,32] [133,31] [134,30]
+      [135,29] [136,28] [137,27] [138,26] [139,25] [140,24] [141,23] [142,23] [143,22]
+      [144,21] [145,20] [146,19] [147,19] [148,19]'
+    goalCoordinates: 112,83
+  activeNodeName: AI_STORE_RESOURCE
+  dexterity: 119
+  currentVelocity: 1.0
+  baseVelocity: 1.0
+  tileX: 138
+  age: 13
+  tileY: 26
+mob4:
+  socialRateTick: 408
+  strength: 218
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 594
+  inventoryRangedWeaponAmmoSlotID: 6115
+  lastDamageCause: TOWER
+  socialPregnantDelayTick: 180000
+  hitPoints: 654
+  hungerMax: 110
+  energy: 31
+  mobType: VILLAGER
+  level: 13
+  mobID: 7
+  socialMax: 105
+  ownerID: 125
+  hostileMobGroups: MONSTER
+  hitPointsMax: 654
+  hunger: 29
+  agingRateTick: 65181
+  firstName: Tony
+  statusIconDelayTick: 235
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 45146
+  energyMax: 100
+  lastName: Roberts
+  inventoryShieldSlotID: 17050
+  thermalAdjustRateTick: 576
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 23
+  carriedResourcesListIDs: 22343,22105,22111,22285,22079,22101
+  energyDecayRateTick: 798
+  socialCoitusDelayTick: 50000
+  colorLayers3: 64,42,255,255
+  colorLayers1: 181,82,57,255
+  workFindExtraResourcesLastX: 154
+  colorLayers2: 153,0,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 279
+  workSpeedReductionBase: 20
+  mobGroup: VILLAGER
+  assignedHome: 54
+  lastDamageType: ELECTRIC
+  alpha: 1.0
+  angle: 2.3561945
+  mobJobType: STONE_CUTTER
+  inventoryMeleeWeaponSlotID: 6112
+  thirst: 67
+  social: 52
+  assignment:
+    secondaryCoordinates: 154,22
+    deliveryObjectName: $YEL1Makeshift Stone Golem Combobulator
+    primaryCoordinates: 113,87
+    deliveryObjectID: '113'
+    assignmentType: DELIVERY
+  fullName: Tony Roberts
+  hungerDecayRateTick: 1756
+  thirstDecayRateTick: 766
+  mobY: 410.79208
+  bodyTemp: 37
+  mobX: 2224.6147
+  activeNodeData:
+    aiStep: 1
+    pathStep: 62
+    pathCoordinatesList: '[113,87] [114,87] [115,86] [116,85] [117,85] [118,84] [119,83]
+      [120,82] [121,81] [121,80] [122,79] [122,78] [122,77] [122,76] [122,75] [122,74]
+      [122,73] [122,72] [122,71] [123,70] [124,69] [125,68] [125,67] [125,66] [125,65]
+      [125,64] [125,63] [125,62] [126,61] [126,60] [126,59] [126,58] [126,57] [126,56]
+      [126,55] [126,54] [127,53] [128,52] [128,51] [128,50] [128,49] [128,48] [128,47]
+      [128,46] [128,45] [128,44] [128,43] [128,42] [128,41] [128,40] [129,39] [130,38]
+      [131,37] [132,36] [133,35] [134,34] [134,33] [134,32] [134,31] [135,30] [136,29]
+      [137,28] [138,27] [139,26] [139,25] [140,24] [141,23] [142,22] [143,22] [144,21]
+      [145,20] [146,19] [147,19] [148,19] [149,20] [150,20] [151,21] [152,22] [153,22]
+      [154,22]'
+    goalCoordinates: 113,87
+  activeNodeName: AI_STORE_RESOURCE_IN_HAND
+  dexterity: 182
+  currentVelocity: 0.7384
+  inventoryRangedWeaponSlotID: 6089
+  baseVelocity: 0.923
+  tileX: 139
+  age: 20
+  tileY: 26
+mob9:
+  socialRateTick: 687
+  strength: 221
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 225
+  socialPregnantCount: 1
+  lastDamageCause: STARVATION
+  socialPregnantDelayTick: 180000
+  hitPoints: 663
+  hungerMax: 110
+  energy: 29
+  mobType: VILLAGER
+  level: 13
+  mobID: 4
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 663
+  hunger: 38
+  agingRateTick: 72655
+  firstName: Jo
+  statusIconDelayTick: 457
+  thirstDrinkTimeTick: 26
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 12540
+  energyMax: 100
+  lastName: Valmont
+  inventoryShieldSlotID: 11803
+  thermalAdjustRateTick: 76
+  gender: FEMALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 36
+  carriedResourcesListIDs: '22557'
+  inventoryToolSlotID: 8013
+  energyDecayRateTick: 931
+  socialCoitusDelayTick: 50000
+  colorLayers3: 0,170,0,255
+  colorLayers1: 83,61,50,255
+  workFindExtraResourcesLastX: 123
+  colorLayers2: 91,32,255,255
+  lifeExpectancy: 38
+  healthRegenRateTick: 119
+  workSpeedReductionBase: 20
+  mobGroup: VILLAGER
+  assignedHome: 54
+  lastDamageType: NUTRIENTS
+  alpha: 1.0
+  angle: 1.5707964
+  hungerStarvationRateTick: 19
+  mobJobType: FLETCHER
+  inventoryMeleeWeaponSlotID: 6057
+  thirst: 23
+  social: 23
+  assignment:
+    deliveryObjectName: $YEL1Makeshift Bowyer
+    primaryCoordinates: 155,175
+    deliveryObjectID: '69'
+    assignmentType: DELIVERY
+  fullName: Jo Valmont
+  hungerDecayRateTick: 1797
+  thirstDecayRateTick: 312
+  mobY: 580.84906
+  bodyTemp: 43
+  mobX: 1970.7649
+  activeNodeData:
+    aiStep: 1
+    pathStep: 141
+    pathCoordinatesList: '[155,175] [156,175] [157,175] [157,174] [157,173] [157,172]
+      [157,171] [157,170] [157,169] [157,168] [157,167] [157,166] [157,165] [157,164]
+      [157,163] [157,162] [157,161] [157,160] [157,159] [157,158] [157,157] [157,156]
+      [157,155] [157,154] [157,153] [158,152] [158,151] [158,150] [158,149] [158,148]
+      [158,147] [158,146] [157,145] [156,144] [155,143] [154,143] [153,142] [152,141]
+      [151,140] [150,139] [149,138] [148,137] [147,136] [146,135] [145,134] [145,133]
+      [145,132] [145,131] [145,130] [144,129] [143,128] [142,127] [141,126] [141,125]
+      [141,124] [141,123] [141,122] [140,121] [139,120] [138,119] [137,118] [136,117]
+      [135,116] [134,115] [133,114] [133,113] [133,112] [133,111] [133,110] [133,109]
+      [133,108] [133,107] [133,106] [133,105] [133,104] [133,103] [133,102] [133,101]
+      [133,100] [133,99] [133,98] [133,97] [133,96] [133,95] [133,94] [133,93] [133,92]
+      [133,91] [133,90] [133,89] [133,88] [132,87] [131,86] [130,85] [129,84] [128,83]
+      [127,82] [126,81] [125,80] [124,79] [123,78] [123,77] [123,76] [123,75] [123,74]
+      [123,73] [123,72] [123,71] [123,70] [123,69] [123,68] [123,67] [123,66] [123,65]
+      [123,64] [123,63] [123,62] [123,61] [123,60] [123,59] [123,58] [123,57] [123,56]
+      [123,55] [123,54] [123,53] [123,52] [123,51] [123,50] [123,49] [123,48] [123,47]
+      [123,46] [123,45] [123,44] [123,43] [123,42] [123,41] [123,40] [123,39] [123,38]
+      [123,37] [123,36] [123,35] [123,34] [123,33] [123,32] [123,31] [123,30] [123,29]'
+    goalCoordinates: 155,175
+  activeNodeName: AI_STORE_RESOURCE_IN_HAND
+  dexterity: 179
+  currentVelocity: 0.7348
+  inventoryRangedWeaponSlotID: 6088
+  baseVelocity: 0.91849995
+  tileX: 123
+  age: 23
+  tileY: 36
+mob8:
+  gender: MALE
+  strength: 99
+  decayTick: 5275
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 103
+  colorLayers4: 0,0,0,255
+  colorLayers1: 167,133,106,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 784
+  workSpeedReductionBase: 7
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 1.5707964
+  hungerMax: 100
+  decaying: true
+  mobType: DRONE
+  level: 7
+  assignment: {
+    }
+  mobID: 1805
+  socialMax: 100
+  fullName: Seven of Seven
+  mobY: 503.58215
+  mobX: 1872.325
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 297
+  activeNodeName: AI_DEATH
+  dexterity: 51
+  agingRateTick: 98833
+  statusIconDelayTick: 263
+  baseVelocity: 0.5265
+  diesSlowlyRateTick: 254
+  position: SOUTH
+  thirstMax: 100
+  tileX: 117
+  age: 1
+  energyMax: 100
+  tileY: 31
+mob21:
+  thermalAdjustRateTick: 469
+  strength: 94
+  decayTick: 3708
+  colorLayers0: 136,255,0,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  healthRegenRateTick: 469
+  workSpeedReductionBase: 9
+  mobGroup: MONSTER
+  lastDamageCause: TOWER
+  lastDamageType: MAGIC_REGULAR
+  alpha: 0.9
+  angle: -1.5707964
+  hungerMax: 100
+  lastDamageObjectID: 205
+  decaying: true
+  bleedingAmount: 3155
+  mobType: SMALL_SLIME
+  level: 9
+  idle: true
+  assignment: {
+    }
+  mobID: 1982
+  socialMax: 100
+  fullName: Small Slime
+  mobY: 1400.102
+  bodyTemp: 46
+  mobX: 1216.0829
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 282
+  activeNodeName: AI_DEATH
+  dexterity: 86
+  agingRateTick: 469
+  statusIconDelayTick: 469
+  baseVelocity: 0.20172
+  thirstMax: 100
+  tileX: 76
+  energyMax: 100
+  tileY: 88
+mob20:
+  strength: 148
+  decayTick: 2103
+  colorLayers0: 204,204,204,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: GOLEM,CHARMED_MONSTER,VILLAGER
+  colorLayers3: 0,0,0,255
+  colorLayers1: 238,238,238,255
+  colorLayers2: 119,119,119,255
+  workSpeedReductionBase: 8
+  mobGroup: GOLEM
+  lastDamageCause: TOWER
+  lastDamageType: FIRE
+  alpha: 1.0
+  angle: 1.5707964
+  hungerMax: 100
+  lastDamageObjectID: 157
+  decaying: true
+  bleedingAmount: 4574
+  mobType: STONE_GOLEM
+  level: 2
+  assignment: {
+    }
+  mobID: 1972
+  socialMax: 100
+  fullName: Stone Golem
+  mobY: 1336.0356
+  mobX: 1009.4811
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: MONSTER
+  hitPointsMax: 444
+  golemRequiresChargeAmount: 3006
+  activeNodeName: AI_DEATH
+  dexterity: 27
+  agingRateTick: 9790
+  statusIconDelayTick: 543
+  baseVelocity: 0.4162
+  position: SOUTH
+  thirstMax: 100
+  tileX: 63
+  energyMax: 100
+  tileY: 84
+mob14:
+  lastName: Arterton
+  gender: FEMALE
+  strength: 172
+  colorLayers0: 34,221,221,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 118,127,190,255
+  colorLayers1: 83,61,50,255
+  colorLayers2: 62,0,187,255
+  workSpeedReductionBase: 16
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: -1.5707964
+  hitPoints: 516
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 10
+  assignment: {
+    }
+  mobID: 1323
+  socialMax: 100
+  fullName: Gemma Arterton
+  mobY: 936.10706
+  mobX: 1936.1937
+  activeNodeData:
+    aiStep: 1
+    pathStep: 4
+    pathCoordinatesList: '[118,54] [119,55] [120,56] [121,57] [121,58] [121,59] [121,60]
+      [121,61] [121,62] [121,63] [121,64] [121,65] [121,66] [121,67] [121,68] [121,69]
+      [121,70] [121,71] [121,72] [121,73] [121,74] [121,75] [121,76] [121,77] [121,78]
+      [121,79] [120,80] [120,81] [120,82] [119,83] [118,83] [117,84] [116,85] [115,86]
+      [114,87] [114,88] [114,89] [114,90] [114,91] [115,92] [116,93] [117,94] [117,95]
+      [117,96] [117,97] [118,98] [119,99] [119,100] [119,101] [119,102] [119,103]
+      [119,104] [120,104]'
+    goalCoordinates: 118,54
+  hitPointsMax: 516
+  activeNodeName: AI_WANDER
+  dexterity: 153
+  firstName: Gemma
+  currentVelocity: 0.2306
+  statusIconDelayTick: 573
+  baseVelocity: 0.2306
+  thirstMax: 100
+  tileX: 121
+  age: 17
+  energyMax: 100
+  tileY: 59
+mob13:
+  lastName: Honnor
+  gender: MALE
+  strength: 97
+  colorLayers0: 34,187,187,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 44,34,43,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 10
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 291
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 5
+  assignment: {
+    }
+  mobID: 1795
+  socialMax: 100
+  fullName: Elena Honnor
+  mobY: 856.06604
+  mobX: 1794.8484
+  activeNodeData:
+    aiStep: 1
+    pathStep: 4
+    pathCoordinatesList: '[108,53] [109,54] [110,54] [111,54] [112,54] [113,54] [114,54]
+      [115,54]'
+    goalCoordinates: 108,53
+  hitPointsMax: 291
+  activeNodeName: AI_WANDER
+  dexterity: 103
+  firstName: Elena
+  currentVelocity: 0.22060001
+  statusIconDelayTick: 232
+  baseVelocity: 0.22060001
+  position: WEST
+  thirstMax: 100
+  tileX: 113
+  age: 8
+  energyMax: 100
+  tileY: 54
+mob12:
+  socialRateTick: 867
+  strength: 190
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 387
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 570
+  hungerMax: 110
+  energy: 24
+  mobType: VILLAGER
+  level: 11
+  mobID: 383
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 570
+  hunger: 40
+  agingRateTick: 95792
+  firstName: Lydia
+  statusIconDelayTick: 225
+  thirstDrinkTimeTick: 1
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 33517
+  energyMax: 100
+  lastName: Kimber
+  thermalAdjustRateTick: 1676
+  gender: FEMALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 160
+  energyDecayRateTick: 534
+  socialCoitusDelayTick: 50000
+  colorLayers3: 17,17,51,255
+  colorLayers1: 229,200,168,255
+  workFindExtraResourcesLastX: 158
+  colorLayers2: 0,153,153,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 190
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: -1.5707964
+  mobJobType: BUILDER
+  inventoryMeleeWeaponSlotID: 6104
+  thirst: 32
+  social: 53
+  assignment:
+    deliveryObjectName: $YEL1Established Farm
+    pickupResourceIDs: '22508'
+    primaryCoordinates: 123,31
+    deliveryObjectID: '70'
+    assignmentType: PICK_UP_RESOURCE_FROM_GROUND
+  fullName: Lydia Kimber
+  hungerDecayRateTick: 2118
+  thirstDecayRateTick: 737
+  mobY: 848.64294
+  bodyTemp: 34
+  mobX: 2050.7712
+  activeNodeData:
+    aiStep: 1
+    pathStep: 22
+    pathCoordinatesList: '[123,31] [124,32] [125,33] [126,34] [127,35] [128,36] [128,37]
+      [128,38] [128,39] [128,40] [128,41] [128,42] [128,43] [128,44] [128,45] [128,46]
+      [128,47] [128,48] [128,49] [128,50] [128,51] [128,52] [128,53] [128,54] [128,55]
+      [128,56] [128,57] [128,58] [128,59] [128,60] [128,61] [128,62] [128,63] [128,64]
+      [128,65] [128,66] [128,67] [128,68] [128,69] [128,70] [128,71] [128,72] [128,73]
+      [128,74] [128,75] [128,76] [128,77] [128,78] [128,79] [128,80] [128,81] [128,82]
+      [129,83] [130,84] [131,85] [132,86] [133,87] [134,88] [135,89] [136,90] [137,91]
+      [138,92] [139,93] [140,94] [140,95] [140,96] [140,97] [140,98] [140,99] [140,100]
+      [140,101] [140,102] [140,103] [140,104] [140,105] [140,106] [140,107] [140,108]
+      [140,109] [140,110] [140,111] [140,112] [140,113] [140,114] [140,115] [140,116]
+      [140,117] [140,118] [140,119] [140,120] [140,121] [141,122] [142,123] [143,124]
+      [144,125] [145,126] [146,127] [147,128] [148,129] [149,130] [150,131] [151,132]
+      [152,133] [153,134] [154,135] [154,136] [154,137] [154,138] [154,139] [154,140]
+      [154,141] [154,142] [154,143] [155,144] [156,145] [157,146] [158,146] [158,147]
+      [158,148] [158,149] [158,150] [158,151] [158,152] [157,153] [157,154] [157,155]
+      [157,156] [157,157] [157,158] [157,159] [157,160] [157,161] [157,162] [157,163]
+      [157,164] [157,165] [158,165] [159,165] [160,165] [161,165] [162,165] [162,164]
+      [162,163] [162,162] [162,161] [162,160] [162,159] [162,158] [162,157]'
+    goalCoordinates: 123,31
+  activeNodeName: AI_DELIVER_CONSTRUCTION_RESOURCE
+  dexterity: 160
+  currentVelocity: 0.89
+  baseVelocity: 0.89
+  tileX: 128
+  age: 19
+  tileY: 54
+  sleepDelayTick: 30
+mob11:
+  socialRateTick: 469
+  strength: 164
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 498
+  inventoryRangedWeaponAmmoSlotID: 17101
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 492
+  hungerMax: 110
+  energy: 61
+  mobType: VILLAGER
+  level: 10
+  mobID: 240
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 492
+  hunger: 47
+  agingRateTick: 12102
+  firstName: Tom
+  statusIconDelayTick: 231
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 12275
+  energyMax: 100
+  lastName: Clark
+  inventoryShieldSlotID: 5814
+  thermalAdjustRateTick: 1926
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 159
+  energyDecayRateTick: 332
+  socialCoitusDelayTick: 50000
+  colorLayers3: 17,17,51,255
+  colorLayers1: 113,99,90,255
+  workFindExtraResourcesLastX: 162
+  colorLayers2: 0,153,153,255
+  lifeExpectancy: 38
+  healthRegenRateTick: 394
+  workSpeedReductionBase: 16
+  mobGroup: VILLAGER
+  assignedHome: 71
+  lastDamageType: MAGIC_REGULAR
+  alpha: 1.0
+  angle: -1.5707964
+  hungerStarvationRateTick: 249
+  mobJobType: BUILDER
+  inventoryMeleeWeaponSlotID: 5813
+  thirst: 88
+  social: 35
+  assignment:
+    primaryCoordinates: 119,39
+    primaryObjectID: '171'
+    primaryObjectName: $YEL1Makeshift Ballista Tower
+    assignmentType: REPAIRING
+  fullName: Tom Clark
+  hungerDecayRateTick: 1086
+  thirstDecayRateTick: 1495
+  mobY: 769.3883
+  bodyTemp: 44
+  mobX: 1922.3502
+  activeNodeData:
+    aiStep: 1
+    pathStep: 9
+    pathCoordinatesList: '[119,39] [120,40] [120,41] [120,42] [120,43] [120,44] [120,45]
+      [120,46] [120,47] [120,48] [120,49] [120,50] [120,51] [120,52] [120,53] [120,54]
+      [121,55] [122,56] [123,57] [124,58] [124,59] [124,60] [124,61] [124,62] [124,63]
+      [124,64] [124,65] [124,66] [124,67] [124,68] [124,69] [124,70] [124,71] [124,72]
+      [124,73] [124,74] [124,75] [124,76] [124,77] [124,78] [125,79] [126,80] [127,81]
+      [128,82] [129,83] [130,84] [131,85] [132,86] [133,87] [134,88] [135,89] [136,90]
+      [137,91] [138,92] [139,93] [140,94] [140,95] [140,96] [140,97] [140,98] [140,99]
+      [140,100] [140,101] [140,102] [140,103] [140,104] [140,105] [140,106] [140,107]
+      [140,108] [140,109] [140,110] [140,111] [140,112] [140,113] [140,114] [140,115]
+      [140,116] [140,117] [140,118] [140,119] [140,120] [140,121] [141,122] [142,123]
+      [143,124] [144,125] [145,126] [146,127] [147,128] [148,129] [149,130] [149,131]
+      [149,132] [149,133] [149,134] [149,135] [149,136] [149,137] [149,138] [149,139]
+      [149,140] [149,141] [149,142] [149,143] [149,144] [149,145] [149,146] [149,147]
+      [149,148] [149,149] [149,150] [149,151] [149,152] [149,153] [149,154] [149,155]
+      [149,156] [149,157] [149,158] [149,159] [149,160] [149,161] [149,162] [149,163]
+      [149,164] [149,165] [150,166] [150,167]'
+    goalCoordinates: 119,39
+  activeNodeName: AI_REPAIR_WORK
+  dexterity: 161
+  currentVelocity: 0.8915
+  inventoryRangedWeaponSlotID: 5816
+  baseVelocity: 0.8915
+  tileX: 120
+  age: 14
+  tileY: 49
+mob99:
+  lastName: Abbadon
+  fadeOut: true
+  gender: MALE
+  strength: 136
+  colorLayers0: 34,221,221,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 222,188,153,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 12
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: -0.7853982
+  hitPoints: 408
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 7
+  assignment: {
+    }
+  mobID: 1312
+  socialMax: 100
+  fullName: Jerahn Abbadon
+  mobY: 2650.9014
+  mobX: 2560.0044
+  activeNodeData: {
+    }
+  hitPointsMax: 408
+  activeNodeName: AI_START
+  dexterity: 114
+  firstName: Jerahn
+  statusIconDelayTick: 27
+  baseVelocity: 0.2228
+  position: EAST
+  thirstMax: 100
+  tileX: 160
+  age: 9
+  energyMax: 100
+  tileY: 166
+mob18:
+  inventoryFoodSlotID: 22000
+  thermalAdjustRateTick: 175
+  strength: 93
+  colorLayers0: 0,255,136,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  experience: 1
+  healthRegenRateTick: 571
+  workSpeedReductionBase: 9
+  mobGroup: MONSTER
+  alpha: 0.9
+  angle: 1.5707964
+  hitPoints: 279
+  hungerMax: 100
+  mobType: SMALL_SLIME
+  level: 9
+  idle: true
+  assignment: {
+    }
+  mobID: 1984
+  socialMax: 100
+  fullName: Small Slime
+  mobY: 1240.1606
+  bodyTemp: 45
+  mobX: 944.17865
+  activeNodeData: {
+    }
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 279
+  activeNodeName: AI_START
+  dexterity: 87
+  agingRateTick: 4177
+  statusIconDelayTick: 306
+  baseVelocity: 0.20174
+  position: SOUTH
+  thirstMax: 100
+  tileX: 59
+  energyMax: 100
+  tileY: 78
+mob17:
+  lastName: Valmont
+  gender: MALE
+  strength: 269
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 64,42,0,255
+  colorLayers1: 202,191,177,255
+  colorLayers2: 153,0,0,255
+  workSpeedReductionBase: 25
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 807
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 17
+  idle: true
+  assignment: {
+    }
+  mobID: 1758
+  socialMax: 100
+  fullName: Sebastien Valmont
+  mobY: 1226.8607
+  mobX: 1906.8699
+  activeNodeData: {
+    }
+  hitPointsMax: 807
+  activeNodeName: AI_START
+  dexterity: 231
+  firstName: Sebastien
+  statusIconDelayTick: 475
+  baseVelocity: 0.2462
+  position: WEST
+  thirstMax: 100
+  tileX: 119
+  age: 17
+  energyMax: 100
+  tileY: 77
+mob16:
+  inventoryShieldSlotID: 17098
+  gender: MALE
+  strength: 85
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 118
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 83
+  colorLayers4: 0,0,0,255
+  colorLayers1: 78,67,63,255
+  workFindExtraResourcesLastX: 14
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 645
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 3.1415927
+  hitPoints: 255
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  idle: true
+  assignment: {
+    }
+  mobID: 1804
+  socialMax: 100
+  fullName: Eight of Ten
+  mobY: 1210.9156
+  mobX: 930.76904
+  activeNodeData:
+    pathCompleted: true
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 255
+  activeNodeName: AI_START
+  dexterity: 35
+  agingRateTick: 104697
+  statusIconDelayTick: 122
+  baseVelocity: 0.5025
+  diesSlowlyRateTick: 250
+  position: WEST
+  thirstMax: 100
+  tileX: 58
+  age: 1
+  energyMax: 100
+  tileY: 76
+mob15:
+  socialRateTick: 658
+  strength: 184
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 431
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 552
+  hungerMax: 110
+  energy: 36
+  mobType: VILLAGER
+  level: 11
+  mobID: 70
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 552
+  hunger: 27
+  agingRateTick: 46835
+  firstName: Matt
+  statusIconDelayTick: 372
+  position: EAST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 39081
+  energyMax: 100
+  lastName: Horner
+  thermalAdjustRateTick: 1095
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 99
+  energyDecayRateTick: 758
+  socialCoitusDelayTick: 50000
+  colorLayers3: 119,119,119,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 114
+  colorLayers2: 170,68,170,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 7
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 71
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  hungerStarvationRateTick: 320
+  mobJobType: ORGANIZER
+  inventoryMeleeWeaponSlotID: 6099
+  thirst: 72
+  social: 68
+  assignment:
+    deliveryObjectName: $YEL1Established Farm
+    pickupResourceIDs: '22551'
+    primaryCoordinates: 152,17
+    deliveryObjectID: '70'
+    assignmentType: PICK_UP_RESOURCE_FROM_GROUND
+  fullName: Matt Horner
+  hungerDecayRateTick: 547
+  thirstDecayRateTick: 1282
+  mobY: 1114.8873
+  bodyTemp: 43
+  mobX: 1952.3772
+  activeNodeData:
+    aiStep: 1
+    pathStep: 58
+    pathCoordinatesList: '[152,17] [151,16] [150,16] [149,16] [148,16] [147,17] [146,18]
+      [145,19] [144,20] [143,21] [142,22] [141,23] [140,24] [139,25] [138,26] [137,27]
+      [136,28] [136,29] [136,30] [135,31] [134,32] [133,33] [132,34] [131,35] [130,36]
+      [129,37] [128,38] [127,39] [126,40] [125,41] [124,42] [123,43] [123,44] [123,45]
+      [123,46] [123,47] [123,48] [123,49] [123,50] [123,51] [123,52] [123,53] [123,54]
+      [123,55] [123,56] [123,57] [123,58] [123,59] [123,60] [123,61] [123,62] [123,63]
+      [123,64] [123,65] [123,66] [123,67] [123,68] [123,69] [122,70] [121,71] [121,72]
+      [121,73] [121,74] [121,75] [121,76] [121,77] [121,78] [121,79] [120,80] [120,81]
+      [120,82] [119,83] [118,83] [117,84] [116,85] [115,86] [114,87] [113,88] [113,89]
+      [113,90] [113,91] [113,92] [112,93] [112,94] [112,95] [112,96] [112,97] [112,98]
+      [113,98]'
+    goalCoordinates: 152,17
+  mateID: 69
+  activeNodeName: AI_DELIVER_CONSTRUCTION_RESOURCE
+  dexterity: 166
+  currentVelocity: 0.899
+  baseVelocity: 0.899
+  tileX: 121
+  age: 20
+  tileY: 70
+mob19:
+  lastName: Machin
+  gender: FEMALE
+  strength: 179
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 106,78,66,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 16
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 537
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 10
+  idle: true
+  assignment: {
+    }
+  mobID: 1331
+  socialMax: 100
+  fullName: Lonnie Machin
+  mobY: 1304.0404
+  mobX: 1938.8937
+  activeNodeData: {
+    }
+  hitPointsMax: 537
+  activeNodeName: AI_START
+  dexterity: 146
+  firstName: Lonnie
+  statusIconDelayTick: 184
+  baseVelocity: 0.2292
+  position: WEST
+  thirstMax: 100
+  tileX: 121
+  age: 13
+  energyMax: 100
+  tileY: 82
+mob90:
+  socialRateTick: 103
+  strength: 157
+  experience: 119
+  lastDamageCause: FROM_BLIGHT
+  hitPoints: 471
+  hungerMax: 100
+  energy: 33
+  mobType: WILD_ENTLER
+  level: 3
+  mobID: 104
+  socialMax: 100
+  hitPointsMax: 471
+  hunger: 51
+  agingRateTick: 82325
+  statusIconDelayTick: 409
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 10777
+  energyMax: 100
+  thermalAdjustRateTick: 502
+  gender: MALE
+  colorLayers0: 144,114,90,255
+  bodyTempMax: 100
+  energyDecayRateTick: 366
+  colorLayers3: 216,171,135,255
+  colorLayers4: 172,136,108,255
+  colorLayers1: 244,193,153,255
+  colorLayers2: 179,107,22,255
+  lifeExpectancy: 17
+  colorLayers5: 17,17,17,255
+  healthRegenRateTick: 264
+  workSpeedReductionBase: 10
+  mobGroup: ANIMAL
+  lastDamageType: FROM_BLIGHT
+  alpha: 1.0
+  angle: 3.1415927
+  thirstDehydrationRateTick: 334
+  thirst: 36
+  social: 86
+  assignment: {
+    }
+  fullName: Wild Entler
+  hungerDecayRateTick: 912
+  thirstDecayRateTick: 1902
+  mobY: 2570.8066
+  bodyTemp: 29
+  mobX: 3154.7686
+  activeNodeData:
+    aiStep: 2
+    pathCompleted: true
+  activeNodeName: AI_SLEEP_OUTSIDE
+  dexterity: 53
+  baseVelocity: 0.9795
+  tileX: 197
+  age: 14
+  tileY: 161
+  sleepDelayTick: 40
+mob94:
+  lastName: Scott
+  gender: MALE
+  strength: 76
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 229,200,168,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 6
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 0.7853982
+  hitPoints: 228
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 2
+  assignment: {
+    }
+  mobID: 1683
+  socialMax: 100
+  fullName: Montgomery Scott
+  mobY: 2614.949
+  mobX: 2990.8757
+  activeNodeData:
+    aiStep: 1
+    pathStep: 16
+    pathCoordinatesList: '[203,177] [202,177] [201,177] [200,177] [199,176] [198,175]
+      [197,174] [196,173] [195,172] [194,171] [193,170] [192,169] [191,168] [190,167]
+      [189,166] [188,165] [187,164] [186,163] [185,162] [184,161] [183,160] [182,159]
+      [181,159] [180,159] [179,159] [178,159] [177,159] [176,159] [175,159] [174,159]
+      [173,159] [172,159] [171,159] [170,159] [169,159] [168,159] [167,159] [166,159]
+      [165,159] [164,159] [163,158] [162,157] [161,157] [160,157] [159,157] [158,157]
+      [157,157] [156,157] [155,157] [154,157] [153,156] [153,155]'
+    goalCoordinates: 203,177
+  hitPointsMax: 228
+  activeNodeName: AI_WANDER
+  dexterity: 49
+  firstName: Montgomery
+  currentVelocity: 0.2098
+  statusIconDelayTick: 531
+  baseVelocity: 0.2098
+  position: EAST
+  thirstMax: 100
+  tileX: 186
+  age: 3
+  energyMax: 100
+  tileY: 163
+mob93:
+  lastName: Ready
+  gender: FEMALE
+  strength: 107
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 118,127,190,255
+  colorLayers1: 151,121,97,255
+  colorLayers2: 62,0,187,255
+  workSpeedReductionBase: 10
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 2.3561945
+  hitPoints: 321
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 5
+  assignment: {
+    }
+  mobID: 1763
+  socialMax: 100
+  fullName: Inna Ready
+  mobY: 2613.1372
+  mobX: 2851.1243
+  activeNodeData:
+    aiStep: 1
+    pathStep: 1
+    pathCoordinatesList: '[177,165] [178,164] [179,163] [179,162] [179,161] [179,160]
+      [179,159]'
+    goalCoordinates: 177,165
+  hitPointsMax: 321
+  activeNodeName: AI_WANDER
+  dexterity: 93
+  firstName: Inna
+  currentVelocity: 0.2186
+  statusIconDelayTick: 276
+  baseVelocity: 0.2186
+  position: WEST
+  thirstMax: 100
+  tileX: 179
+  age: 9
+  energyMax: 100
+  tileY: 163
+mob92:
+  socialRateTick: 46
+  strength: 161
+  egg: 20
+  experience: 161
+  lastDamageCause: NONE
+  hitPoints: 483
+  hungerMax: 100
+  energy: 32
+  mobType: WILD_CLUCKER
+  level: 3
+  mobID: 137
+  socialMax: 100
+  eggMax: 100
+  hitPointsMax: 483
+  hunger: 59
+  agingRateTick: 35464
+  statusIconDelayTick: 494
+  position: EAST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 32957
+  energyMax: 100
+  thermalAdjustRateTick: 1822
+  gender: FEMALE
+  colorLayers0: 144,114,90,255
+  bodyTempMax: 100
+  energyDecayRateTick: 403
+  colorLayers3: 255,192,158,255
+  colorLayers4: 34,34,34,238
+  colorLayers1: 170,17,17,255
+  colorLayers2: 250,144,0,255
+  lifeExpectancy: 18
+  healthRegenRateTick: 103
+  workSpeedReductionBase: 10
+  mobGroup: ANIMAL
+  lastDamageType: REGULAR
+  alpha: 1.0
+  thirst: 38
+  social: 75
+  idle: true
+  assignment: {
+    }
+  fullName: Wild Clucker
+  hungerDecayRateTick: 1622
+  thirstDecayRateTick: 380
+  mobY: 2600.62
+  bodyTemp: 28
+  mobX: 3920.1921
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 49
+  baseVelocity: 0.97349995
+  tileX: 245
+  age: 14
+  tileY: 163
+  sleepDelayTick: 19
+mob91:
+  socialRateTick: 374
+  strength: 199
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 37
+  lastDamageCause: FROM_BLIGHT
+  socialPregnantDelayTick: 180000
+  hitPoints: 597
+  hungerMax: 100
+  energy: 32
+  mobType: ROUS
+  level: 3
+  mobID: 343
+  socialMax: 100
+  hostileMobGroups: MONSTER
+  hitPointsMax: 597
+  hunger: 73
+  agingRateTick: 89442
+  firstName: Chicken
+  statusIconDelayTick: 140
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 9121
+  energyMax: 100
+  lastName: ''
+  inventoryFoodSlotID: 22571
+  thermalAdjustRateTick: 1291
+  gender: MALE
+  colorLayers0: 96,64,51,255
+  bodyTempMax: 100
+  energyDecayRateTick: 1247
+  socialCoitusDelayTick: 50000
+  colorLayers3: 115,76,61,255
+  colorLayers4: 17,17,17,255
+  colorLayers1: 144,96,76,255
+  colorLayers2: 215,187,163,255
+  lifeExpectancy: 20
+  healthRegenRateTick: 968
+  workSpeedReductionBase: 10
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 139
+  lastDamageType: FROM_BLIGHT
+  alpha: 1.0
+  angle: 1.5707964
+  thirst: 58
+  social: 80
+  idle: true
+  assignment: {
+    }
+  fullName: Chicken
+  hungerDecayRateTick: 111
+  thirstDecayRateTick: 1111
+  mobY: 2584.3623
+  bodyTemp: 29
+  mobX: 2434.1245
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 11
+  baseVelocity: 0.9165
+  tileX: 152
+  age: 15
+  tileY: 162
+  sleepDelayTick: 6
+mob10:
+  socialRateTick: 424
+  strength: 138
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 537
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 414
+  hungerMax: 110
+  energy: 66
+  mobType: VILLAGER
+  level: 6
+  mobID: 1011
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 414
+  hunger: 33
+  agingRateTick: 77661
+  firstName: Radar
+  statusIconDelayTick: 160
+  thirstDrinkTimeTick: 23
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 2912
+  energyMax: 100
+  lastName: O'Reilly
+  inventoryShieldSlotID: 15458
+  thermalAdjustRateTick: 1023
+  gender: MALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 161
+  energyDecayRateTick: 704
+  socialCoitusDelayTick: 50000
+  colorLayers3: 17,17,51,255
+  colorLayers1: 141,74,67,255
+  workFindExtraResourcesLastX: 165
+  colorLayers2: 0,153,153,255
+  lifeExpectancy: 38
+  healthRegenRateTick: 117
+  workSpeedReductionBase: 11
+  mobGroup: VILLAGER
+  assignedHome: 103
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: -1.5707964
+  hungerStarvationRateTick: 167
+  workDelayTick: 77
+  mobJobType: BUILDER
+  inventoryMeleeWeaponSlotID: 6091
+  thirst: 68
+  social: 26
+  assignment:
+    primaryCoordinates: 120,38
+    primaryObjectID: '171'
+    primaryObjectName: $YEL1Makeshift Ballista Tower
+    assignmentType: REPAIRING
+  fullName: Radar O'Reilly
+  hungerDecayRateTick: 54
+  thirstDecayRateTick: 1546
+  mobY: 602.50494
+  bodyTemp: 37
+  mobX: 1920.0825
+  activeNodeData:
+    aiStep: 2
+    pathCompleted: true
+  activeNodeName: AI_REPAIR_WORK
+  dexterity: 87
+  baseVelocity: 0.7805
+  tileX: 120
+  age: 9
+  tileY: 38
+mob98:
+  socialRateTick: 466
+  strength: 179
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 242
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 537
+  hungerMax: 110
+  energy: 66
+  mobType: VILLAGER
+  level: 11
+  mobID: 8
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 537
+  hunger: 52
+  agingRateTick: 97209
+  firstName: Barry
+  statusIconDelayTick: 535
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 1224
+  energyMax: 100
+  lastName: Lacey
+  inventoryFoodSlotID: 22466
+  thermalAdjustRateTick: 1440
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 35
+  inventoryToolSlotID: 4242
+  energyDecayRateTick: 1267
+  socialCoitusDelayTick: 50000
+  colorLayers3: 0,170,0,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 118
+  colorLayers2: 91,32,255,255
+  lifeExpectancy: 38
+  healthRegenRateTick: 140
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 54
+  lastDamageType: FROM_DYSENTERY
+  angle: 1.5707964
+  hungerStarvationRateTick: 125
+  mobJobType: FLETCHER
+  inventoryMeleeWeaponSlotID: 6116
+  thirst: 100
+  social: 100
+  assignment:
+    primaryObjectID: '54'
+    primaryObjectName: $YEL1High Quality Housing
+    assignmentType: IN_HOME
+  fullName: Barry Lacey
+  hungerDecayRateTick: 882
+  thirstDecayRateTick: 701
+  mobY: 2648.6387
+  bodyTemp: 50
+  mobX: 2992.0974
+  activeNodeData:
+    aiStep: 1
+    drinking: true
+  insideHouse: true
+  mateID: 31
+  activeNodeName: AI_IN_HOME
+  dexterity: 171
+  baseVelocity: 0.9065
+  tileX: 187
+  age: 20
+  tileY: 166
+version: Release 1b
+mob97:
+  socialRateTick: 83
+  strength: 234
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 74
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 702
+  hungerMax: 100
+  energy: 36
+  mobType: BEEFALO
+  level: 4
+  mobID: 347
+  socialMax: 100
+  hostileMobGroups: MONSTER
+  hitPointsMax: 702
+  hunger: 52
+  agingRateTick: 52402
+  firstName: Winter
+  statusIconDelayTick: 570
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 7347
+  energyMax: 100
+  lastName: ''
+  inventoryFoodSlotID: 22144
+  thermalAdjustRateTick: 33
+  gender: FEMALE
+  colorLayers0: 202,200,191,255
+  bodyTempMax: 100
+  energyDecayRateTick: 1000
+  socialCoitusDelayTick: 50000
+  colorLayers3: 242,240,229,255
+  colorLayers4: 161,160,152,255
+  lifeExpectancy: 20
+  colorLayers5: 17,17,17,255
+  healthRegenRateTick: 815
+  workSpeedReductionBase: 12
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 139
+  lastDamageType: CRUSHING
+  alpha: 1.0
+  angle: 1.5707964
+  thirst: 34
+  social: 72
+  idle: true
+  assignment: {
+    }
+  fullName: Winter
+  hungerDecayRateTick: 2863
+  thirstDecayRateTick: 2220
+  mobY: 2616.7095
+  bodyTemp: 29
+  mobX: 2418.4414
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 11
+  baseVelocity: 0.9165
+  tileX: 151
+  age: 15
+  tileY: 164
+  sleepDelayTick: 2
+mob96:
+  lastName: Tarly
+  gender: MALE
+  strength: 107
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 0,170,0,255
+  colorLayers1: 9,8,6,255
+  colorLayers2: 91,32,0,255
+  workSpeedReductionBase: 11
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  hitPoints: 321
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 6
+  assignment: {
+    }
+  mobID: 1789
+  socialMax: 100
+  fullName: Samwell Tarly
+  mobY: 2616.1562
+  mobX: 2617.6768
+  activeNodeData:
+    aiStep: 1
+    pathStep: 11
+    pathCoordinatesList: '[175,163] [174,163] [173,163] [172,163] [171,164] [170,164]
+      [169,164] [168,164] [167,164] [166,164] [165,164] [164,164] [163,164] [162,164]
+      [161,164] [160,164] [159,164] [158,164] [157,163] [156,162] [155,162]'
+    goalCoordinates: 175,163
+  hitPointsMax: 321
+  activeNodeName: AI_WANDER
+  dexterity: 118
+  firstName: Samwell
+  currentVelocity: 0.2236
+  statusIconDelayTick: 322
+  baseVelocity: 0.2236
+  position: EAST
+  thirstMax: 100
+  tileX: 163
+  age: 8
+  energyMax: 100
+  tileY: 164
+mob95:
+  socialRateTick: 83
+  strength: 101
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 72
+  motherID: 4
+  lastDamageCause: NONE
+  hitPoints: 303
+  hungerMax: 110
+  energy: 52
+  mobType: CHILD
+  level: 6
+  mobID: 1858
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 303
+  hunger: 74
+  agingRateTick: 80180
+  firstName: Angelica
+  statusIconDelayTick: 87
+  fatherID: 4
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 1007
+  energyMax: 100
+  lastName: Valmont
+  thermalAdjustRateTick: 1494
+  gender: FEMALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  energyDecayRateTick: 100
+  colorLayers3: 47,49,93,255
+  colorLayers1: 83,61,50,255
+  colorLayers2: 110,113,216,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 223
+  workSpeedReductionBase: 9
+  mobGroup: VILLAGER
+  assignedHome: 54
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 3.1415927
+  thirst: 88
+  social: 104
+  assignment: {
+    }
+  fullName: Angelica Valmont
+  hungerDecayRateTick: 856
+  thirstDecayRateTick: 200
+  mobY: 2616.3499
+  bodyTemp: 50
+  mobX: 3029.4744
+  activeNodeData:
+    aiStep: 1
+    pathStep: 22
+    pathCoordinatesList: '[171,172] [171,173] [172,173] [173,173] [174,173] [175,173]
+      [176,172] [177,172] [177,171] [177,170] [178,169] [179,168] [179,167] [180,166]
+      [181,166] [182,165] [183,164] [184,164] [185,164] [186,164] [187,164] [188,164]
+      [189,164] [190,164] [191,164] [192,164] [193,164] [194,164]'
+    goalCoordinates: 171,172
+  activeNodeName: AI_WANDER
+  dexterity: 86
+  currentVelocity: 0.9204
+  baseVelocity: 0.9204
+  tileX: 190
+  age: 1
+  tileY: 164
+mob89:
+  lastName: Johnson
+  gender: FEMALE
+  strength: 87
+  colorLayers0: 34,187,187,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 118,127,190,255
+  colorLayers1: 34,221,221,255
+  colorLayers2: 62,0,187,255
+  colorLayers5: 34,170,170,255
+  workSpeedReductionBase: 11
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: -2.3561945
+  hitPoints: 261
+  hungerMax: 100
+  mobType: GHOST_CATJEET
+  noSelect: true
+  level: 6
+  assignment: {
+    }
+  mobID: 1650
+  socialMax: 100
+  fullName: Dakota Johnson
+  mobY: 2565.272
+  mobX: 2397.1555
+  activeNodeData:
+    aiStep: 1
+    pathCoordinatesList: '[149,160] [150,161] [151,162] [152,162]'
+    goalCoordinates: 149,160
+  hitPointsMax: 261
+  activeNodeName: AI_WANDER
+  dexterity: 138
+  firstName: Dakota
+  currentVelocity: 0.22760001
+  statusIconDelayTick: 157
+  baseVelocity: 0.22760001
+  position: WEST
+  thirstMax: 100
+  tileX: 150
+  age: 6
+  energyMax: 100
+  tileY: 161
+mob88:
+  lastName: Vicente
+  gender: MALE
+  strength: 165
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 0,170,0,255
+  colorLayers1: 220,208,186,255
+  colorLayers2: 91,32,255,255
+  workSpeedReductionBase: 13
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 1.5707964
+  hitPoints: 495
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 8
+  assignment: {
+    }
+  mobID: 1642
+  socialMax: 100
+  fullName: Gil Vicente
+  mobY: 2552.156
+  mobX: 2367.7656
+  activeNodeData:
+    aiStep: 1
+    pathStep: 13
+    pathCoordinatesList: '[154,173] [153,172] [153,171] [153,170] [152,169] [152,168]
+      [152,167] [151,166] [150,165] [149,164] [148,163] [148,162] [148,161] [148,160]
+      [148,159] [148,158] [148,157] [148,156] [148,155] [148,154] [148,153] [148,152]
+      [148,151] [148,150] [148,149] [148,148] [148,147] [148,146] [148,145] [148,144]
+      [148,143] [148,142] [148,141] [148,140] [147,139] [147,138] [146,137] [145,136]
+      [145,135] [145,134] [145,133] [145,132] [145,131] [145,130] [144,129] [143,128]
+      [142,127] [141,126] [141,125] [141,124] [141,123] [141,122] [140,121] [139,120]
+      [138,119] [137,118] [136,117] [135,116] [134,115] [133,114] [132,113] [132,112]
+      [132,111] [132,110] [132,109] [132,108] [132,107] [132,106] [132,105] [132,104]
+      [132,103] [132,102] [132,101] [132,100] [132,99] [132,98] [132,97] [132,96]
+      [132,95] [132,94] [132,93] [132,92] [132,91] [132,90] [132,89] [132,88] [132,87]
+      [132,86] [132,85] [132,84] [132,83] [132,82] [132,81] [132,80] [132,79] [132,78]
+      [133,77] [133,76] [133,75] [133,74] [134,73] [134,72] [135,71] [136,70] [136,69]
+      [136,68] [136,67] [136,66] [136,65] [136,64] [136,63] [136,62]'
+    goalCoordinates: 154,173
+  hitPointsMax: 495
+  activeNodeName: AI_WANDER
+  dexterity: 110
+  firstName: Gil
+  currentVelocity: 0.222
+  statusIconDelayTick: 211
+  baseVelocity: 0.222
+  position: SOUTH
+  thirstMax: 100
+  tileX: 148
+  age: 14
+  energyMax: 100
+  tileY: 159
+mob43:
+  thermalAdjustRateTick: 1223
+  strength: 54
+  decayTick: 7343
+  colorLayers0: 0,0,0,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  experience: 17
+  healthRegenRateTick: 21
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  lastDamageCause: COMBAT
+  lastDamageType: PIERCING
+  alpha: 1.0
+  angle: -1.5707964
+  hungerMax: 100
+  lastDamageMobID: 241
+  decaying: true
+  bleedingAmount: 3184
+  mobType: TRASHY_SLIME
+  level: 2
+  idle: true
+  assignment: {
+    }
+  mobID: 1974
+  socialMax: 100
+  fullName: Trashy Slime
+  mobY: 1754.912
+  bodyTemp: 49
+  mobX: 2848.139
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 162
+  activeNodeName: AI_DEATH
+  dexterity: 46
+  agingRateTick: 1223
+  statusIconDelayTick: 161
+  baseVelocity: 0.20092
+  thirstMax: 100
+  tileX: 178
+  energyMax: 100
+  tileY: 110
+mob42:
+  socialRateTick: 609
+  strength: 114
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 458
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 342
+  hungerMax: 110
+  energy: 40
+  mobType: VILLAGER
+  level: 6
+  mobID: 1422
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 342
+  hunger: 9
+  agingRateTick: 105462
+  firstName: Cecie
+  statusIconDelayTick: 505
+  position: EAST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 15311
+  energyMax: 100
+  lastName: Arner
+  inventoryFoodSlotID: 22116
+  thermalAdjustRateTick: 628
+  gender: FEMALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 98
+  energyDecayRateTick: 1471
+  socialCoitusDelayTick: 50000
+  colorLayers3: 118,127,190,255
+  colorLayers1: 83,61,50,255
+  workFindExtraResourcesLastX: 114
+  colorLayers2: 62,0,187,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 3
+  workSpeedReductionBase: 11
+  mobGroup: VILLAGER
+  assignedHome: 103
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  mobJobType: WATER_MASTER
+  inventoryMeleeWeaponSlotID: 11802
+  thirst: 39
+  social: 71
+  assignment:
+    primaryMobName: $BLU1Kurt Schrader
+    primaryMobID: '1253'
+  fullName: Cecie Arner
+  hungerDecayRateTick: 1397
+  thirstDecayRateTick: 91
+  mobY: 1752.5319
+  bodyTemp: 53
+  mobX: 2128.4512
+  activeNodeData:
+    aiStep: 3
+    pathStep: 1
+    pathCompleted: true
+    goalCoordinates: 134,111
+  activeNodeName: AI_CHAT
+  dexterity: 111
+  baseVelocity: 0.81649995
+  tileX: 133
+  age: 10
+  tileY: 110
+  sleepDelayTick: 11
+mob41:
+  lastName: Kimber
+  gender: FEMALE
+  strength: 106
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 229,200,168,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 9
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 2.3561945
+  hitPoints: 318
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 6
+  idle: true
+  assignment: {
+    }
+  mobID: 960
+  socialMax: 100
+  fullName: Oriana Kimber
+  mobY: 1752.0854
+  mobX: 2050.9539
+  activeNodeData: {
+    }
+  hitPointsMax: 318
+  activeNodeName: AI_START
+  dexterity: 93
+  firstName: Oriana
+  statusIconDelayTick: 428
+  baseVelocity: 0.2186
+  position: WEST
+  thirstMax: 100
+  tileX: 128
+  age: 6
+  energyMax: 100
+  tileY: 110
+mob40:
+  socialRateTick: 670
+  strength: 164
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 670
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 492
+  hungerMax: 110
+  energy: 42
+  mobType: VILLAGER
+  level: 10
+  mobID: 10
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 492
+  hunger: 59
+  agingRateTick: 83171
+  firstName: Jakub
+  statusIconDelayTick: 209
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 29572
+  energyMax: 100
+  lastName: Kyncl
+  thermalAdjustRateTick: 1361
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 106
+  carriedResourcesListIDs: 14671,4444,11588,12021,15056
+  energyDecayRateTick: 1492
+  socialCoitusDelayTick: 32098
+  colorLayers3: 119,119,119,255
+  colorLayers1: 181,82,57,255
+  workFindExtraResourcesLastX: 181
+  colorLayers2: 17,51,34,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 242
+  workSpeedReductionBase: 16
+  mobGroup: VILLAGER
+  assignedHome: 65
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 3.1415927
+  mobJobType: TRASHER
+  inventoryMeleeWeaponSlotID: 6067
+  thirst: 57
+  social: 42
+  assignment:
+    secondaryCoordinates: 181,107
+    deliveryObjectName: $YEL1Landfill
+    primaryCoordinates: 159,106
+    deliveryObjectID: '343'
+    assignmentType: DELIVERY
+  fullName: Jakub Kyncl
+  hungerDecayRateTick: 1878
+  thirstDecayRateTick: 846
+  mobY: 1690.919
+  bodyTemp: 44
+  mobX: 2780.0554
+  activeNodeData:
+    aiStep: 1
+    pathStep: 14
+    pathCoordinatesList: '[159,106] [160,106] [161,106] [162,106] [163,106] [164,106]
+      [165,106] [166,106] [167,106] [168,106] [169,106] [170,106] [171,106] [172,106]
+      [173,106] [174,106] [175,106] [176,106] [177,106] [178,106] [179,106] [180,106]
+      [181,107]'
+    goalCoordinates: 159,106
+  mateID: 1
+  activeNodeName: AI_STORE_RESOURCE_IN_HAND
+  dexterity: 161
+  currentVelocity: 0.71320003
+  baseVelocity: 0.8915
+  tileX: 174
+  age: 21
+  tileY: 106
+  sleepDelayTick: 10
+mob36:
+  lastName: Priest
+  gender: MALE
+  strength: 119
+  colorLayers0: 34,204,204,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 64,42,0,255
+  colorLayers1: 85,72,56,255
+  colorLayers2: 153,0,0,255
+  workSpeedReductionBase: 11
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 357
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 6
+  assignment: {
+    }
+  mobID: 1797
+  socialMax: 100
+  fullName: Jake Priest
+  mobY: 1640.0217
+  mobX: 2120.4175
+  activeNodeData:
+    aiStep: 1
+    pathStep: 3
+    pathCoordinatesList: '[129,101] [130,102] [131,103] [132,103] [133,103]'
+    goalCoordinates: 129,101
+  hitPointsMax: 357
+  activeNodeName: AI_WANDER
+  dexterity: 106
+  firstName: Jake
+  currentVelocity: 0.2212
+  statusIconDelayTick: 305
+  baseVelocity: 0.2212
+  position: WEST
+  thirstMax: 100
+  tileX: 133
+  age: 9
+  energyMax: 100
+  tileY: 103
+mob35:
+  strength: 115
+  colorLayers0: 221,221,221,255
+  bodyTempMax: 100
+  friendlyMobGroups: GOLEM,CHARMED_MONSTER,VILLAGER
+  colorLayers3: 0,0,0,255
+  colorLayers2: 102,102,102,255
+  workSpeedReductionBase: 7
+  mobGroup: GOLEM
+  assignedSpawn: 113
+  alpha: 1.0
+  hitPoints: 345
+  hungerMax: 100
+  mobType: STONE_GOLEM
+  level: 1
+  assignment:
+    primaryMobName: $RED1a Small Trashy Slime
+    primaryMobID: '1992'
+  mobID: 1988
+  socialMax: 100
+  fullName: Stone Golem
+  mobY: 1640.2195
+  mobX: 2320.1946
+  activeNodeData:
+    aiStep: 2
+    reattack: true
+    pathStep: 22
+    pathCoordinatesList: '[168,125] [167,124] [166,123] [165,122] [164,121] [163,120]
+      [162,119] [161,118] [160,117] [159,116] [158,115] [157,114] [156,114] [155,113]
+      [154,112] [153,111] [152,110] [151,109] [150,108] [149,107] [148,106] [147,105]
+      [146,104] [145,103] [144,103] [143,103] [142,103]'
+    goalCoordinates: 168,125
+  hostileMobGroups: MONSTER
+  hitPointsMax: 345
+  golemRequiresChargeAmount: 8207
+  activeNodeName: AI_COMBAT_MOBS
+  dexterity: 25
+  agingRateTick: 1793
+  statusIconDelayTick: 121
+  baseVelocity: 0.41500002
+  position: EAST
+  thirstMax: 100
+  tileX: 145
+  energyMax: 100
+  tileY: 103
+mob118:
+  socialRateTick: 61
+  strength: 183
+  egg: 80
+  experience: 158
+  lastDamageCause: EARTHQUAKE
+  hitPoints: 549
+  hungerMax: 100
+  energy: 39
+  mobType: WILD_CLUCKER
+  level: 4
+  mobID: 45
+  socialMax: 100
+  eggMax: 100
+  hitPointsMax: 549
+  hunger: 53
+  agingRateTick: 33607
+  statusIconDelayTick: 366
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 48572
+  energyMax: 100
+  inventoryFoodSlotID: 22579
+  thermalAdjustRateTick: 1564
+  gender: MALE
+  colorLayers0: 153,96,49,255
+  bodyTempMax: 100
+  energyDecayRateTick: 90
+  colorLayers3: 255,215,158,255
+  colorLayers4: 51,51,51,255
+  colorLayers1: 221,17,17,255
+  colorLayers2: 250,145,17,255
+  lifeExpectancy: 20
+  healthRegenRateTick: 553
+  workSpeedReductionBase: 12
+  mobGroup: ANIMAL
+  lastDamageType: CRUSHING
+  alpha: 1.0
+  angle: 1.5707964
+  thirst: 45
+  social: 46
+  idle: true
+  assignment: {
+    }
+  fullName: Wild Clucker
+  hungerDecayRateTick: 2438
+  thirstDecayRateTick: 2031
+  mobY: 3272.4436
+  bodyTemp: 28
+  mobX: 1839.982
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 62
+  baseVelocity: 0.993
+  tileX: 115
+  age: 15
+  tileY: 205
+  sleepDelayTick: 23
+mob34:
+  lastName: Erudit
+  gender: FEMALE
+  strength: 111
+  colorLayers0: 34,204,204,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 220,208,186,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 10
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: -2.3561945
+  hitPoints: 333
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 5
+  assignment: {
+    }
+  mobID: 1641
+  socialMax: 100
+  fullName: Sybille Erudit
+  mobY: 1639.2908
+  mobX: 1855.2056
+  activeNodeData:
+    aiStep: 1
+    pathStep: 1
+    pathCoordinatesList: '[114,101] [115,102] [116,103] [117,104] [118,105] [119,106]'
+    goalCoordinates: 114,101
+  hitPointsMax: 333
+  activeNodeName: AI_WANDER
+  dexterity: 89
+  firstName: Sybille
+  currentVelocity: 0.2178
+  statusIconDelayTick: 273
+  baseVelocity: 0.2178
+  position: WEST
+  thirstMax: 100
+  tileX: 116
+  age: 7
+  energyMax: 100
+  tileY: 103
+mob33:
+  lastName: Miller
+  gender: MALE
+  strength: 170
+  colorLayers0: 34,187,187,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 153,153,0,255
+  colorLayers1: 44,34,43,255
+  colorLayers2: 0,85,0,255
+  workSpeedReductionBase: 16
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 1.5707964
+  hitPoints: 510
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 10
+  assignment: {
+    }
+  mobID: 1624
+  socialMax: 100
+  fullName: Max Miller
+  mobY: 1630.7931
+  mobX: 2032.1187
+  activeNodeData:
+    aiStep: 1
+    pathStep: 2
+    pathCoordinatesList: '[129,105] [128,104] [127,103] [127,102] [127,101]'
+    goalCoordinates: 129,105
+  hitPointsMax: 510
+  activeNodeName: AI_WANDER
+  dexterity: 155
+  firstName: Max
+  currentVelocity: 0.231
+  statusIconDelayTick: 85
+  baseVelocity: 0.231
+  position: SOUTH
+  thirstMax: 100
+  tileX: 127
+  age: 11
+  energyMax: 100
+  tileY: 102
+mob39:
+  socialRateTick: 573
+  strength: 134
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 716
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 402
+  hungerMax: 110
+  energy: 74
+  mobType: VILLAGER
+  level: 7
+  mobID: 822
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 402
+  hunger: 31
+  agingRateTick: 23526
+  firstName: Winona
+  statusIconDelayTick: 430
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 24664
+  energyMax: 100
+  lastName: Ryder
+  thermalAdjustRateTick: 240
+  gender: FEMALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 169
+  inventoryToolSlotID: 14912
+  energyDecayRateTick: 608
+  socialCoitusDelayTick: 50000
+  colorLayers3: 0,170,255,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 160
+  colorLayers2: 91,32,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 354
+  workSpeedReductionBase: 12
+  mobGroup: VILLAGER
+  assignedHome: 103
+  lastDamageType: CRUSHING
+  angle: 3.1415927
+  mobJobType: CARPENTER
+  inventoryMeleeWeaponSlotID: 18561
+  thirst: 68
+  social: 14
+  assignment:
+    primaryObjectID: '103'
+    primaryObjectName: $YEL1Reinforced Standard Housing
+    assignmentType: IN_HOME
+  fullName: Winona Ryder
+  hungerDecayRateTick: 2185
+  thirstDecayRateTick: 172
+  mobY: 1690.3618
+  bodyTemp: 50
+  mobX: 2178.8
+  activeNodeData:
+    aiStep: 1
+  insideHouse: true
+  activeNodeName: AI_IN_HOME
+  dexterity: 116
+  baseVelocity: 0.824
+  tileX: 136
+  age: 12
+  tileY: 106
+mob38:
+  gender: MALE
+  strength: 84
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 106
+  carriedResourcesListIDs: '21161'
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 9
+  colorLayers4: 0,0,0,255
+  colorLayers1: 80,68,68,255
+  workFindExtraResourcesLastX: 14
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1568
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: 1.5707964
+  hitPoints: 252
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  assignment:
+    deliveryObjectName: $YEL1Corrupted Graveyard
+    primaryCoordinates: 15,159
+    deliveryObjectID: '344'
+    assignmentType: DELIVERY
+  mobID: 1975
+  socialMax: 100
+  fullName: Fourteen of Fifteen
+  mobY: 1689.2916
+  mobX: 226.78923
+  activeNodeData:
+    aiStep: 1
+    pathStep: 54
+    pathCoordinatesList: '[15,159] [15,158] [14,158] [13,158] [13,157] [13,156] [12,155]
+      [11,154] [10,153] [9,152] [9,151] [9,150] [10,149] [10,148] [10,147] [10,146]
+      [10,145] [10,144] [10,143] [10,142] [10,141] [10,140] [10,139] [9,138] [8,137]
+      [8,136] [7,135] [7,134] [7,133] [7,132] [7,131] [7,130] [7,129] [7,128] [7,127]
+      [7,126] [6,125] [6,124] [6,123] [6,122] [6,121] [6,120] [6,119] [7,118] [8,117]
+      [8,116] [9,115] [10,114] [11,113] [12,112] [13,111] [14,110] [14,109] [14,108]
+      [14,107] [14,106] [14,105] [14,104] [14,103] [14,102] [14,101] [15,100] [15,99]
+      [15,98] [15,97] [15,96] [15,95] [15,94] [15,93] [15,92] [16,91] [17,91] [17,90]
+      [17,89] [18,88] [19,88] [20,88] [21,88] [22,88] [23,87] [23,86] [23,85] [23,84]
+      [24,84] [25,84] [26,84] [27,84] [28,83] [28,82] [28,81] [28,80] [28,79] [28,78]
+      [28,77] [28,76] [28,75] [28,74] [28,73] [28,72] [28,71] [28,70] [28,69] [28,68]
+      [28,67] [28,66] [28,65] [28,64] [29,63] [30,63] [31,62] [32,62] [33,62] [34,62]
+      [35,62] [36,62] [37,62] [38,62] [39,62] [40,62] [41,62] [42,62] [43,62] [44,62]
+      [45,62] [46,62] [47,62] [48,62] [49,62] [50,62] [51,62] [52,62] [53,62] [54,62]
+      [55,62] [56,62] [57,61] [58,60] [59,60] [60,60] [61,60] [62,59] [63,60] [64,60]
+      [65,60] [66,61] [67,61] [68,61] [69,61] [70,61] [71,61] [72,61] [73,61] [74,61]'
+    goalCoordinates: 15,159
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 252
+  activeNodeName: AI_CORRUPTION_DELIVER_RESOURCE_IN_HAND
+  dexterity: 36
+  agingRateTick: 7571
+  currentVelocity: 0.2016
+  statusIconDelayTick: 362
+  baseVelocity: 0.504
+  position: SOUTH
+  thirstMax: 100
+  tileX: 14
+  energyMax: 100
+  tileY: 106
+mob37:
+  socialRateTick: 825
+  strength: 162
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 421
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 486
+  hungerMax: 110
+  energy: 60
+  mobType: VILLAGER
+  level: 9
+  mobID: 58
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 486
+  hunger: 26
+  agingRateTick: 69428
+  firstName: Marianne
+  statusIconDelayTick: 412
+  thirstDrinkTimeTick: 7
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 5600
+  energyMax: 100
+  lastName: Rubio
+  thermalAdjustRateTick: 1580
+  gender: FEMALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 175
+  inventoryToolSlotID: 3864
+  energyDecayRateTick: 130
+  socialCoitusDelayTick: 50000
+  colorLayers1: 229,200,168,255
+  workFindExtraResourcesLastX: 155
+  colorLayers2: 255,0,0,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 321
+  workSpeedReductionBase: 15
+  mobGroup: VILLAGER
+  assignedHome: 53
+  lastDamageType: BLIGHT
+  alpha: 1.0
+  angle: 1.5707964
+  hungerStarvationRateTick: 375
+  mobJobType: MEDIC
+  inventoryMeleeWeaponSlotID: 6086
+  thirst: 29
+  social: 45
+  assignment:
+    primaryCoordinates: 120,105
+    primaryObjectID: '92'
+    primaryObjectName: $YEL1Makeshift Clinic
+    assignmentType: MEDIC_WORK
+  fullName: Marianne Rubio
+  hungerDecayRateTick: 166
+  thirstDecayRateTick: 662
+  mobY: 1650.1101
+  bodyTemp: 28
+  mobX: 1906.7782
+  activeNodeData:
+    aiStep: 3
+    pathStep: 4
+    pathCoordinatesList: '[121,104] [121,105] [120,105] [119,105] [119,104] [119,103]
+      [119,102] [119,101] [120,101] [121,101] [122,101] [122,102]'
+    goalCoordinates: 121,104
+  activeNodeName: AI_MEDIC_WORK
+  dexterity: 138
+  currentVelocity: 0.857
+  baseVelocity: 0.857
+  tileX: 119
+  age: 18
+  tileY: 103
+mob111:
+  lastName: Greene
+  gender: FEMALE
+  strength: 66
+  colorLayers0: 34,204,204,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 47,49,93,255
+  colorLayers1: 9,8,6,255
+  colorLayers2: 110,113,216,255
+  workSpeedReductionBase: 7
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 198
+  hungerMax: 100
+  mobType: GHOST_CHILD
+  noSelect: true
+  level: 3
+  assignment: {
+    }
+  mobID: 393
+  socialMax: 100
+  fullName: Ashley Greene
+  mobY: 2794.8645
+  mobX: 3298.1487
+  activeNodeData:
+    aiStep: 1
+    pathStep: 52
+    pathCoordinatesList: '[153,160] [154,160] [155,161] [156,162] [157,163] [158,164]
+      [159,165] [160,165] [161,165] [162,166] [163,167] [164,168] [165,169] [166,170]
+      [167,171] [168,172] [169,173] [170,173] [171,173] [172,173] [173,173] [174,173]
+      [175,173] [176,173] [177,173] [178,173] [179,173] [180,173] [181,173] [182,173]
+      [183,173] [184,173] [185,173] [186,173] [187,173] [188,173] [189,173] [190,173]
+      [191,173] [192,173] [193,173] [194,173] [195,173] [196,173] [197,173] [198,173]
+      [199,173] [200,173] [201,173] [202,173] [203,174] [204,175] [205,175] [206,175]
+      [207,175] [208,176] [209,177]'
+    goalCoordinates: 153,160
+  hitPointsMax: 198
+  activeNodeName: AI_WANDER
+  dexterity: 84
+  firstName: Ashley
+  currentVelocity: 0.2168
+  statusIconDelayTick: 70
+  baseVelocity: 0.2168
+  position: WEST
+  thirstMax: 100
+  tileX: 206
+  age: 2
+  energyMax: 100
+  tileY: 175
+mob110:
+  socialRateTick: 542
+  strength: 267
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 830
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 801
+  hungerMax: 110
+  energy: 52
+  mobType: VILLAGER
+  level: 17
+  mobID: 327
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 801
+  hunger: 62
+  agingRateTick: 82494
+  firstName: Katherine
+  statusIconDelayTick: 180
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 10719
+  energyMax: 100
+  lastName: Pettigrew
+  thermalAdjustRateTick: 724
+  gender: FEMALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 173
+  carriedResourcesListIDs: 22628,22615
+  inventoryToolSlotID: 19076
+  energyDecayRateTick: 582
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,0,255
+  colorLayers1: 80,68,68,255
+  workFindExtraResourcesLastX: 202
+  colorLayers2: 0,85,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 356
+  workSpeedReductionBase: 25
+  mobGroup: VILLAGER
+  assignedHome: 53
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 1.5707964
+  mobJobType: FARMER
+  inventoryMeleeWeaponSlotID: 4246
+  thirst: 41
+  social: 24
+  assignment:
+    secondaryCoordinates: 180,144
+    deliveryObjectName: $YEL1Established Farm
+    primaryCoordinates: 201,177
+    deliveryObjectID: '70'
+    assignmentType: DELIVERY
+  fullName: Katherine Pettigrew
+  hungerDecayRateTick: 308
+  thirstDecayRateTick: 1184
+  mobY: 2765.0178
+  bodyTemp: 38
+  mobX: 3232.2532
+  activeNodeData:
+    aiStep: 1
+    pathStep: 3
+    pathCoordinatesList: '[201,177] [201,176] [202,175] [202,174] [202,173] [202,172]
+      [201,171] [200,170] [199,169] [198,168] [197,167] [196,166] [195,165] [194,164]
+      [193,164] [192,163] [191,162] [190,161] [189,161] [188,160] [188,159] [188,158]
+      [188,157] [187,156] [186,155] [186,154] [185,153] [184,152] [183,151] [182,150]
+      [181,149] [180,148] [180,147] [180,146] [180,145] [180,144]'
+    goalCoordinates: 201,177
+  mateID: 333
+  activeNodeName: AI_STORE_RESOURCE_IN_HAND
+  dexterity: 233
+  currentVelocity: 0.7996
+  inventoryRangedWeaponSlotID: 6093
+  baseVelocity: 0.9995
+  tileX: 202
+  age: 17
+  tileY: 173
+  sleepDelayTick: 21
+mob113:
+  socialRateTick: 376
+  strength: 138
+  egg: 40
+  experience: 76
+  lastDamageCause: NONE
+  hitPoints: 414
+  hungerMax: 100
+  energy: 26
+  mobType: WILD_CLUCKER
+  level: 2
+  mobID: 138
+  socialMax: 100
+  eggMax: 100
+  hitPointsMax: 414
+  hunger: 44
+  agingRateTick: 1411
+  statusIconDelayTick: 279
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 42495
+  energyMax: 100
+  thermalAdjustRateTick: 1822
+  gender: MALE
+  colorLayers0: 53,33,19,255
+  bodyTempMax: 100
+  energyDecayRateTick: 1207
+  colorLayers3: 255,233,158,255
+  colorLayers4: 17,17,17,221
+  colorLayers1: 255,17,17,255
+  colorLayers2: 250,145,17,255
+  lifeExpectancy: 20
+  healthRegenRateTick: 103
+  workSpeedReductionBase: 8
+  mobGroup: ANIMAL
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 2.3561945
+  thirst: 45
+  social: 31
+  assignment: {
+    }
+  fullName: Wild Clucker
+  hungerDecayRateTick: 2426
+  thirstDecayRateTick: 1726
+  mobY: 2856.3396
+  bodyTemp: 28
+  mobX: 2915.2542
+  activeNodeData:
+    aiStep: 1
+    pathStep: 2
+    pathCoordinatesList: '[180,181] [181,180] [182,179] [183,178] [184,177] [185,176]
+      [186,175] [187,175]'
+    goalCoordinates: 180,181
+  activeNodeName: AI_WANDER
+  dexterity: 37
+  currentVelocity: 0.7644
+  baseVelocity: 0.9555
+  tileX: 183
+  age: 14
+  tileY: 178
+  sleepDelayTick: 1
+mob112:
+  socialRateTick: 430
+  strength: 173
+  egg: 40
+  experience: 107
+  lastDamageCause: DEHYDRATION
+  hitPoints: 519
+  hungerMax: 100
+  energy: 30
+  mobType: WILD_CLUCKER
+  level: 3
+  mobID: 132
+  socialMax: 100
+  eggMax: 100
+  hitPointsMax: 519
+  hunger: 57
+  agingRateTick: 124416
+  statusIconDelayTick: 378
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 44183
+  energyMax: 100
+  thermalAdjustRateTick: 1933
+  gender: MALE
+  colorLayers0: 202,194,158,255
+  bodyTempMax: 100
+  energyDecayRateTick: 1311
+  colorLayers3: 255,176,158,255
+  colorLayers4: 51,51,51,255
+  colorLayers1: 221,17,17,255
+  colorLayers2: 250,145,17,255
+  lifeExpectancy: 18
+  healthRegenRateTick: 145
+  workSpeedReductionBase: 10
+  mobGroup: ANIMAL
+  lastDamageType: NUTRIENTS
+  alpha: 1.0
+  angle: 1.5707964
+  thirstDehydrationRateTick: 488
+  thirst: 35
+  social: 72
+  idle: true
+  assignment: {
+    }
+  fullName: Wild Clucker
+  hungerDecayRateTick: 4536
+  thirstDecayRateTick: 576
+  mobY: 2824.5852
+  bodyTemp: 28
+  mobX: 2930.638
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 37
+  baseVelocity: 0.9555
+  tileX: 183
+  age: 12
+  tileY: 177
+  sleepDelayTick: 1
+mob115:
+  socialRateTick: 12
+  strength: 89
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 73
+  motherID: 0
+  lastDamageCause: NONE
+  hitPoints: 267
+  hungerMax: 110
+  energy: 68
+  mobType: CHILD
+  level: 5
+  mobID: 1843
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 267
+  hunger: 73
+  agingRateTick: 88040
+  firstName: Duncan
+  statusIconDelayTick: 414
+  fatherID: 9
+  position: EAST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 304
+  energyMax: 100
+  lastName: Berruguete
+  inventoryFoodSlotID: 22649
+  thermalAdjustRateTick: 65
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  energyDecayRateTick: 953
+  colorLayers3: 47,49,93,255
+  colorLayers1: 202,191,177,255
+  colorLayers2: 110,113,216,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 196
+  workSpeedReductionBase: 8
+  mobGroup: VILLAGER
+  assignedHome: 56
+  lastDamageType: REGULAR
+  alpha: 1.0
+  thirst: 91
+  social: 77
+  idle: true
+  assignment: {
+    }
+  fullName: Duncan Berruguete
+  hungerDecayRateTick: 836
+  thirstDecayRateTick: 408
+  mobY: 2922.5188
+  bodyTemp: 44
+  mobX: 3376.045
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 86
+  baseVelocity: 0.9204
+  tileX: 211
+  age: 1
+  tileY: 183
+mob114:
+  socialRateTick: 761
+  strength: 176
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 32
+  socialPregnantCount: 2
+  lastDamageCause: STARVATION
+  socialPregnantDelayTick: 180000
+  hitPoints: 580
+  hungerMax: 110
+  energy: 44
+  mobType: VILLAGER
+  level: 11
+  mobID: 332
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 580
+  hunger: 65
+  agingRateTick: 101276
+  firstName: Sienna
+  statusIconDelayTick: 244
+  thirstDrinkTimeTick: 18
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 44338
+  energyMax: 100
+  lastName: Miller
+  inventoryShieldSlotID: 8014
+  thermalAdjustRateTick: 1424
+  gender: FEMALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 175
+  inventoryToolSlotID: 18564
+  energyDecayRateTick: 300
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,0,255
+  colorLayers1: 106,78,66,255
+  workFindExtraResourcesLastX: 204
+  colorLayers2: 0,85,0,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 375
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 56
+  lastDamageType: NUTRIENTS
+  alpha: 1.0
+  angle: -1.5707964
+  hungerStarvationRateTick: 442
+  mobJobType: FARMER
+  inventoryMeleeWeaponSlotID: 6108
+  thirst: 45
+  social: 69
+  idle: true
+  assignment: {
+    }
+  fullName: Sienna Miller
+  hungerDecayRateTick: 1299
+  thirstDecayRateTick: 48
+  mobY: 2906.4497
+  bodyTemp: 34
+  mobX: 3504.872
+  activeNodeData: {
+    }
+  mateID: 32
+  activeNodeName: AI_START
+  dexterity: 174
+  baseVelocity: 0.911
+  tileX: 219
+  age: 14
+  tileY: 182
+mob117:
+  socialRateTick: 243
+  strength: 157
+  egg: 80
+  experience: 157
+  lastDamageCause: FROM_BLIGHT
+  hitPoints: 471
+  hungerMax: 100
+  energy: 27
+  mobType: WILD_CLUCKER
+  level: 3
+  mobID: 54
+  socialMax: 100
+  eggMax: 100
+  hitPointsMax: 471
+  hunger: 35
+  agingRateTick: 94340
+  statusIconDelayTick: 547
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 8621
+  energyMax: 100
+  thermalAdjustRateTick: 1362
+  gender: MALE
+  colorLayers0: 53,33,19,255
+  bodyTempMax: 100
+  energyDecayRateTick: 96
+  colorLayers3: 255,233,158,255
+  colorLayers4: 34,34,34,238
+  colorLayers1: 170,17,17,255
+  colorLayers2: 250,144,0,255
+  lifeExpectancy: 19
+  healthRegenRateTick: 1094
+  confusedTarget: 222,197
+  workSpeedReductionBase: 10
+  mobGroup: ANIMAL
+  lastDamageType: FROM_BLIGHT
+  alpha: 1.0
+  angle: 2.3561945
+  thirst: 40
+  social: 66
+  idle: true
+  assignment: {
+    }
+  fullName: Wild Clucker
+  hungerDecayRateTick: 424
+  thirstDecayRateTick: 2417
+  mobY: 3192.1174
+  bodyTemp: 29
+  mobX: 3586.7092
+  activeNodeData:
+    pathCompleted: true
+  activeNodeName: AI_CONFUSED
+  dexterity: 53
+  baseVelocity: 0.9795
+  tileX: 224
+  age: 14
+  tileY: 200
+  sleepDelayTick: 16
+mob116:
+  socialRateTick: 479
+  strength: 154
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 746
+  socialPregnantCount: 2
+  lastDamageCause: FROM_POISON
+  socialPregnantDelayTick: 180000
+  hitPoints: 462
+  hungerMax: 110
+  energy: 54
+  mobType: VILLAGER
+  level: 9
+  mobID: 0
+  socialMax: 105
+  ownerID: 16
+  hostileMobGroups: MONSTER
+  hitPointsMax: 462
+  hunger: 55
+  agingRateTick: 70993
+  firstName: Jadzia
+  statusIconDelayTick: 124
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 38983
+  energyMax: 100
+  lastName: Berruguete
+  thermalAdjustRateTick: 598
+  gender: FEMALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 184
+  carriedResourcesListIDs: '22620'
+  energyDecayRateTick: 1336
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,153,255
+  colorLayers1: 202,191,177,255
+  workFindExtraResourcesLastX: 219
+  colorLayers2: 221,221,221,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 43
+  workSpeedReductionBase: 15
+  mobGroup: VILLAGER
+  assignedHome: 56
+  lastDamageType: FROM_POISON
+  alpha: 1.0
+  angle: 1.5707964
+  hungerStarvationRateTick: 337
+  mobJobType: COOK
+  inventoryMeleeWeaponSlotID: 6090
+  thirst: 67
+  social: 85
+  assignment:
+    deliveryObjectName: $YEL1Makeshift Kitchen
+    primaryCoordinates: 152,155
+    deliveryObjectID: '63'
+    assignmentType: DELIVERY
+  fullName: Jadzia Berruguete
+  hungerDecayRateTick: 2011
+  thirstDecayRateTick: 816
+  mobY: 2951.783
+  bodyTemp: 36
+  mobX: 3504.2642
+  activeNodeData:
+    aiStep: 1
+    pathStep: 74
+    pathCoordinatesList: '[152,155] [152,156] [153,157] [154,157] [155,157] [156,158]
+      [157,159] [157,160] [157,161] [157,162] [157,163] [157,164] [157,165] [158,166]
+      [159,166] [160,166] [161,166] [162,166] [163,166] [164,166] [165,166] [166,166]
+      [167,166] [168,166] [169,166] [170,167] [171,168] [172,168] [173,168] [174,168]
+      [175,168] [176,168] [177,168] [178,169] [179,170] [180,170] [181,170] [182,171]
+      [183,172] [184,173] [185,174] [186,175] [187,176] [188,177] [189,177] [190,177]
+      [191,177] [192,177] [193,177] [194,177] [195,177] [196,177] [197,177] [198,178]
+      [199,179] [200,180] [201,181] [202,182] [203,183] [204,184] [205,185] [206,185]
+      [207,185] [208,185] [209,185] [210,185] [211,185] [212,185] [213,185] [214,185]
+      [215,185] [216,185] [217,185] [218,185] [219,185] [219,184] [219,183] [218,183]'
+    goalCoordinates: 152,155
+  mateID: 9
+  socialChildFatherID: 9
+  activeNodeName: AI_STORE_RESOURCE_IN_HAND
+  dexterity: 146
+  currentVelocity: 0.69519997
+  inventoryRangedWeaponSlotID: 6070
+  baseVelocity: 0.86899996
+  tileX: 219
+  age: 22
+  tileY: 184
+  sleepDelayTick: 16
+mob32:
+  gender: FEMALE
+  strength: 83
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 158
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 89
+  colorLayers4: 0,0,0,255
+  colorLayers1: 145,85,61,255
+  workFindExtraResourcesLastX: 13
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 744
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -1.5707964
+  hitPoints: 249
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 76,19
+    pickupResourceIDs: '21765'
+    primaryCoordinates: 76,19
+    assignmentType: BUILDING_ROAD
+  mobID: 1922
+  socialMax: 100
+  fullName: Fourteen of Fourteen
+  mobY: 1629.9137
+  mobX: 208.25465
+  activeNodeData:
+    aiStep: 1
+    pathStep: 123
+    pathCoordinatesList: '[76,19] [75,19] [74,19] [73,20] [73,21] [73,22] [73,23]
+      [73,24] [72,25] [71,25] [70,25] [69,25] [68,26] [67,27] [66,27] [65,28] [64,29]
+      [64,30] [64,31] [64,32] [63,33] [62,33] [61,34] [60,34] [59,35] [58,35] [57,35]
+      [56,35] [55,35] [54,35] [53,35] [52,36] [52,37] [52,38] [51,39] [51,40] [51,41]
+      [51,42] [51,43] [51,44] [51,45] [51,46] [51,47] [51,48] [51,49] [51,50] [51,51]
+      [51,52] [51,53] [50,54] [49,54] [48,54] [48,55] [48,56] [48,57] [47,58] [46,58]
+      [45,58] [44,58] [43,59] [43,60] [43,61] [42,61] [41,61] [40,61] [39,62] [38,62]
+      [37,62] [36,62] [35,62] [34,62] [33,62] [32,62] [31,63] [30,63] [29,63] [28,64]
+      [28,65] [28,66] [28,67] [28,68] [28,69] [28,70] [28,71] [28,72] [28,73] [28,74]
+      [28,75] [28,76] [28,77] [28,78] [28,79] [28,80] [28,81] [28,82] [28,83] [27,84]
+      [26,84] [25,84] [24,84] [23,84] [23,85] [23,86] [23,87] [22,88] [21,88] [20,88]
+      [19,88] [18,88] [17,89] [17,90] [17,91] [16,91] [15,92] [14,93] [13,94] [12,95]
+      [12,96] [12,97] [12,98] [12,99] [12,100] [13,101] [13,102] [13,103] [13,104]
+      [13,105] [12,106] [12,107] [11,108] [10,109] [10,110] [9,111] [9,112] [9,113]
+      [8,114] [7,115] [7,116] [7,117] [6,118] [6,119] [6,120] [6,121] [6,122] [6,123]
+      [6,124] [7,125] [7,126] [7,127] [7,128] [7,129] [7,130] [7,131] [7,132] [7,133]
+      [7,134] [7,135] [7,136] [7,137] [7,138] [7,139] [7,140] [7,141] [7,142] [6,143]'
+    goalCoordinates: 76,19
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 249
+  activeNodeName: AI_CORRUPTION_ROAD_WORK
+  dexterity: 37
+  agingRateTick: 38763
+  currentVelocity: 0.50549996
+  statusIconDelayTick: 591
+  baseVelocity: 0.50549996
+  diesSlowlyRateTick: 164
+  thirstMax: 100
+  tileX: 13
+  energyMax: 100
+  tileY: 103
+mob31:
+  socialRateTick: 494
+  strength: 116
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 26
+  lastDamageCause: FROM_BLIGHT
+  socialPregnantDelayTick: 180000
+  hitPoints: 382
+  hungerMax: 110
+  energy: 59
+  mobType: VILLAGER
+  level: 6
+  mobID: 1256
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 382
+  hunger: 48
+  agingRateTick: 34582
+  firstName: Samuel
+  statusIconDelayTick: 72
+  position: WEST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 33184
+  energyMax: 100
+  lastName: Erudit
+  thermalAdjustRateTick: 1400
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 175
+  inventoryToolSlotID: 10010
+  energyDecayRateTick: 636
+  socialCoitusDelayTick: 50000
+  colorLayers3: 0,170,255,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 155
+  colorLayers2: 91,32,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 240
+  workSpeedReductionBase: 11
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: FROM_BLIGHT
+  angle: 3.1415927
+  mobJobType: CARPENTER
+  inventoryMeleeWeaponSlotID: 18565
+  thirst: 105
+  social: 29
+  assignment:
+    primaryObjectID: '134'
+    primaryObjectName: $YEL1Established Standard Housing
+    assignmentType: IN_HOME
+  fullName: Samuel Erudit
+  hungerDecayRateTick: 668
+  thirstDecayRateTick: 908
+  mobY: 1546.4714
+  bodyTemp: 50
+  mobX: 2210.6746
+  activeNodeData:
+    aiStep: 1
+    drinking: true
+  insideHouse: true
+  activeNodeName: AI_IN_HOME
+  dexterity: 109
+  baseVelocity: 0.8135
+  tileX: 138
+  age: 9
+  tileY: 97
+  sleepDelayTick: 23
+mob30:
+  gender: FEMALE
+  strength: 86
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  colorLayers4: 0,0,0,255
+  colorLayers1: 145,85,61,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1695
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: TOWER
+  lastDamageType: MAGIC_REGULAR
+  alpha: 1.0
+  angle: 1.5707964
+  hitPoints: 17
+  hungerMax: 100
+  lastDamageObjectID: 176
+  bleedingAmount: 2759
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 44,104
+    primaryCoordinates: 44,103
+    primaryObjectID: '176'
+    primaryObjectName: $YEL1Elemental Bolt Tower
+    assignmentType: COMBAT
+  mobID: 1989
+  socialMax: 100
+  fullName: Nine of Eleven
+  mobY: 1522.5577
+  mobX: 769.06537
+  activeNodeData:
+    aiStep: 2
+    pathStep: 7
+    pathCoordinatesList: '[44,103] [45,102] [46,101] [46,100] [46,99] [47,98] [48,97]
+      [48,96] [48,95]'
+    goalCoordinates: 44,103
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 258
+  activeNodeName: AI_COMBAT_BUILDINGS
+  dexterity: 34
+  agingRateTick: 1695
+  currentVelocity: 0.3006
+  statusIconDelayTick: 62
+  baseVelocity: 0.501
+  diesSlowlyRateTick: 117
+  position: SOUTH
+  thirstMax: 100
+  tileX: 48
+  energyMax: 100
+  tileY: 95
+mob25:
+  gender: MALE
+  strength: 84
+  decayTick: 1696
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 151
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  experience: 161
+  colorLayers4: 0,0,0,255
+  colorLayers1: 85,72,56,255
+  workFindExtraResourcesLastX: 28
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 141
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -0.7853982
+  hungerMax: 100
+  decaying: true
+  bleedingAmount: 2626
+  mobType: DRONE
+  level: 4
+  assignment: {
+    }
+  mobID: 1807
+  socialMax: 100
+  fullName: Fifteen of Fifteen
+  mobY: 1429.4597
+  mobX: 1173.566
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 252
+  activeNodeName: AI_DEATH
+  dexterity: 21
+  agingRateTick: 102192
+  statusIconDelayTick: 393
+  baseVelocity: 0.4815
+  diesSlowlyRateTick: 181
+  position: EAST
+  thirstMax: 100
+  tileX: 73
+  age: 1
+  energyMax: 100
+  tileY: 90
+mob24:
+  gender: FEMALE
+  strength: 80
+  decayTick: 2319
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 157
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 185
+  colorLayers4: 0,0,0,255
+  colorLayers1: 113,99,90,255
+  workFindExtraResourcesLastX: 14
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1204
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -0.7853982
+  hungerMax: 100
+  decaying: true
+  bleedingAmount: 2435
+  mobType: DRONE
+  level: 5
+  assignment: {
+    }
+  mobID: 1924
+  socialMax: 100
+  fullName: Thirteen of Sixteen
+  mobY: 1416.558
+  mobX: 1202.484
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 240
+  activeNodeName: AI_DEATH
+  dexterity: 40
+  agingRateTick: 35221
+  statusIconDelayTick: 442
+  baseVelocity: 0.51
+  position: EAST
+  thirstMax: 100
+  tileX: 75
+  energyMax: 100
+  tileY: 89
+mob23:
+  thermalAdjustRateTick: 804
+  strength: 86
+  decayTick: 3373
+  colorLayers0: 0,153,68,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  healthRegenRateTick: 203
+  workSpeedReductionBase: 8
+  mobGroup: MONSTER
+  lastDamageCause: TOWER
+  lastDamageType: MAGIC_REGULAR
+  alpha: 0.9
+  angle: -0.7853982
+  hungerMax: 100
+  lastDamageObjectID: 205
+  decaying: true
+  bleedingAmount: 2556
+  mobType: SMALL_SLIME
+  level: 8
+  idle: true
+  assignment: {
+    }
+  mobID: 1983
+  socialMax: 100
+  fullName: Small Slime
+  mobY: 1413.8342
+  bodyTemp: 48
+  mobX: 1189.1431
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 258
+  activeNodeName: AI_DEATH
+  dexterity: 79
+  agingRateTick: 804
+  statusIconDelayTick: 238
+  baseVelocity: 0.20158
+  position: EAST
+  thirstMax: 100
+  tileX: 74
+  energyMax: 100
+  tileY: 89
+mob22:
+  gender: MALE
+  strength: 84
+  decayTick: 7572
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 161
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 48
+  colorLayers4: 0,0,0,255
+  colorLayers1: 151,121,97,255
+  workFindExtraResourcesLastX: 13
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1606
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -0.7853982
+  hungerMax: 100
+  decaying: true
+  bleedingAmount: 2636
+  mobType: DRONE
+  level: 6
+  assignment: {
+    }
+  mobID: 1759
+  socialMax: 100
+  fullName: Fifteen of Fifteen
+  mobY: 1411.6039
+  mobX: 1191.3837
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 252
+  activeNodeName: AI_DEATH
+  dexterity: 51
+  agingRateTick: 125668
+  statusIconDelayTick: 125
+  baseVelocity: 0.5265
+  diesSlowlyRateTick: 159
+  position: EAST
+  thirstMax: 100
+  tileX: 74
+  age: 1
+  energyMax: 100
+  tileY: 89
+mob29:
+  strength: 150
+  bodyTempMax: 100
+  friendlyMobGroups: GOLEM,CHARMED_MONSTER,VILLAGER
+  colorLayers3: 0,0,0,255
+  experience: 93
+  colorLayers1: 238,238,238,255
+  colorLayers2: 136,136,136,255
+  workSpeedReductionBase: 8
+  mobGroup: GOLEM
+  assignedSpawn: 113
+  alpha: 1.0
+  angle: 0.7853982
+  hitPoints: 450
+  hungerMax: 100
+  mobType: STONE_GOLEM
+  level: 2
+  assignment:
+    primaryMobName: $RED1a Small Trashy Slime
+    primaryMobID: '1992'
+  mobID: 1960
+  socialMax: 100
+  fullName: Stone Golem
+  mobY: 1505.2794
+  mobX: 1913.0901
+  activeNodeData:
+    aiStep: 2
+    reattack: true
+    pathStep: 48
+    pathCoordinatesList: '[168,125] [167,124] [166,123] [165,122] [164,121] [163,120]
+      [162,119] [161,118] [160,117] [159,116] [158,115] [157,114] [156,114] [155,113]
+      [154,112] [153,111] [152,110] [151,109] [150,108] [149,107] [148,106] [147,105]
+      [146,104] [145,103] [144,102] [143,102] [142,101] [141,101] [140,101] [139,101]
+      [138,101] [137,100] [136,99] [135,99] [134,99] [133,99] [132,98] [131,98] [130,98]
+      [129,98] [128,98] [127,98] [126,98] [125,97] [124,96] [123,96] [122,96] [121,96]
+      [120,95] [119,94] [118,94] [117,93]'
+    goalCoordinates: 168,125
+  hostileMobGroups: MONSTER
+  hitPointsMax: 450
+  golemRequiresChargeAmount: 8006
+  activeNodeName: AI_COMBAT_MOBS
+  dexterity: 25
+  agingRateTick: 21993
+  currentVelocity: 0.41500002
+  statusIconDelayTick: 388
+  baseVelocity: 0.41500002
+  position: EAST
+  thirstMax: 100
+  tileX: 119
+  energyMax: 100
+  tileY: 94
+mobLastID: 1993
+mob28:
+  gender: FEMALE
+  strength: 72
+  decayTick: 6456
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 160
+  dead: true
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 84
+  colorLayers4: 0,0,0,255
+  colorLayers1: 145,85,61,255
+  workFindExtraResourcesLastX: 19
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1415
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -2.3561945
+  hungerMax: 100
+  decaying: true
+  bleedingAmount: 3285
+  mobType: DRONE
+  level: 4
+  assignment: {
+    }
+  mobID: 1919
+  socialMax: 100
+  fullName: Fifteen of Fifteen
+  mobY: 1480.5883
+  mobX: 1214.0203
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 216
+  activeNodeName: AI_DEATH
+  dexterity: 33
+  agingRateTick: 33431
+  statusIconDelayTick: 494
+  baseVelocity: 0.49949998
+  diesSlowlyRateTick: 232
+  position: WEST
+  thirstMax: 100
+  tileX: 76
+  energyMax: 100
+  tileY: 93
+mob27:
+  thermalAdjustRateTick: 50
+  strength: 112
+  decayTick: 4177
+  colorLayers0: 0,255,136,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  experience: 19
+  healthRegenRateTick: 411
+  workSpeedReductionBase: 11
+  mobGroup: MONSTER
+  lastDamageCause: TOWER
+  lastDamageType: MAGIC_REGULAR
+  alpha: 0.9
+  angle: -0.7853982
+  hungerMax: 100
+  lastDamageObjectID: 205
+  decaying: true
+  bleedingAmount: 4139
+  mobType: SLIME
+  level: 8
+  idle: true
+  assignment: {
+    }
+  mobID: 1923
+  socialMax: 100
+  fullName: Slime
+  mobY: 1447.5237
+  bodyTemp: 17
+  mobX: 1155.4999
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 336
+  activeNodeName: AI_DEATH
+  dexterity: 108
+  agingRateTick: 34067
+  statusIconDelayTick: 106
+  baseVelocity: 0.20216
+  position: EAST
+  thirstMax: 100
+  tileX: 72
+  energyMax: 100
+  tileY: 91
+mob26:
+  thermalAdjustRateTick: 272
+  strength: 42
+  decayTick: 4514
+  colorLayers0: 51,51,51,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  healthRegenRateTick: 272
+  workSpeedReductionBase: 4
+  mobGroup: MONSTER
+  lastDamageCause: TOWER
+  lastDamageType: MAGIC_REGULAR
+  alpha: 1.0
+  angle: 2.3561945
+  hungerMax: 100
+  lastDamageObjectID: 205
+  decaying: true
+  bleedingAmount: 2349
+  mobType: SMALL_TRASHY_SLIME
+  level: 3
+  assignment: {
+    }
+  mobID: 1980
+  socialMax: 100
+  fullName: Small Trashy Slime
+  mobY: 1439.4825
+  bodyTemp: 54
+  mobX: 1307.498
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 126
+  activeNodeName: AI_DEATH
+  dexterity: 48
+  agingRateTick: 272
+  statusIconDelayTick: 272
+  baseVelocity: 0.20096001
+  position: EAST
+  thirstMax: 100
+  tileX: 82
+  energyMax: 100
+  tileY: 90
+mob61:
+  socialRateTick: 91
+  strength: 175
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 30
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 577
+  hungerMax: 110
+  inventoryChestSlotID: 10009
+  energy: 19
+  mobType: VILLAGER
+  level: 11
+  mobID: 1
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 577
+  hunger: 38
+  agingRateTick: 113079
+  firstName: Helena
+  statusIconDelayTick: 335
+  position: SOUTH
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 23309
+  energyMax: 100
+  lastName: Kyncl
+  thermalAdjustRateTick: 678
+  gender: FEMALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 106
+  energyDecayRateTick: 777
+  socialCoitusDelayTick: 32098
+  colorLayers3: 119,119,119,255
+  colorLayers1: 113,99,90,255
+  workFindExtraResourcesLastX: 161
+  colorLayers2: 17,51,34,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 1
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 65
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: 1.5707964
+  hungerStarvationRateTick: 454
+  mobJobType: TRASHER
+  inventoryMeleeWeaponSlotID: 6064
+  thirst: 58
+  social: 37
+  assignment: {
+    }
+  fullName: Helena Kyncl
+  hungerDecayRateTick: 1123
+  thirstDecayRateTick: 1407
+  mobY: 2239.2854
+  bodyTemp: 44
+  mobX: 2752.3557
+  activeNodeData:
+    aiStep: 1
+    pathStep: 31
+    pathCoordinatesList: '[193,169] [192,169] [191,169] [190,168] [189,168] [188,167]
+      [188,166] [188,165] [188,164] [188,163] [188,162] [188,161] [188,160] [188,159]
+      [187,158] [186,157] [186,156] [185,155] [184,154] [183,153] [182,152] [181,151]
+      [180,150] [179,149] [178,148] [177,147] [176,146] [175,145] [175,144] [174,143]
+      [173,142] [172,141] [172,140] [172,139] [171,138] [171,137] [171,136] [171,135]
+      [171,134] [171,133] [171,132] [171,131] [171,130] [171,129] [171,128] [170,127]
+      [169,126] [169,125] [169,124]'
+    goalCoordinates: 193,169
+  mateID: 10
+  activeNodeName: AI_GO_HOME
+  dexterity: 175
+  currentVelocity: 0.91249996
+  baseVelocity: 0.91249996
+  tileX: 172
+  age: 21
+  tileY: 140
+  sleepDelayTick: 5
+mob60:
+  gender: MALE
+  strength: 77
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 153
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  experience: 124
+  colorLayers4: 0,0,0,255
+  colorLayers1: 181,82,57,255
+  workFindExtraResourcesLastX: 112
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1522
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -2.3561945
+  hitPoints: 176
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 69,24
+    primaryCoordinates: 68,24
+    assignmentType: BUILDING_ROAD
+  mobID: 1948
+  socialMax: 100
+  fullName: Twelve of Twelve
+  mobY: 2176.9456
+  mobX: 1737.1216
+  activeNodeData:
+    aiStep: 1
+    pathStep: 121
+    pathCoordinatesList: '[68,24] [68,25] [68,26] [67,27] [66,27] [65,28] [65,29]
+      [64,30] [64,31] [64,32] [63,33] [62,33] [61,34] [60,34] [59,35] [59,36] [59,37]
+      [59,38] [59,39] [58,40] [57,41] [57,42] [57,43] [57,44] [57,45] [57,46] [57,47]
+      [57,48] [57,49] [57,50] [57,51] [57,52] [57,53] [58,54] [59,55] [59,56] [59,57]
+      [59,58] [59,59] [59,60] [60,60] [61,61] [61,62] [62,63] [63,64] [63,65] [63,66]
+      [63,67] [63,68] [64,69] [64,70] [64,71] [64,72] [64,73] [65,74] [66,75] [66,76]
+      [66,77] [66,78] [67,79] [68,80] [69,81] [70,82] [71,83] [72,84] [73,85] [74,86]
+      [75,87] [76,88] [76,89] [76,90] [76,91] [76,92] [76,93] [76,94] [76,95] [76,96]
+      [76,97] [76,98] [76,99] [76,100] [76,101] [76,102] [77,103] [78,104] [78,105]
+      [79,106] [80,107] [80,108] [80,109] [81,109] [82,110] [83,110] [84,111] [84,112]
+      [85,113] [86,114] [87,115] [88,116] [89,116] [90,116] [91,117] [92,118] [93,119]
+      [93,120] [93,121] [93,122] [94,123] [95,124] [96,125] [97,126] [98,127] [99,127]
+      [100,128] [101,129] [102,130] [103,131] [104,132] [105,133] [106,134] [107,135]
+      [108,136] [109,137] [110,137] [110,138] [110,139] [111,140] [111,141] [111,142]
+      [112,143] [113,144] [114,145]'
+    goalCoordinates: 68,24
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 231
+  activeNodeName: AI_CORRUPTION_ROAD_WORK
+  dexterity: 43
+  agingRateTick: 31537
+  currentVelocity: 0.25725
+  statusIconDelayTick: 474
+  baseVelocity: 0.5145
+  diesSlowlyRateTick: 432
+  position: WEST
+  thirstMax: 100
+  tileX: 109
+  energyMax: 100
+  tileY: 137
+mob65:
+  socialRateTick: 232
+  strength: 116
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 281
+  inventoryRangedWeaponAmmoSlotID: 6053
+  lastDamageCause: FROM_POISON
+  inventoryRecoverySlotID: 8729
+  socialPregnantDelayTick: 180000
+  hitPoints: 382
+  hungerMax: 110
+  inventoryChestSlotID: 4244
+  energy: 50
+  mobType: VILLAGER
+  level: 8
+  mobID: 709
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 382
+  hunger: 57
+  agingRateTick: 103852
+  firstName: Jennifer
+  statusIconDelayTick: 170
+  thirstDrinkTimeTick: 1
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 1600
+  energyMax: 100
+  lastName: Tarly
+  thermalAdjustRateTick: 544
+  gender: FEMALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 112
+  energyDecayRateTick: 285
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,0,0,255
+  colorLayers1: 202,191,177,255
+  workFindExtraResourcesLastX: 79
+  colorLayers2: 68,68,68,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 483
+  healthRepairTimeTick: 387
+  workSpeedReductionBase: 11
+  mobGroup: VILLAGER
+  assignedHome: 64
+  lastDamageType: FROM_POISON
+  alpha: 1.0
+  angle: -1.5707964
+  mobJobType: RANGER
+  inventoryMeleeWeaponSlotID: 6062
+  thirst: 79
+  social: 94
+  assignment:
+    secondaryMobName: $RED1a Small Trashy Slime
+    primaryMobName: $PIN1Natasha Horner
+    secondaryMobID: '1991'
+    assignmentType: COMBAT
+    primaryMobID: '69'
+  fullName: Jennifer Tarly
+  hungerDecayRateTick: 2021
+  thirstDecayRateTick: 508
+  mobY: 2290.7158
+  bodyTemp: 41
+  mobX: 2592.7397
+  activeNodeData:
+    aiStep: 1
+    pathStep: 24
+    pathCoordinatesList: '[174,125] [173,126] [172,127] [171,128] [170,129] [169,129]
+      [168,129] [167,129] [166,129] [165,129] [164,129] [164,130] [164,131] [163,132]
+      [163,133] [163,134] [162,135] [162,136] [162,137] [162,138] [162,139] [162,140]
+      [162,141] [162,142] [162,143] [162,144] [162,145]'
+    goalCoordinates: 174,125
+  activeNodeName: AI_RANGER_SUMMONED
+  dexterity: 121
+  currentVelocity: 0.99780005
+  inventoryRangedWeaponSlotID: 6109
+  inventoryHeadSlotID: 17097
+  baseVelocity: 0.8315
+  tileX: 162
+  age: 8
+  tileY: 144
+mob64:
+  lastName: Miller
+  gender: FEMALE
+  strength: 93
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 0,170,0,255
+  colorLayers1: 106,78,66,255
+  colorLayers2: 91,32,0,255
+  workSpeedReductionBase: 9
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 279
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 6
+  idle: true
+  assignment: {
+    }
+  mobID: 1651
+  socialMax: 100
+  fullName: Ellen Miller
+  mobY: 2266.885
+  mobX: 2690.8777
+  activeNodeData: {
+    }
+  hitPointsMax: 279
+  activeNodeName: AI_START
+  dexterity: 100
+  firstName: Ellen
+  statusIconDelayTick: 435
+  baseVelocity: 0.22
+  position: WEST
+  thirstMax: 100
+  tileX: 168
+  age: 4
+  energyMax: 100
+  tileY: 142
+mob63:
+  gender: FEMALE
+  strength: 76
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 160
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  experience: 114
+  colorLayers4: 0,0,0,255
+  colorLayers1: 85,72,56,255
+  workFindExtraResourcesLastX: 14
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1821
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -1.5707964
+  hitPoints: 228
+  hungerMax: 100
+  workDelayTick: 329
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 28,141
+    primaryCoordinates: 27,141
+    pickupResourceType: ROCK
+    assignmentType: CORRUPTION_HARVESTING
+  mobID: 1920
+  socialMax: 100
+  fullName: Thirteen of Sixteen
+  mobY: 2250.865
+  mobX: 432.1326
+  activeNodeData:
+    aiStep: 2
+    pathCompleted: true
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 228
+  activeNodeName: AI_CORRUPTION_HARVEST_WORK
+  dexterity: 44
+  agingRateTick: 39840
+  statusIconDelayTick: 153
+  baseVelocity: 0.516
+  diesSlowlyRateTick: 38
+  position: EAST
+  thirstMax: 100
+  tileX: 27
+  energyMax: 100
+  tileY: 141
+mob62:
+  socialRateTick: 435
+  strength: 152
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 403
+  inventoryRangedWeaponAmmoSlotID: 8011
+  lastDamageCause: FROM_POISON
+  inventoryRecoverySlotID: 17099
+  socialPregnantDelayTick: 180000
+  hitPoints: 456
+  hungerMax: 110
+  inventoryChestSlotID: 10006
+  energy: 55
+  mobType: VILLAGER
+  level: 9
+  mobID: 423
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 456
+  hunger: 59
+  agingRateTick: 42433
+  firstName: Dave
+  statusIconDelayTick: 504
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 33244
+  energyMax: 100
+  lastName: Brubeck
+  thermalAdjustRateTick: 1420
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 114
+  energyDecayRateTick: 43
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,0,0,255
+  colorLayers1: 59,48,36,255
+  workFindExtraResourcesLastX: 81
+  colorLayers2: 68,68,68,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 328
+  healthRepairTimeTick: 37
+  workSpeedReductionBase: 15
+  mobGroup: VILLAGER
+  assignedHome: 64
+  lastDamageType: FROM_POISON
+  angle: 3.1415927
+  mobJobType: RANGER
+  inventoryMeleeWeaponSlotID: 6071
+  thirst: 78
+  social: 55
+  assignment:
+    primaryObjectID: '64'
+    primaryObjectName: $YEL1Makeshift Ranger Lodge
+    assignmentType: IN_HOME
+  fullName: Dave Brubeck
+  hungerDecayRateTick: 1238
+  thirstDecayRateTick: 111
+  mobY: 2250.816
+  bodyTemp: 50
+  mobX: 2514.3533
+  activeNodeData:
+    aiStep: 1
+  insideHouse: true
+  activeNodeName: AI_IN_HOME
+  dexterity: 148
+  inventoryRangedWeaponSlotID: 6085
+  inventoryHeadSlotID: 8012
+  baseVelocity: 0.872
+  tileX: 157
+  age: 13
+  tileY: 141
+mob58:
+  socialRateTick: 560
+  strength: 191
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 401
+  inventoryRangedWeaponAmmoSlotID: 6095
+  lastDamageCause: FROM_POISON
+  inventoryRecoverySlotID: 21388
+  socialPregnantDelayTick: 180000
+  hitPoints: 630
+  hungerMax: 110
+  inventoryChestSlotID: 4240
+  energy: 52
+  mobType: VILLAGER
+  level: 12
+  mobID: 2
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 630
+  hunger: 53
+  agingRateTick: 66564
+  firstName: Richard
+  statusIconDelayTick: 544
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 43427
+  energyMax: 100
+  lastName: Kimber
+  inventoryShieldSlotID: 10011
+  thermalAdjustRateTick: 1100
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 174
+  energyDecayRateTick: 270
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,0,0,255
+  colorLayers1: 229,200,168,255
+  workFindExtraResourcesLastX: 165
+  colorLayers2: 68,68,68,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 25
+  workSpeedReductionBase: 18
+  mobGroup: VILLAGER
+  assignedHome: 64
+  lastDamageType: FROM_POISON
+  alpha: 1.0
+  angle: -1.5707964
+  thirstDehydrationRateTick: 482
+  mobJobType: RANGER
+  inventoryMeleeWeaponSlotID: 2427
+  thirst: 46
+  social: 82
+  idle: true
+  assignment:
+    secondaryMobName: $RED1a Small Trashy Slime
+    primaryMobName: $PIN1Natasha Horner
+    secondaryMobID: '1991'
+    assignmentType: COMBAT
+    primaryMobID: '69'
+  fullName: Richard Kimber
+  hungerDecayRateTick: 1943
+  thirstDecayRateTick: 1286
+  mobY: 2136.9595
+  bodyTemp: 32
+  mobX: 2818.976
+  activeNodeData:
+    aiStep: 1
+    pathStep: 8
+    pathCoordinatesList: '[174,125] [175,126] [176,127] [176,128] [176,129] [176,130]
+      [176,131] [176,132] [176,133] [176,134] [176,135]'
+    goalCoordinates: 174,125
+  activeNodeName: AI_RANGER_SUMMONED
+  dexterity: 184
+  currentVelocity: 1.1112001
+  inventoryRangedWeaponSlotID: 6083
+  inventoryHeadSlotID: 2422
+  baseVelocity: 0.926
+  tileX: 176
+  age: 18
+  tileY: 134
+mob57:
+  thermalAdjustRateTick: 328
+  strength: 38
+  colorLayers0: 51,51,51,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  healthRegenRateTick: 328
+  workSpeedReductionBase: 3
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: 1.5707964
+  hitPoints: 114
+  hungerMax: 100
+  mobType: SMALL_TRASHY_SLIME
+  level: 2
+  assignment:
+    primaryCoordinates: 168,133
+    primaryObjectID: '114'
+    primaryObjectName: $YEL1Makeshift Crystillery
+    assignmentType: COMBAT
+  mobID: 1991
+  socialMax: 100
+  fullName: Small Trashy Slime
+  mobY: 2075.099
+  bodyTemp: 48
+  mobX: 2738.7246
+  activeNodeData:
+    aiStep: 2
+    pathStep: 7
+    pathCoordinatesList: '[168,133] [168,134] [169,134] [170,134] [171,134] [171,133]
+      [171,132] [171,131] [171,130] [171,129] [171,128] [172,127]'
+    goalCoordinates: 168,133
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 114
+  activeNodeName: AI_COMBAT_BUILDINGS
+  dexterity: 37
+  agingRateTick: 328
+  currentVelocity: 0.24088801
+  statusIconDelayTick: 328
+  baseVelocity: 0.20074001
+  position: SOUTH
+  thirstMax: 100
+  tileX: 171
+  energyMax: 100
+  tileY: 130
+mob56:
+  socialRateTick: 541
+  strength: 199
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 32
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 656
+  hungerMax: 110
+  energy: 43
+  mobType: VILLAGER
+  level: 13
+  mobID: 71
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 656
+  hunger: 37
+  agingRateTick: 51857
+  firstName: Chrystal
+  statusIconDelayTick: 181
+  position: EAST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 41209
+  energyMax: 100
+  lastName: Vicente
+  thermalAdjustRateTick: 1387
+  gender: FEMALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 85
+  inventoryToolSlotID: 17104
+  energyDecayRateTick: 317
+  socialCoitusDelayTick: 50000
+  colorLayers3: 221,221,255,255
+  colorLayers1: 106,78,66,255
+  workFindExtraResourcesLastX: 121
+  colorLayers2: 204,68,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 345
+  workSpeedReductionBase: 20
+  mobGroup: VILLAGER
+  assignedHome: 71
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 0.7853982
+  mobJobType: CRYSILLER
+  inventoryMeleeWeaponSlotID: 6066
+  thirst: 55
+  social: 56
+  assignment:
+    deliveryObjectName: $YEL1Makeshift Crystillery
+    pickupResourceIDs: '22094'
+    primaryCoordinates: 168,132
+    pickupResourceType: CRYLITHIUM
+    deliveryObjectID: '114'
+    assignmentType: REFINE_RESOURCE
+  fullName: Chrystal Vicente
+  hungerDecayRateTick: 1898
+  thirstDecayRateTick: 662
+  mobY: 2044.0822
+  bodyTemp: 49
+  mobX: 2596.6733
+  activeNodeData:
+    aiStep: 1
+    pathStep: 10
+    pathCoordinatesList: '[168,132] [168,133] [167,134] [166,134] [165,134] [164,134]
+      [163,133] [163,132] [163,131] [163,130] [163,129] [162,128] [161,127] [160,126]
+      [159,125] [158,124] [157,123] [156,122] [155,121] [154,120] [153,119] [152,118]
+      [151,117] [150,116] [149,115] [149,114] [149,113] [149,112] [148,111] [147,110]
+      [146,109] [145,108] [144,107] [143,106] [142,105] [141,104] [141,103] [140,102]
+      [139,101] [138,101] [137,100] [136,99] [135,99] [134,99] [133,98] [132,97] [131,96]
+      [130,95] [129,94] [128,94] [127,94] [127,93] [127,92] [126,91] [126,90] [125,89]
+      [124,88] [123,87] [122,86] [121,85] [120,84]'
+    goalCoordinates: 168,132
+  activeNodeName: AI_REFINE_RESOURCE
+  dexterity: 201
+  currentVelocity: 0.95149994
+  baseVelocity: 0.95149994
+  tileX: 162
+  age: 16
+  tileY: 128
+  sleepDelayTick: 6
+mob55:
+  thermalAdjustRateTick: 495
+  strength: 70
+  decayTick: 328
+  colorLayers0: 17,17,17,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  experience: 31
+  healthRegenRateTick: 92
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: COMBAT
+  lastDamageType: SLASHING
+  alpha: 1.0
+  angle: 1.5707964
+  hungerMax: 100
+  lastDamageMobID: 1
+  bleedingAmount: 5119
+  mobType: TRASHY_SLIME
+  level: 3
+  assignment: {
+    }
+  mobID: 1987
+  socialMax: 100
+  fullName: Trashy Slime
+  mobY: 2001.7128
+  bodyTemp: 50
+  mobX: 2719.6482
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 210
+  activeNodeName: AI_DEATH
+  dexterity: 50
+  agingRateTick: 2496
+  statusIconDelayTick: 290
+  baseVelocity: 0.201
+  position: EAST
+  thirstMax: 100
+  tileX: 170
+  energyMax: 100
+  tileY: 125
+mob59:
+  socialRateTick: 434
+  strength: 242
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 1134
+  lastDamageCause: FROM_BLIGHT
+  socialPregnantDelayTick: 180000
+  hitPoints: 726
+  hungerMax: 110
+  energy: 53
+  mobType: VILLAGER
+  level: 14
+  mobID: 118
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 726
+  hunger: 59
+  agingRateTick: 101794
+  firstName: Maika
+  statusIconDelayTick: 163
+  thirstDrinkTimeTick: 16
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 2755
+  energyMax: 100
+  lastName: Monroe
+  inventoryShieldSlotID: 4241
+  inventoryFoodSlotID: 22590
+  thermalAdjustRateTick: 477
+  gender: FEMALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 134
+  inventoryToolSlotID: 21255
+  energyDecayRateTick: 975
+  socialCoitusDelayTick: 50000
+  colorLayers3: 221,221,34,255
+  colorLayers1: 85,72,56,255
+  workFindExtraResourcesLastX: 170
+  colorLayers2: 204,68,0,255
+  hungerEatTimeTick: 36
+  lifeExpectancy: 40
+  healthRegenRateTick: 493
+  workSpeedReductionBase: 21
+  mobGroup: VILLAGER
+  assignedHome: 71
+  lastDamageType: FROM_BLIGHT
+  alpha: 1.0
+  angle: 3.1415927
+  mobJobType: CRYSTAL_HARVESTER
+  inventoryMeleeWeaponSlotID: 6084
+  thirst: 87
+  social: 48
+  assignment: {
+    }
+  fullName: Maika Monroe
+  hungerDecayRateTick: 420
+  thirstDecayRateTick: 793
+  mobY: 2138.7544
+  bodyTemp: 49
+  mobX: 2706.291
+  activeNodeData: {
+    }
+  activeNodeName: AI_FIND_FOOD_CHECK
+  dexterity: 183
+  inventoryRangedWeaponSlotID: 6082
+  baseVelocity: 0.9245
+  tileX: 169
+  age: 18
+  tileY: 134
+  sleepDelayTick: 4
+mob50:
+  gender: FEMALE
+  strength: 73
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  colorLayers4: 0,0,0,255
+  colorLayers1: 202,191,177,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1610
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: 0.7853982
+  hitPoints: 219
+  hungerMax: 100
+  inventoryChestSlotID: 22641
+  mobType: DRONE
+  level: 4
+  assignment:
+    secondaryCoordinates: 68,126
+    primaryCoordinates: 68,127
+    assignmentType: BUILDING_ROAD
+  mobID: 1990
+  socialMax: 100
+  fullName: Eleven of Eleven
+  mobY: 1935.504
+  mobX: 772.5662
+  activeNodeData:
+    aiStep: 1
+    pathStep: 19
+    pathCoordinatesList: '[68,127] [67,127] [66,127] [65,127] [64,127] [63,126] [62,126]
+      [61,126] [60,126] [59,126] [58,125] [57,125] [56,125] [55,124] [54,123] [53,123]
+      [52,123] [51,122] [50,122] [49,122] [48,121] [47,121] [46,121] [45,121] [44,121]
+      [43,121] [42,121] [41,121] [40,122] [39,122] [38,123] [37,123] [36,123] [35,124]
+      [34,125] [33,125] [32,125] [31,125] [30,124] [29,123]'
+    goalCoordinates: 68,127
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 219
+  activeNodeName: AI_CORRUPTION_ROAD_WORK
+  dexterity: 32
+  agingRateTick: 1610
+  currentVelocity: 0.249
+  statusIconDelayTick: 500
+  baseVelocity: 0.498
+  position: EAST
+  thirstMax: 100
+  tileX: 48
+  energyMax: 100
+  tileY: 121
+mob54:
+  socialRateTick: 318
+  strength: 183
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 530
+  inventoryRangedWeaponAmmoSlotID: 6118
+  lastDamageCause: COMBAT
+  combatDelayTick: 37
+  inventoryRecoverySlotID: 8710
+  socialPregnantDelayTick: 180000
+  hitPoints: 549
+  hungerMax: 110
+  inventoryChestSlotID: 3017
+  energy: 78
+  lastDamageMobID: 1936
+  mobType: VILLAGER
+  level: 11
+  mobID: 69
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 549
+  hunger: 42
+  agingRateTick: 79117
+  firstName: Natasha
+  statusIconDelayTick: 411
+  thirstDrinkTimeTick: 9
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 600
+  energyMax: 100
+  lastName: Horner
+  inventoryShieldSlotID: 15464
+  thermalAdjustRateTick: 1479
+  gender: FEMALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  energyDecayRateTick: 594
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,0,0,255
+  colorLayers1: 230,206,168,255
+  colorLayers2: 68,68,68,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 78
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 64
+  lastDamageType: CRUSHING
+  alpha: 1.0
+  angle: -1.5707964
+  hungerStarvationRateTick: 26
+  mobJobType: RANGER
+  inventoryMeleeWeaponSlotID: 3018
+  thirst: 50
+  social: 81
+  assignment:
+    primaryMobName: $RED1a Small Trashy Slime
+    assignmentType: COMBAT
+    primaryMobID: '1991'
+  fullName: Natasha Horner
+  hungerDecayRateTick: 1410
+  thirstDecayRateTick: 1356
+  mobY: 1994.002
+  bodyTemp: 44
+  mobX: 2786.3137
+  activeNodeData:
+    aiStep: 3
+    reattack: true
+    pathCompleted: true
+  mateID: 70
+  activeNodeName: AI_COMBAT_MOBS
+  dexterity: 167
+  inventoryRangedWeaponSlotID: 7284
+  inventoryHeadSlotID: 6357
+  baseVelocity: 0.90049994
+  tileX: 174
+  age: 16
+  tileY: 125
+mob53:
+  socialRateTick: 400
+  strength: 138
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 492
+  lastDamageCause: COMBAT
+  combatDelayTick: 83
+  hitPoints: 414
+  hungerMax: 100
+  energy: 70
+  lastDamageMobID: 1987
+  mobType: DOGGO
+  level: 7
+  mobID: 131
+  socialMax: 100
+  ownerID: 1985
+  hostileMobGroups: MONSTER
+  hitPointsMax: 414
+  hunger: 54
+  agingRateTick: 36778
+  firstName: Cifford
+  statusIconDelayTick: 217
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 24700
+  energyMax: 100
+  lastName: ''
+  inventoryFoodSlotID: 22190
+  thermalAdjustRateTick: 1992
+  gender: MALE
+  colorLayers0: 53,33,19,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 110
+  energyDecayRateTick: 469
+  colorLayers3: 63,39,22,255
+  colorLayers4: 42,26,15,255
+  colorLayers1: 79,49,28,255
+  workFindExtraResourcesLastX: 158
+  colorLayers2: 63,39,22,255
+  lifeExpectancy: 19
+  colorLayers5: 17,17,17,255
+  healthRegenRateTick: 41
+  workSpeedReductionBase: 12
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 97
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: 3.1415927
+  mobJobType: DOGGO
+  thirst: 59
+  social: 29
+  idle: true
+  assignment:
+    primaryMobName: $RED1a Small Trashy Slime
+    assignmentType: COMBAT
+    primaryMobID: '1992'
+  fullName: Cifford
+  hungerDecayRateTick: 2675
+  thirstDecayRateTick: 2362
+  mobY: 1993.9678
+  bodyTemp: 36
+  mobX: 2705.8655
+  activeNodeData:
+    aiStep: 3
+    reattack: true
+    pathStep: 1
+    pathCompleted: true
+    goalCoordinates: 168,125
+  activeNodeName: AI_COMBAT_MOBS
+  dexterity: 112
+  baseVelocity: 1.0
+  tileX: 169
+  age: 15
+  tileY: 125
+mob52:
+  thermalAdjustRateTick: 328
+  strength: 42
+  colorLayers0: 34,34,34,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  experience: 4
+  healthRegenRateTick: 328
+  workSpeedReductionBase: 3
+  mobGroup: MONSTER
+  lastDamageCause: COMBAT
+  lastDamageType: CRUSHING
+  combatDelayTick: 36
+  alpha: 1.0
+  angle: 3.1415927
+  hitPoints: 110
+  hungerMax: 100
+  lastDamageMobID: 131
+  bleedingAmount: 16
+  mobType: SMALL_TRASHY_SLIME
+  level: 2
+  idle: true
+  assignment:
+    primaryMobName: $BLU1Brandon Malone
+    assignmentType: COMBAT
+    primaryMobID: '1872'
+  mobID: 1992
+  socialMax: 100
+  fullName: Small Trashy Slime
+  mobY: 1992.1582
+  bodyTemp: 51
+  mobX: 2686.1914
+  activeNodeData:
+    aiStep: 2
+    reattack: true
+    pathStep: 1
+    pathCoordinatesList: '[166,125] [167,125] [168,125]'
+    goalCoordinates: 166,125
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 126
+  activeNodeName: AI_COMBAT_MOBS
+  dexterity: 33
+  agingRateTick: 328
+  currentVelocity: 0.24079202
+  statusIconDelayTick: 328
+  baseVelocity: 0.20066
+  position: WEST
+  thirstMax: 100
+  tileX: 168
+  energyMax: 100
+  tileY: 125
+mob51:
+  socialRateTick: 209
+  strength: 78
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 46
+  motherID: 177
+  lastDamageCause: COMBAT
+  hitPoints: 229
+  hungerMax: 110
+  energy: 70
+  lastDamageMobID: 1992
+  mobType: CHILD
+  level: 4
+  mobID: 1872
+  socialMax: 105
+  dysentery: true
+  hostileMobGroups: MONSTER
+  hitPointsMax: 234
+  hunger: 74
+  agingRateTick: 74550
+  firstName: Brandon
+  statusIconDelayTick: 414
+  fatherID: 334
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 2478
+  energyMax: 100
+  lastName: Malone
+  inventoryFoodSlotID: 22268
+  thermalAdjustRateTick: 802
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  energyDecayRateTick: 476
+  colorLayers3: 47,49,93,255
+  colorLayers1: 214,196,194,255
+  colorLayers2: 110,113,216,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 272
+  workSpeedReductionBase: 7
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: -2.3561945
+  thirst: 43
+  social: 87
+  idle: true
+  assignment:
+    primaryMobName: $RED1a Small Trashy Slime
+    primaryCoordinates: 168,125
+    assignmentType: COMBAT
+    primaryMobID: '1992'
+  dysenteryAmount: 1443
+  fullName: Brandon Malone
+  hungerDecayRateTick: 1605
+  thirstDecayRateTick: 75
+  mobY: 1985.4749
+  bodyTemp: 41
+  mobX: 2649.52
+  activeNodeData:
+    aiStep: 1
+    reattack: true
+    pathStep: 29
+    pathCoordinatesList: '[138,97] [139,97] [140,97] [141,98] [142,99] [143,100] [144,101]
+      [145,102] [146,103] [147,104] [148,105] [149,106] [150,107] [151,108] [152,109]
+      [153,110] [154,111] [155,112] [156,113] [156,114] [156,115] [157,116] [158,117]
+      [159,118] [160,119] [161,120] [162,121] [163,122] [164,123] [165,124] [166,125]
+      [167,126]'
+    coordinates: 138,97
+    goalCoordinates: 138,97
+  activeNodeName: AI_COMBAT_MOBS
+  dexterity: 65
+  currentVelocity: 0.64152
+  baseVelocity: 0.89100003
+  tileX: 166
+  age: 1
+  tileY: 125
+  sleepDelayTick: 9
+mob47:
+  gender: MALE
+  strength: 67
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 116
+  carriedResourcesListIDs: 22645,22596
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 55
+  colorLayers4: 0,0,0,255
+  colorLayers1: 83,61,50,255
+  workFindExtraResourcesLastX: 30
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1272
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  alpha: 1.0
+  hitPoints: 201
+  hungerMax: 100
+  mobType: DRONE
+  level: 4
+  assignment:
+    secondaryCoordinates: 19,109
+    deliveryObjectName: $YEL1Corrupted Poison Phantom Dart Tower
+    primaryCoordinates: 114,145
+    deliveryObjectID: '345'
+    assignmentType: DELIVERY
+  mobID: 1979
+  socialMax: 100
+  fullName: Fifteen of Fifteen
+  mobY: 1848.0923
+  mobX: 488.55704
+  activeNodeData:
+    aiStep: 1
+    pathStep: 87
+    pathCoordinatesList: '[114,145] [113,144] [112,143] [111,142] [111,141] [111,140]
+      [110,139] [110,138] [110,137] [109,137] [108,137] [107,138] [106,138] [105,139]
+      [104,139] [103,139] [102,139] [101,140] [100,140] [99,140] [98,140] [97,139]
+      [96,139] [95,139] [94,139] [93,139] [92,139] [91,139] [90,138] [89,137] [88,136]
+      [87,135] [86,134] [85,133] [84,132] [83,131] [82,130] [81,130] [80,130] [79,129]
+      [78,128] [77,127] [76,127] [75,127] [74,127] [73,127] [72,127] [71,127] [70,127]
+      [69,127] [68,127] [67,127] [66,127] [65,127] [64,127] [63,127] [62,127] [61,126]
+      [60,126] [59,126] [58,126] [57,125] [56,125] [55,124] [54,123] [53,123] [52,123]
+      [51,122] [50,122] [49,122] [48,121] [47,121] [46,121] [45,121] [44,121] [43,121]
+      [42,121] [41,121] [40,120] [39,119] [38,118] [37,117] [36,116] [35,116] [34,116]
+      [33,116] [32,116] [31,116] [30,116] [29,116] [28,116] [27,115] [26,114] [25,113]
+      [24,112] [23,111] [22,111] [21,111] [20,110] [19,109]'
+    goalCoordinates: 114,145
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 201
+  activeNodeName: AI_CORRUPTION_DELIVER_RESOURCE_IN_HAND
+  dexterity: 38
+  agingRateTick: 5274
+  currentVelocity: 0.15
+  statusIconDelayTick: 332
+  baseVelocity: 0.50699997
+  position: EAST
+  thirstMax: 100
+  tileX: 30
+  energyMax: 100
+  tileY: 116
+mob108:
+  socialRateTick: 405
+  strength: 143
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 113
+  lastDamageCause: FROM_POISON
+  hitPoints: 429
+  hungerMax: 100
+  energy: 49
+  mobType: DOGGO
+  level: 9
+  mobID: 16
+  socialMax: 100
+  ownerID: 0
+  hostileMobGroups: MONSTER
+  hitPointsMax: 429
+  hunger: 74
+  agingRateTick: 45855
+  firstName: Toblerone
+  statusIconDelayTick: 466
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 40714
+  energyMax: 100
+  lastName: ''
+  thermalAdjustRateTick: 53
+  gender: MALE
+  colorLayers0: 58,27,9,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 81
+  energyDecayRateTick: 667
+  colorLayers3: 69,32,10,255
+  colorLayers4: 115,91,72,255
+  colorLayers1: 87,40,13,255
+  workFindExtraResourcesLastX: 125
+  colorLayers2: 69,32,10,255
+  lifeExpectancy: 20
+  colorLayers5: 17,17,17,255
+  healthRegenRateTick: 357
+  workSpeedReductionBase: 15
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 97
+  lastDamageType: FROM_POISON
+  alpha: 1.0
+  angle: 1.5707964
+  mobJobType: DOGGO
+  thirst: 67
+  social: 72
+  assignment:
+    primaryMobName: $PIN1Jadzia Berruguete
+    primaryMobID: '0'
+  fullName: Toblerone
+  hungerDecayRateTick: 39
+  thirstDecayRateTick: 1335
+  mobY: 2744.859
+  bodyTemp: 40
+  mobX: 3040.5059
+  activeNodeData:
+    aiStep: 1
+    pathStep: 31
+    pathCoordinatesList: '[219,183] [219,184] [219,185] [218,185] [217,185] [216,185]
+      [215,185] [214,185] [213,185] [212,185] [211,185] [210,185] [209,185] [208,185]
+      [207,185] [206,184] [205,183] [204,182] [203,181] [202,180] [201,179] [200,178]
+      [199,178] [198,178] [197,177] [196,177] [195,177] [194,176] [193,175] [192,174]
+      [191,173] [190,172] [189,171] [188,171]'
+    goalCoordinates: 219,183
+  activeNodeName: AI_WANDER
+  dexterity: 157
+  currentVelocity: 1.0
+  baseVelocity: 1.0
+  tileX: 190
+  age: 16
+  tileY: 171
+mob46:
+  socialRateTick: 954
+  strength: 89
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 30
+  socialPregnantDelayTick: 180000
+  hitPoints: 293
+  hungerMax: 110
+  energy: 76
+  mobType: VILLAGER
+  level: 5
+  mobID: 1985
+  socialMax: 115
+  ownerID: 131
+  hostileMobGroups: MONSTER
+  hitPointsMax: 293
+  hunger: 70
+  agingRateTick: 58259
+  firstName: Alex
+  statusIconDelayTick: 196
+  position: WEST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 21776
+  energyMax: 100
+  lastName: Miller
+  thermalAdjustRateTick: 49
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  energyDecayRateTick: 236
+  socialCoitusDelayTick: 50000
+  colorLayers3: 64,42,0,255
+  colorLayers1: 106,78,66,255
+  colorLayers2: 153,0,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 43
+  workSpeedReductionBase: 8
+  mobGroup: VILLAGER
+  assignedHome: 134
+  alpha: 1.0
+  angle: -2.3561945
+  mobJobType: MINER
+  thirst: 93
+  social: 76
+  assignment:
+    deliveryObjectName: $YEL1Makeshift Stone Cuttery
+    pickupResourceIDs: '22553'
+    primaryCoordinates: 152,19
+    deliveryObjectID: '86'
+    assignmentType: PICK_UP_RESOURCE_FROM_GROUND
+  fullName: Alex Miller
+  hungerDecayRateTick: 1037
+  thirstDecayRateTick: 86
+  mobY: 1841.3774
+  bodyTemp: 42
+  mobX: 2617.5757
+  activeNodeData:
+    aiStep: 1
+    pathStep: 105
+    pathCoordinatesList: '[152,19] [151,19] [150,19] [149,19] [148,19] [147,19] [146,19]
+      [145,20] [144,21] [143,21] [142,22] [141,23] [140,24] [139,25] [138,26] [137,27]
+      [136,28] [135,29] [134,30] [133,31] [132,32] [132,33] [132,34] [132,35] [131,36]
+      [130,37] [130,38] [130,39] [130,40] [130,41] [130,42] [130,43] [130,44] [130,45]
+      [130,46] [130,47] [130,48] [130,49] [130,50] [131,51] [132,52] [132,53] [132,54]
+      [132,55] [132,56] [132,57] [132,58] [132,59] [132,60] [132,61] [132,62] [132,63]
+      [132,64] [132,65] [132,66] [132,67] [132,68] [132,69] [132,70] [132,71] [132,72]
+      [132,73] [132,74] [132,75] [132,76] [132,77] [132,78] [132,79] [132,80] [133,81]
+      [133,82] [133,83] [133,84] [133,85] [134,86] [135,87] [135,88] [136,88] [137,89]
+      [138,90] [139,91] [140,92] [141,93] [142,94] [143,95] [144,96] [145,97] [146,97]
+      [147,98] [148,99] [149,100] [150,101] [151,102] [152,103] [153,104] [154,105]
+      [155,106] [156,107] [157,108] [158,109] [158,110] [159,111] [160,112] [161,113]
+      [162,114] [163,115] [164,116] [165,117] [166,118] [167,119] [168,120] [169,121]
+      [170,122] [171,123] [171,124] [171,125] [171,126]'
+    goalCoordinates: 152,19
+  activeNodeName: AI_STORE_RESOURCE
+  dexterity: 79
+  currentVelocity: 0.7685
+  baseVelocity: 0.7685
+  tileX: 164
+  age: 3
+  tileY: 116
+mob107:
+  lastName: Goldsmith
+  gender: FEMALE
+  strength: 216
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 0,170,0,255
+  colorLayers1: 230,206,168,255
+  colorLayers2: 91,32,0,255
+  workSpeedReductionBase: 21
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 1.5707964
+  hitPoints: 648
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 14
+  idle: true
+  assignment: {
+    }
+  mobID: 1315
+  socialMax: 100
+  fullName: Sally Goldsmith
+  mobY: 2728.0781
+  mobX: 2850.8594
+  activeNodeData: {
+    }
+  hitPointsMax: 648
+  activeNodeName: AI_START
+  dexterity: 209
+  firstName: Sally
+  statusIconDelayTick: 334
+  baseVelocity: 0.24180001
+  position: SOUTH
+  thirstMax: 100
+  tileX: 178
+  age: 19
+  energyMax: 100
+  tileY: 171
+mob45:
+  thermalAdjustRateTick: 1469
+  strength: 45
+  decayTick: 9262
+  colorLayers0: 51,51,51,255
+  bodyTempMax: 100
+  dead: true
+  friendlyMobGroups: MONSTER
+  experience: 23
+  healthRegenRateTick: 267
+  workSpeedReductionBase: 3
+  mobGroup: MONSTER
+  lastDamageCause: COMBAT
+  lastDamageType: SLASHING
+  alpha: 1.0
+  angle: 1.5707964
+  hungerMax: 100
+  lastDamageMobID: 597
+  decaying: true
+  bleedingAmount: 3148
+  mobType: SMALL_TRASHY_SLIME
+  level: 2
+  assignment: {
+    }
+  mobID: 1973
+  socialMax: 100
+  fullName: Small Trashy Slime
+  mobY: 1798.3428
+  bodyTemp: 47
+  mobX: 2786.995
+  activeNodeData:
+    aiStep: 1
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 135
+  activeNodeName: AI_DEATH
+  dexterity: 30
+  agingRateTick: 1469
+  statusIconDelayTick: 424
+  baseVelocity: 0.2006
+  thirstMax: 100
+  tileX: 174
+  energyMax: 100
+  tileY: 112
+mob44:
+  socialRateTick: 533
+  strength: 130
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 693
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 390
+  hungerMax: 110
+  energy: 55
+  mobType: VILLAGER
+  level: 7
+  mobID: 1253
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 390
+  hunger: 61
+  agingRateTick: 49754
+  firstName: Kurt
+  statusIconDelayTick: 524
+  thirstDrinkTimeTick: 24
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 32445
+  energyMax: 100
+  lastName: Schrader
+  thermalAdjustRateTick: 1346
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 151
+  inventoryToolSlotID: 16609
+  energyDecayRateTick: 1192
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,0,255
+  colorLayers1: 184,151,120,255
+  workFindExtraResourcesLastX: 181
+  colorLayers2: 0,85,0,255
+  hungerEatTimeTick: 49
+  lifeExpectancy: 40
+  healthRegenRateTick: 201
+  workSpeedReductionBase: 12
+  mobGroup: VILLAGER
+  assignedHome: 103
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 1.5707964
+  hungerStarvationRateTick: 245
+  mobJobType: FARMER
+  inventoryMeleeWeaponSlotID: 6100
+  thirst: 34
+  social: 105
+  idle: true
+  assignment:
+    primaryMobName: $PIN1Cecie Arner
+    primaryMobID: '1422'
+  fullName: Kurt Schrader
+  hungerDecayRateTick: 1526
+  thirstDecayRateTick: 506
+  mobY: 1768.3021
+  bodyTemp: 37
+  mobX: 2146.92
+  activeNodeData:
+    aiStep: 3
+    pathStep: 1
+    pathCompleted: true
+    goalCoordinates: 133,110
+  activeNodeName: AI_CHAT
+  dexterity: 120
+  baseVelocity: 0.83
+  tileX: 134
+  age: 10
+  tileY: 111
+  sleepDelayTick: 2
+mob109:
+  socialRateTick: 50
+  strength: 196
+  experience: 124
+  lastDamageCause: FROM_BLIGHT
+  hitPoints: 588
+  hungerMax: 100
+  energy: 33
+  mobType: WILD_CLUCKER
+  level: 4
+  mobID: 60
+  socialMax: 100
+  eggMax: 100
+  hitPointsMax: 588
+  hunger: 57
+  agingRateTick: 90328
+  statusIconDelayTick: 259
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 34576
+  energyMax: 100
+  inventoryFoodSlotID: 21162
+  thermalAdjustRateTick: 319
+  gender: MALE
+  colorLayers0: 202,194,158,255
+  bodyTempMax: 100
+  energyDecayRateTick: 160
+  colorLayers3: 255,176,158,255
+  colorLayers4: 51,51,51,255
+  colorLayers1: 170,17,17,255
+  colorLayers2: 250,146,34,255
+  hungerEatTimeTick: 25
+  lifeExpectancy: 19
+  healthRegenRateTick: 460
+  workSpeedReductionBase: 12
+  mobGroup: ANIMAL
+  lastDamageType: FROM_BLIGHT
+  alpha: 1.0
+  angle: 3.1415927
+  thirst: 46
+  social: 73
+  idle: true
+  assignment: {
+    }
+  fullName: Wild Clucker
+  hungerDecayRateTick: 4977
+  thirstDecayRateTick: 2218
+  mobY: 2760.14
+  bodyTemp: 29
+  mobX: 2722.8254
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 49
+  baseVelocity: 0.97349995
+  tileX: 170
+  age: 14
+  tileY: 173
+  sleepDelayTick: 4
+mob49:
+  lastName: Doerr
+  gender: MALE
+  strength: 106
+  colorLayers0: 34,238,238,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 80,68,68,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 10
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 0.7853982
+  hitPoints: 318
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 5
+  assignment: {
+    }
+  mobID: 1580
+  socialMax: 100
+  fullName: Raymond Doerr
+  mobY: 1924.8624
+  mobX: 2444.8025
+  activeNodeData:
+    aiStep: 1
+    pathStep: 45
+    pathCoordinatesList: '[187,166] [186,165] [185,164] [184,163] [183,162] [182,161]
+      [182,160] [181,159] [180,158] [179,157] [178,156] [178,155] [178,154] [178,153]
+      [178,152] [178,151] [178,150] [178,149] [178,148] [177,147] [176,146] [175,145]
+      [174,144] [173,143] [172,142] [171,141] [171,140] [171,139] [170,138] [169,137]
+      [168,136] [167,135] [166,134] [165,133] [164,132] [163,131] [162,130] [161,129]
+      [160,128] [159,127] [158,126] [157,125] [156,124] [155,123] [154,122] [153,121]
+      [152,120] [151,119] [150,118] [149,117] [148,116] [147,115] [146,114] [145,113]
+      [144,112] [143,111] [142,110] [141,109] [141,108] [141,107] [141,106] [141,105]
+      [141,104] [141,103] [141,102] [141,101] [141,100] [141,99] [141,98] [141,97]
+      [140,96] [139,95] [138,94] [137,93] [136,92] [135,91] [134,90] [133,89] [132,88]
+      [131,87] [130,86] [130,85] [130,84] [130,83] [130,82] [130,81] [130,80] [130,79]
+      [130,78] [130,77] [130,76] [130,75] [130,74] [130,73] [130,72] [130,71] [130,70]
+      [130,69] [130,68] [130,67] [130,66] [130,65] [130,64] [130,63] [130,62] [130,61]
+      [130,60] [130,59] [130,58] [130,57] [130,56] [130,55] [130,54] [130,53] [130,52]
+      [130,51] [130,50] [130,49] [130,48] [130,47] [130,46] [130,45] [130,44] [130,43]
+      [130,42] [130,41] [130,40] [130,39] [130,38] [130,37] [130,36] [130,35] [130,34]
+      [130,33] [130,32] [130,31] [130,30] [130,29] [130,28] [130,27] [130,26] [130,25]
+      [130,24] [130,23]'
+    goalCoordinates: 187,166
+  hitPointsMax: 318
+  activeNodeName: AI_WANDER
+  dexterity: 94
+  firstName: Raymond
+  currentVelocity: 0.21880001
+  statusIconDelayTick: 151
+  baseVelocity: 0.21880001
+  position: EAST
+  thirstMax: 100
+  tileX: 152
+  age: 8
+  energyMax: 100
+  tileY: 120
+mob48:
+  gender: FEMALE
+  strength: 77
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 117
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  experience: 172
+  colorLayers4: 0,0,0,255
+  colorLayers1: 202,191,177,255
+  workFindExtraResourcesLastX: 15
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 674
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  hitPoints: 231
+  hungerMax: 100
+  inventoryMeleeWeaponSlotID: 10014
+  mobType: DRONE
+  level: 5
+  assignment: {
+    }
+  mobID: 1728
+  socialMax: 100
+  fullName: Ten of Eleven
+  mobY: 1896.5791
+  mobX: 336.4505
+  activeNodeData:
+    aiStep: 1
+    pathStep: 89
+    pathCoordinatesList: '[111,138] [110,137] [109,137] [108,137] [107,138] [106,138]
+      [105,139] [104,139] [103,139] [102,139] [101,139] [100,140] [99,140] [98,140]
+      [97,140] [96,140] [95,139] [94,139] [93,139] [92,139] [91,139] [90,138] [89,137]
+      [88,136] [87,135] [86,134] [85,133] [84,132] [83,131] [82,131] [81,130] [80,130]
+      [79,129] [78,128] [77,127] [76,127] [75,127] [74,127] [73,127] [72,127] [71,127]
+      [70,127] [69,127] [68,127] [67,127] [66,127] [65,127] [64,127] [63,127] [62,126]
+      [61,125] [60,124] [59,124] [58,123] [57,123] [56,123] [55,123] [54,123] [53,123]
+      [52,123] [51,122] [50,122] [49,122] [48,121] [47,121] [46,121] [45,121] [44,121]
+      [43,121] [42,121] [41,121] [40,122] [39,122] [38,123] [37,123] [36,123] [35,123]
+      [34,123] [33,123] [32,122] [31,121] [30,120] [29,119] [28,119] [27,120] [26,120]
+      [25,120] [24,120] [23,120] [22,119] [21,119] [20,119] [19,119] [18,119] [17,119]
+      [16,119] [15,119] [15,118] [14,117]'
+    coordinates: 111,138
+    goalCoordinates: 111,138
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 231
+  activeNodeName: AI_CORRUPTION_BUILDING_PLACEMENT
+  dexterity: 43
+  agingRateTick: 22751
+  currentVelocity: 0.25725
+  statusIconDelayTick: 93
+  baseVelocity: 0.5145
+  diesSlowlyRateTick: 28
+  position: EAST
+  thirstMax: 100
+  tileX: 21
+  age: 2
+  energyMax: 100
+  tileY: 119
+mob100:
+  socialRateTick: 613
+  strength: 202
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 1452
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 606
+  hungerMax: 110
+  inventoryChestSlotID: 17338
+  energy: 43
+  mobType: VILLAGER
+  level: 13
+  mobID: 9
+  socialMax: 105
+  ownerID: 120
+  hostileMobGroups: MONSTER
+  hitPointsMax: 606
+  hunger: 65
+  agingRateTick: 111612
+  firstName: Alonso
+  statusIconDelayTick: 242
+  position: EAST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 35829
+  energyMax: 100
+  lastName: Berruguete
+  thermalAdjustRateTick: 1282
+  gender: MALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 167
+  carriedResourcesListIDs: '22010'
+  energyDecayRateTick: 688
+  socialCoitusDelayTick: 50000
+  colorLayers3: 118,127,190,255
+  colorLayers1: 183,166,158,255
+  workFindExtraResourcesLastX: 180
+  colorLayers2: 62,0,187,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 284
+  workSpeedReductionBase: 20
+  mobGroup: VILLAGER
+  assignedHome: 56
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: -0.7853982
+  hungerStarvationRateTick: 491
+  mobJobType: WATER_MASTER
+  inventoryMeleeWeaponSlotID: 6069
+  thirst: 40
+  social: 85
+  assignment:
+    secondaryCoordinates: 178,172
+    deliveryObjectName: $YEL1High Quality Housing
+    primaryCoordinates: 187,166
+    secondaryObjectID: '111'
+    pickupResourceType: WATER_BUCKET
+    deliveryObjectID: '54'
+    assignmentType: DELIVERY
+    secondaryObjectName: $YEL1Makeshift Rain Catcher
+  fullName: Alonso Berruguete
+  hungerDecayRateTick: 1284
+  thirstDecayRateTick: 771
+  mobY: 2658.94
+  bodyTemp: 54
+  mobX: 2888.1462
+  activeNodeData:
+    aiStep: 4
+    pathStep: 7
+    pathCoordinatesList: '[187,166] [187,165] [186,165] [185,165] [184,165] [183,165]
+      [182,165] [181,166] [180,167] [179,167] [179,168] [178,169] [178,170] [178,171]
+      [178,172]'
+    goalCoordinates: 187,166
+  mateID: 0
+  activeNodeName: AI_REDISTRIBUTE_RESOURCES
+  dexterity: 198
+  currentVelocity: 0.7576
+  inventoryRangedWeaponSlotID: 6094
+  baseVelocity: 0.94699997
+  tileX: 180
+  age: 18
+  tileY: 167
+  sleepDelayTick: 14
+mob102:
+  lastName: Churchill
+  gender: MALE
+  strength: 100
+  colorLayers0: 34,204,204,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 59,48,36,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 10
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 1.5707964
+  hitPoints: 300
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 5
+  assignment: {
+    }
+  mobID: 1684
+  socialMax: 100
+  fullName: Daddy Churchill
+  mobY: 2691.8674
+  mobX: 2832.1218
+  activeNodeData:
+    aiStep: 1
+    pathStep: 6
+    pathCoordinatesList: '[177,175] [177,174] [177,173] [177,172] [177,171] [177,170]
+      [177,169] [177,168] [177,167]'
+    goalCoordinates: 177,175
+  hitPointsMax: 300
+  activeNodeName: AI_WANDER
+  dexterity: 100
+  firstName: Daddy
+  currentVelocity: 0.22
+  statusIconDelayTick: 213
+  baseVelocity: 0.22
+  position: SOUTH
+  thirstMax: 100
+  tileX: 177
+  age: 8
+  energyMax: 100
+  tileY: 168
+mob101:
+  lastName: Fitzgerald
+  gender: FEMALE
+  strength: 114
+  colorLayers0: 34,204,204,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 106,78,66,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 11
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 342
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 6
+  assignment: {
+    }
+  mobID: 1633
+  socialMax: 100
+  fullName: Ella Fitzgerald
+  mobY: 2666.8442
+  mobX: 2871.8665
+  activeNodeData:
+    aiStep: 1
+    pathStep: 1
+    pathCoordinatesList: '[178,167] [179,167] [180,167] [181,167] [182,168] [183,169]
+      [184,169]'
+    goalCoordinates: 178,167
+  hitPointsMax: 342
+  activeNodeName: AI_WANDER
+  dexterity: 111
+  firstName: Ella
+  currentVelocity: 0.2222
+  statusIconDelayTick: 325
+  baseVelocity: 0.2222
+  position: WEST
+  thirstMax: 100
+  tileX: 180
+  age: 6
+  energyMax: 100
+  tileY: 167
+mob104:
+  socialRateTick: 177
+  strength: 72
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 223
+  lastDamageCause: FROM_BLIGHT
+  hitPoints: 216
+  hungerMax: 100
+  energy: 58
+  mobType: DOOFY_DOGGO
+  level: 7
+  mobID: 120
+  socialMax: 100
+  ownerID: 9
+  hostileMobGroups: MONSTER
+  hitPointsMax: 216
+  hunger: 57
+  agingRateTick: 58602
+  firstName: Moon Moon
+  statusIconDelayTick: 356
+  thirstDrinkTimeTick: 26
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 2331
+  energyMax: 100
+  inventoryFoodSlotID: 21920
+  thermalAdjustRateTick: 680
+  gender: MALE
+  colorLayers0: 161,160,152,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 161
+  energyDecayRateTick: 944
+  colorLayers3: 242,240,229,255
+  colorLayers4: 161,160,152,255
+  workFindExtraResourcesLastX: 191
+  colorLayers2: 242,240,229,255
+  lifeExpectancy: 20
+  colorLayers5: 16,110,140,255
+  healthRegenRateTick: 228
+  workSpeedReductionBase: 10
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 97
+  lastDamageType: FROM_BLIGHT
+  angle: 3.1415927
+  mobJobType: DOGGO
+  thirst: 90
+  social: 74
+  assignment:
+    primaryObjectID: '97'
+    primaryObjectName: $YEL1Doggo House
+    assignmentType: IN_HOME
+  fullName: Moon Moon
+  hungerDecayRateTick: 1619
+  thirstDecayRateTick: 2141
+  mobY: 2696.1372
+  bodyTemp: 50
+  mobX: 2882.3225
+  activeNodeData:
+    aiStep: 1
+    drinking: true
+  insideHouse: true
+  activeNodeName: AI_IN_HOME
+  dexterity: 128
+  baseVelocity: 1.0
+  tileX: 180
+  age: 14
+  tileY: 169
+mob103:
+  socialRateTick: 125
+  strength: 160
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 76
+  lastDamageCause: COMBAT
+  hitPoints: 480
+  hungerMax: 100
+  energy: 38
+  mobType: DOGGO
+  level: 9
+  mobID: 44
+  socialMax: 100
+  ownerID: 1859
+  hostileMobGroups: MONSTER
+  hitPointsMax: 480
+  hunger: 74
+  agingRateTick: 20548
+  firstName: Waffles
+  statusIconDelayTick: 23
+  thirstDrinkTimeTick: 10
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 14700
+  energyMax: 100
+  lastName: ''
+  inventoryFoodSlotID: 22617
+  thermalAdjustRateTick: 895
+  gender: FEMALE
+  colorLayers0: 153,96,49,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 108
+  energyDecayRateTick: 4
+  colorLayers3: 183,115,58,255
+  colorLayers4: 122,76,39,255
+  colorLayers1: 229,144,73,255
+  workFindExtraResourcesLastX: 158
+  colorLayers2: 183,115,58,255
+  lifeExpectancy: 19
+  colorLayers5: 17,17,17,255
+  healthRegenRateTick: 387
+  workSpeedReductionBase: 15
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 97
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: -2.3561945
+  mobJobType: DOGGO
+  thirst: 44
+  social: 58
+  assignment:
+    primaryMobName: $BLU1Ryzuku Malone
+    primaryMobID: '1859'
+  fullName: Waffles
+  hungerDecayRateTick: 2292
+  thirstDecayRateTick: 1215
+  mobY: 2692.2493
+  bodyTemp: 39
+  mobX: 3388.2205
+  activeNodeData:
+    aiStep: 1
+    pathStep: 23
+    pathCoordinatesList: '[188,156] [189,157] [190,157] [191,157] [192,157] [193,157]
+      [194,157] [195,158] [196,158] [197,158] [198,158] [199,158] [200,158] [201,158]
+      [202,159] [203,160] [204,161] [205,162] [206,163] [207,164] [208,165] [209,166]
+      [210,167] [211,168] [212,169] [213,170] [214,171] [215,172] [216,173] [216,174]
+      [216,175] [216,176] [216,177] [216,178] [216,179] [216,180] [216,181] [216,182]
+      [216,183] [216,184] [216,185] [217,185] [218,185] [219,185] [219,184] [219,183]
+      [219,182] [218,181]'
+    goalCoordinates: 188,156
+  activeNodeName: AI_WANDER
+  dexterity: 140
+  currentVelocity: 1.0
+  baseVelocity: 1.0
+  tileX: 212
+  age: 16
+  tileY: 169
+mob106:
+  lastName: Rubio
+  gender: MALE
+  strength: 161
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 0,170,255,255
+  colorLayers1: 183,166,158,255
+  colorLayers2: 91,32,0,255
+  workSpeedReductionBase: 16
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: -0.7853982
+  hitPoints: 483
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 10
+  assignment: {
+    }
+  mobID: 1301
+  socialMax: 100
+  fullName: Marco Rubio
+  mobY: 2708.5278
+  mobX: 2790.6775
+  activeNodeData:
+    aiStep: 1
+    pathStep: 6
+    pathCoordinatesList: '[179,163] [178,164] [178,165] [177,166] [176,167] [176,168]
+      [175,169] [174,170] [174,171] [174,172] [173,172]'
+    goalCoordinates: 179,163
+  hitPointsMax: 483
+  activeNodeName: AI_WANDER
+  dexterity: 164
+  firstName: Marco
+  currentVelocity: 0.2328
+  statusIconDelayTick: 336
+  baseVelocity: 0.2328
+  position: EAST
+  thirstMax: 100
+  tileX: 174
+  age: 16
+  energyMax: 100
+  tileY: 170
+mob105:
+  socialRateTick: 79
+  strength: 147
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 1010
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 441
+  hungerMax: 110
+  energy: 30
+  mobType: VILLAGER
+  level: 9
+  mobID: 596
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 441
+  hunger: 47
+  agingRateTick: 40949
+  firstName: Boris
+  statusIconDelayTick: 393
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 41822
+  energyMax: 100
+  lastName: Vocorav
+  inventoryShieldSlotID: 11799
+  thermalAdjustRateTick: 973
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 157
+  energyDecayRateTick: 1086
+  socialCoitusDelayTick: 50000
+  colorLayers3: 17,17,51,255
+  colorLayers1: 85,72,56,255
+  workFindExtraResourcesLastX: 163
+  colorLayers2: 0,153,153,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 174
+  workSpeedReductionBase: 15
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: -1.5707964
+  mobJobType: BUILDER
+  inventoryMeleeWeaponSlotID: 11798
+  thirst: 24
+  social: 25
+  assignment:
+    secondaryCoordinates: 158,16
+    primaryCoordinates: 158,15
+    assignmentType: CLEARING
+  fullName: Boris Vocorav
+  hungerDecayRateTick: 714
+  thirstDecayRateTick: 1574
+  mobY: 2702.1829
+  bodyTemp: 41
+  mobX: 3170.9998
+  activeNodeData:
+    aiStep: 1
+    pathStep: 166
+    pathCoordinatesList: '[158,15] [158,14] [158,13] [157,13] [156,13] [155,13] [154,13]
+      [153,13] [152,13] [151,14] [150,14] [149,15] [148,16] [147,17] [146,18] [145,19]
+      [144,20] [143,21] [142,22] [141,23] [140,24] [139,25] [139,26] [138,27] [137,28]
+      [136,29] [135,30] [134,31] [133,32] [132,33] [132,34] [132,35] [132,36] [131,37]
+      [130,38] [130,39] [130,40] [130,41] [130,42] [130,43] [130,44] [130,45] [130,46]
+      [130,47] [130,48] [130,49] [130,50] [130,51] [131,52] [132,53] [132,54] [132,55]
+      [132,56] [132,57] [132,58] [132,59] [132,60] [132,61] [132,62] [132,63] [132,64]
+      [132,65] [132,66] [132,67] [132,68] [132,69] [132,70] [132,71] [132,72] [132,73]
+      [132,74] [132,75] [132,76] [132,77] [132,78] [132,79] [132,80] [132,81] [132,82]
+      [132,83] [132,84] [132,85] [133,86] [134,87] [135,88] [136,89] [137,90] [138,91]
+      [139,92] [140,93] [141,94] [142,95] [143,96] [144,97] [144,98] [144,99] [145,100]
+      [146,101] [147,102] [148,103] [149,104] [150,105] [151,106] [152,107] [153,108]
+      [154,109] [155,110] [156,111] [156,112] [156,113] [156,114] [157,115] [158,116]
+      [159,117] [160,118] [161,119] [162,120] [163,121] [164,122] [165,123] [166,124]
+      [167,125] [168,126] [169,127] [170,128] [171,129] [171,130] [171,131] [171,132]
+      [171,133] [171,134] [171,135] [171,136] [172,137] [173,138] [173,139] [173,140]
+      [173,141] [173,142] [173,143] [174,144] [175,145] [176,146] [177,147] [178,148]
+      [179,149] [180,150] [181,151] [182,152] [183,153] [184,154] [185,155] [186,156]
+      [187,157] [188,158] [189,159] [189,160] [189,161] [190,162] [191,163] [192,164]
+      [193,165] [194,165] [195,166] [196,167] [197,168] [198,169] [198,170] [198,171]
+      [198,172] [198,173] [198,174] [198,175] [198,176] [198,177] [198,178] [199,179]
+      [200,180] [201,181] [202,182] [203,183] [204,184] [205,185] [206,185] [207,185]
+      [208,185] [209,185] [210,185] [210,184] [210,183] [210,182]'
+    goalCoordinates: 158,15
+  activeNodeName: AI_CLEAR_TOPOGRAPHY_WORK
+  dexterity: 153
+  currentVelocity: 0.8795
+  inventoryRangedWeaponSlotID: 11800
+  baseVelocity: 0.8795
+  tileX: 198
+  age: 10
+  tileY: 170
+  sleepDelayTick: 9
+mob83:
+  socialRateTick: 495
+  strength: 145
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 473
+  inventoryRangedWeaponAmmoSlotID: 6087
+  socialPregnantCount: 2
+  lastDamageCause: CHILD_BIRTH
+  inventoryRecoverySlotID: 22580
+  socialPregnantDelayTick: 180000
+  hitPoints: 435
+  hungerMax: 110
+  inventoryChestSlotID: 18177
+  energy: 39
+  mobType: VILLAGER
+  level: 7
+  mobID: 177
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 435
+  hunger: 51
+  agingRateTick: 63554
+  firstName: Gabriela
+  statusIconDelayTick: 519
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 32054
+  energyMax: 100
+  lastName: Malone
+  inventoryShieldSlotID: 16034
+  thermalAdjustRateTick: 178
+  gender: FEMALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 150
+  energyDecayRateTick: 888
+  socialCoitusDelayTick: 50000
+  colorLayers3: 51,51,51,255
+  colorLayers1: 214,196,194,255
+  workFindExtraResourcesLastX: 153
+  colorLayers2: 53,24,0,255
+  hungerEatTimeTick: 17
+  lifeExpectancy: 39
+  healthRegenRateTick: 455
+  workSpeedReductionBase: 12
+  mobGroup: VILLAGER
+  assignedHome: 53
+  lastDamageType: REGULAR
+  alpha: 1.0
+  mobJobType: SMELTER
+  inventoryMeleeWeaponSlotID: 4059
+  thirst: 62
+  social: 105
+  assignment:
+    primaryMobName: $BLU1Karl Malone
+    primaryMobID: '334'
+  fullName: Gabriela Malone
+  hungerDecayRateTick: 1628
+  thirstDecayRateTick: 983
+  mobY: 2488.3064
+  bodyTemp: 31
+  mobX: 3135.7202
+  activeNodeData:
+    aiStep: 3
+    pathStep: 1
+    pathCompleted: true
+    goalCoordinates: 196,155
+  mateID: 334
+  socialChildFatherID: 334
+  activeNodeName: AI_CHAT
+  dexterity: 105
+  baseVelocity: 0.8075
+  tileX: 195
+  age: 19
+  tileY: 156
+mob82:
+  socialRateTick: 898
+  strength: 98
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 185
+  lastDamageCause: NONE
+  socialPregnantDelayTick: 180000
+  hitPoints: 323
+  hungerMax: 110
+  energy: 57
+  mobType: VILLAGER
+  level: 5
+  mobID: 1859
+  socialMax: 115
+  ownerID: 44
+  hostileMobGroups: MONSTER
+  hitPointsMax: 323
+  hunger: 24
+  agingRateTick: 93817
+  firstName: Ryzuku
+  statusIconDelayTick: 511
+  thirstDrinkTimeTick: 22
+  position: WEST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 5271
+  energyMax: 100
+  lastName: Malone
+  thermalAdjustRateTick: 401
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 12
+  inventoryToolSlotID: 14096
+  energyDecayRateTick: 958
+  socialCoitusDelayTick: 50000
+  colorLayers3: 0,170,0,255
+  colorLayers1: 184,151,120,255
+  workFindExtraResourcesLastX: 156
+  colorLayers2: 91,32,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 134
+  workSpeedReductionBase: 8
+  mobGroup: VILLAGER
+  assignedHome: 53
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 3.1415927
+  mobJobType: LUMBERJACK
+  thirst: 22
+  social: 10
+  assignment:
+    pickupResourceIDs: '22591'
+    primaryCoordinates: 152,155
+    primaryObjectID: '63'
+    primaryObjectName: $YEL1Makeshift Kitchen
+    assignmentType: EQUIP_RESOURCE
+  fullName: Ryzuku Malone
+  hungerDecayRateTick: 2082
+  thirstDecayRateTick: 564
+  mobY: 2482.2651
+  bodyTemp: 48
+  mobX: 2994.443
+  activeNodeData:
+    aiStep: 2
+    pathStep: 38
+    pathCoordinatesList: '[152,155] [152,156] [153,156] [154,156] [155,156] [156,156]
+      [156,155] [156,154] [157,153] [158,153] [159,153] [160,153] [161,153] [162,153]
+      [163,153] [164,153] [165,153] [166,153] [167,153] [168,153] [169,153] [170,153]
+      [171,153] [172,153] [173,153] [174,153] [175,153] [176,153] [177,154] [178,155]
+      [179,155] [180,156] [181,156] [182,156] [183,156] [184,156] [185,156] [186,156]
+      [187,156] [188,156]'
+    goalCoordinates: 152,155
+  activeNodeName: AI_EQUIP_RESOURCE
+  dexterity: 76
+  currentVelocity: 0.764
+  baseVelocity: 0.764
+  tileX: 188
+  age: 3
+  tileY: 156
+  sleepDelayTick: 15
+mob81:
+  gender: FEMALE
+  strength: 82
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 155
+  carriedResourcesListIDs: '22033'
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  colorLayers4: 0,0,0,255
+  colorLayers1: 165,107,70,255
+  workFindExtraResourcesLastX: 11
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1862
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  alpha: 1.0
+  inventoryRecoverySlotID: 22581
+  angle: 0.7853982
+  hitPoints: 246
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  assignment:
+    deliveryObjectName: $YEL1Corrupted Graveyard
+    primaryCoordinates: 15,159
+    deliveryObjectID: '344'
+    assignmentType: DELIVERY
+  mobID: 1978
+  socialMax: 100
+  fullName: Four of Six
+  mobY: 2477.4126
+  mobX: 181.5
+  activeNodeData:
+    aiStep: 1
+    pathStep: 5
+    pathCoordinatesList: '[15,159] [15,158] [14,158] [13,158] [13,157] [12,156] [11,155]
+      [10,154] [10,153] [10,152] [10,151] [10,150] [10,149] [10,148] [10,147] [10,146]
+      [10,145] [10,144] [10,143] [10,142] [10,141] [10,140] [10,139] [9,138] [8,137]
+      [8,136] [7,135] [7,134] [7,133] [7,132] [7,131] [7,130] [7,129] [7,128] [7,127]
+      [7,126] [6,125] [6,124] [6,123] [6,122] [6,121] [6,120] [7,119] [8,118] [9,117]
+      [10,116] [11,115] [11,114] [11,113] [12,112] [13,111] [14,110] [14,109] [14,108]
+      [14,107] [14,106] [14,105] [14,104] [14,103] [14,102] [14,101] [15,100] [15,99]
+      [15,98] [15,97] [15,96] [15,95] [15,94] [15,93] [15,92] [16,91] [17,91] [17,90]
+      [17,89] [18,88] [19,88] [20,88] [21,88] [22,88] [23,89] [23,90] [24,90] [25,90]
+      [26,90] [27,90] [28,90] [29,91] [30,92] [31,93]'
+    goalCoordinates: 15,159
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 246
+  activeNodeName: AI_CORRUPTION_DELIVER_RESOURCE_IN_HAND
+  dexterity: 38
+  agingRateTick: 5864
+  currentVelocity: 0.20279999
+  statusIconDelayTick: 272
+  baseVelocity: 0.50699997
+  diesSlowlyRateTick: 62
+  position: EAST
+  thirstMax: 100
+  tileX: 11
+  energyMax: 100
+  tileY: 155
+mob80:
+  socialRateTick: 1008
+  strength: 167
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 426
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 501
+  hungerMax: 110
+  energy: 36
+  mobType: VILLAGER
+  level: 10
+  mobID: 334
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 501
+  hunger: 20
+  agingRateTick: 60262
+  firstName: Karl
+  statusIconDelayTick: 532
+  thirstDrinkTimeTick: 5
+  position: SOUTH
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 6395
+  energyMax: 100
+  lastName: Malone
+  thermalAdjustRateTick: 854
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 176
+  energyDecayRateTick: 450
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,0,255
+  colorLayers1: 184,151,120,255
+  workFindExtraResourcesLastX: 201
+  colorLayers2: 0,85,0,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 75
+  workSpeedReductionBase: 16
+  mobGroup: VILLAGER
+  assignedHome: 53
+  lastDamageType: CRUSHING
+  alpha: 1.0
+  angle: -2.3561945
+  mobJobType: FARMER
+  inventoryMeleeWeaponSlotID: 8008
+  thirst: 38
+  social: 105
+  assignment:
+    primaryMobName: $PIN1Gabriela Malone
+    primaryMobID: '177'
+  fullName: Karl Malone
+  hungerDecayRateTick: 655
+  thirstDecayRateTick: 1410
+  mobY: 2474.2107
+  bodyTemp: 44
+  mobX: 3138.2844
+  activeNodeData:
+    aiStep: 3
+    pathStep: 1
+    pathCompleted: true
+    goalCoordinates: 195,156
+  mateID: 177
+  activeNodeName: AI_CHAT
+  dexterity: 158
+  inventoryRangedWeaponSlotID: 8009
+  baseVelocity: 0.88699996
+  tileX: 196
+  age: 14
+  tileY: 155
+  sleepDelayTick: 22
+mob87:
+  socialRateTick: 73
+  strength: 263
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 43
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 789
+  hungerMax: 100
+  energy: 39
+  mobType: ROUS
+  level: 5
+  mobID: 354
+  socialMax: 100
+  hostileMobGroups: MONSTER
+  hitPointsMax: 789
+  hunger: 69
+  agingRateTick: 45911
+  firstName: Shoeshine
+  statusIconDelayTick: 271
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 10079
+  energyMax: 100
+  lastName: ''
+  inventoryFoodSlotID: 22431
+  thermalAdjustRateTick: 198
+  gender: MALE
+  colorLayers0: 80,62,58,255
+  bodyTempMax: 100
+  energyDecayRateTick: 1339
+  socialCoitusDelayTick: 50000
+  colorLayers3: 96,74,69,255
+  colorLayers4: 17,17,17,255
+  colorLayers1: 120,93,87,255
+  colorLayers2: 224,188,154,255
+  lifeExpectancy: 19
+  healthRegenRateTick: 261
+  workSpeedReductionBase: 14
+  mobGroup: DOMESTICATED_ANIMAL
+  assignedHome: 139
+  lastDamageType: CRUSHING
+  alpha: 1.0
+  angle: -2.3561945
+  thirst: 33
+  social: 91
+  idle: true
+  assignment: {
+    }
+  fullName: Shoeshine
+  hungerDecayRateTick: 1687
+  thirstDecayRateTick: 1312
+  mobY: 2538.8894
+  bodyTemp: 29
+  mobX: 2418.6655
+  activeNodeData: {
+    }
+  activeNodeName: AI_START
+  dexterity: 17
+  baseVelocity: 0.9255
+  tileX: 151
+  age: 14
+  tileY: 159
+  sleepDelayTick: 26
+mob86:
+  gender: MALE
+  strength: 104
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 159
+  carriedResourcesListIDs: '20768'
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 87
+  colorLayers4: 0,0,0,255
+  colorLayers1: 9,8,6,255
+  workFindExtraResourcesLastX: 15
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1973
+  workSpeedReductionBase: 7
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: -0.7853982
+  hitPoints: 312
+  hungerMax: 100
+  mobType: DRONE
+  level: 7
+  assignment:
+    secondaryCoordinates: 53,62
+    deliveryObjectName: $YEL1Corrupted Graveyard
+    primaryCoordinates: 17,157
+    deliveryObjectID: '344'
+    assignmentType: DELIVERY
+  mobID: 1713
+  socialMax: 100
+  fullName: Nine of Eleven
+  mobY: 2524.897
+  mobX: 251.54944
+  activeNodeData:
+    aiStep: 1
+    pathStep: 1
+    pathCoordinatesList: '[17,157] [16,158] [15,159]'
+    goalCoordinates: 17,157
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 312
+  activeNodeName: AI_CORRUPTION_DELIVER_RESOURCE_IN_HAND
+  dexterity: 46
+  agingRateTick: 30053
+  currentVelocity: 0.4152
+  statusIconDelayTick: 134
+  baseVelocity: 0.519
+  diesSlowlyRateTick: 5
+  position: EAST
+  thirstMax: 100
+  tileX: 15
+  age: 2
+  energyMax: 100
+  tileY: 159
+mob85:
+  lastName: Soldier
+  gender: MALE
+  strength: 104
+  colorLayers0: 34,238,238,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 17,17,51,255
+  colorLayers1: 165,107,70,255
+  colorLayers2: 0,153,153,255
+  workSpeedReductionBase: 10
+  mobGroup: GHOST
+  angle: 0.7853982
+  hitPoints: 312
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 5
+  assignment: {
+    }
+  mobID: 1912
+  socialMax: 100
+  fullName: Major Soldier
+  mobY: 2524.0745
+  mobX: 2899.9253
+  activeNodeData:
+    aiStep: 1
+    pathStep: 31
+    pathCoordinatesList: '[213,174] [212,174] [211,173] [210,173] [209,173] [208,172]
+      [207,171] [206,170] [205,169] [204,168] [203,167] [202,166] [201,165] [200,164]
+      [199,163] [198,162] [197,162] [196,162] [195,162] [194,162] [193,162] [192,162]
+      [191,162] [190,162] [189,162] [188,162] [187,162] [186,162] [185,162] [184,161]
+      [183,160] [182,159] [181,158] [180,158] [179,158] [178,158] [177,158] [176,158]
+      [175,158] [174,158] [173,157] [172,156] [171,155] [170,154] [169,153] [168,152]
+      [167,151] [166,151] [165,151] [164,151] [163,151] [162,150] [161,150] [160,150]
+      [159,150] [158,149] [157,149] [156,148] [155,148]'
+    goalCoordinates: 213,174
+  hitPointsMax: 312
+  activeNodeName: AI_WANDER
+  dexterity: 96
+  firstName: Major
+  currentVelocity: 0.2192
+  statusIconDelayTick: 581
+  baseVelocity: 0.2192
+  position: EAST
+  thirstMax: 100
+  tileX: 181
+  age: 7
+  energyMax: 100
+  tileY: 158
+mob84:
+  lastName: Lutz
+  gender: MALE
+  strength: 168
+  colorLayers0: 34,187,187,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 118,127,190,255
+  colorLayers1: 183,166,158,255
+  colorLayers2: 62,0,187,255
+  workSpeedReductionBase: 17
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 3.1415927
+  hitPoints: 504
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 11
+  assignment: {
+    }
+  mobID: 1649
+  socialMax: 100
+  fullName: Christopher Lutz
+  mobY: 2519.6824
+  mobX: 2868.9233
+  activeNodeData:
+    aiStep: 1
+    pathStep: 25
+    pathCoordinatesList: '[154,173] [155,172] [156,172] [157,172] [158,171] [159,170]
+      [160,170] [161,170] [162,170] [163,170] [164,169] [165,168] [166,167] [167,166]
+      [168,165] [169,164] [170,163] [171,162] [172,161] [173,160] [174,159] [175,158]
+      [176,158] [177,158] [178,158] [179,158] [180,158] [181,158] [182,158] [183,158]
+      [184,158] [185,158] [186,158] [187,158] [188,158] [189,158] [190,158] [191,158]
+      [192,158] [193,158] [194,158] [195,158] [196,158] [197,158] [198,158] [199,158]
+      [200,158] [201,157] [202,156] [203,155] [204,154] [205,153] [206,153] [207,153]
+      [208,153] [209,153] [210,153]'
+    goalCoordinates: 154,173
+  hitPointsMax: 504
+  activeNodeName: AI_WANDER
+  dexterity: 182
+  firstName: Christopher
+  currentVelocity: 0.23640001
+  statusIconDelayTick: 588
+  baseVelocity: 0.23640001
+  position: WEST
+  thirstMax: 100
+  tileX: 180
+  age: 16
+  energyMax: 100
+  tileY: 158
+mob79:
+  gender: FEMALE
+  strength: 77
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 48
+  colorLayers4: 0,0,0,255
+  colorLayers1: 230,206,168,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1175
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: -1.5707964
+  hitPoints: 231
+  hungerMax: 100
+  mobType: DRONE
+  level: 4
+  assignment:
+    pickupResourceIDs: '21628'
+    primaryCoordinates: 15,117
+    primaryObjectID: '324'
+    primaryObjectName: $YEL1Corrupted Graveyard
+    assignmentType: BUILDING
+  mobID: 1971
+  socialMax: 100
+  fullName: Sixteen of Sixteen
+  mobY: 2431.318
+  mobX: 144.16206
+  activeNodeData:
+    aiStep: 1
+    pathStep: 35
+    pathCoordinatesList: '[15,117] [14,118] [13,119] [12,120] [11,121] [10,122] [9,123]
+      [9,124] [9,125] [9,126] [9,127] [9,128] [9,129] [9,130] [10,131] [10,132] [10,133]
+      [10,134] [10,135] [10,136] [10,137] [10,138] [10,139] [10,140] [10,141] [10,142]
+      [10,143] [10,144] [10,145] [10,146] [10,147] [10,148] [9,149] [9,150] [9,151]
+      [9,152] [9,153] [9,154] [9,155] [8,156] [8,157] [8,158] [7,159]'
+    goalCoordinates: 15,117
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 231
+  activeNodeName: AI_CORRUPTION_BUILD_WORK
+  dexterity: 28
+  agingRateTick: 13181
+  currentVelocity: 0.24599999
+  statusIconDelayTick: 335
+  baseVelocity: 0.49199998
+  thirstMax: 100
+  tileX: 9
+  energyMax: 100
+  tileY: 153
+mob78:
+  lastName: Tucker
+  gender: FEMALE
+  strength: 162
+  colorLayers0: 34,221,221,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 118,127,190,255
+  colorLayers1: 151,121,97,255
+  colorLayers2: 62,0,187,255
+  workSpeedReductionBase: 16
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: -2.3561945
+  hitPoints: 486
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 10
+  assignment: {
+    }
+  mobID: 1594
+  socialMax: 100
+  fullName: Sharifah Tucker
+  mobY: 2431.709
+  mobX: 2327.8796
+  activeNodeData:
+    aiStep: 1
+    pathStep: 2
+    pathCoordinatesList: '[143,150] [144,151] [145,152] [146,153] [147,153] [148,153]
+      [149,153]'
+    goalCoordinates: 143,150
+  hitPointsMax: 486
+  activeNodeName: AI_WANDER
+  dexterity: 163
+  firstName: Sharifah
+  currentVelocity: 0.2326
+  statusIconDelayTick: 402
+  baseVelocity: 0.2326
+  position: WEST
+  thirstMax: 100
+  tileX: 146
+  age: 14
+  energyMax: 100
+  tileY: 153
+mob77:
+  socialRateTick: 726
+  strength: 184
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 719
+  lastDamageCause: COMBAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 552
+  hungerMax: 110
+  energy: 67
+  mobType: VILLAGER
+  level: 11
+  mobID: 333
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 552
+  hunger: 80
+  agingRateTick: 105248
+  firstName: Tim
+  statusIconDelayTick: 161
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 44131
+  energyMax: 100
+  lastName: Pettigrew
+  inventoryFoodSlotID: 19941
+  thermalAdjustRateTick: 1721
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 182
+  inventoryToolSlotID: 17105
+  energyDecayRateTick: 1071
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,0,255
+  colorLayers1: 145,85,61,255
+  workFindExtraResourcesLastX: 209
+  colorLayers2: 0,85,0,255
+  hungerEatTimeTick: 5
+  lifeExpectancy: 40
+  healthRegenRateTick: 78
+  workSpeedReductionBase: 17
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: -1.5707964
+  mobJobType: FARMER
+  thirst: 62
+  social: 66
+  assignment:
+    deliveryObjectName: $YEL1Established Farm
+    pickupResourceIDs: '22610'
+    primaryCoordinates: 181,144
+    deliveryObjectID: '70'
+    assignmentType: PICK_UP_RESOURCE_FROM_GROUND
+  fullName: Tim Pettigrew
+  hungerDecayRateTick: 1518
+  thirstDecayRateTick: 676
+  mobY: 2426.4873
+  bodyTemp: 34
+  mobX: 3010.6765
+  activeNodeData:
+    aiStep: 1
+    pathStep: 8
+    pathCoordinatesList: '[181,144] [182,145] [182,146] [183,147] [184,148] [185,149]
+      [186,150] [187,151] [188,152] [188,153] [189,154] [190,155] [191,156] [192,157]
+      [193,158] [194,158] [195,159] [195,160] [195,161] [196,162] [197,163] [198,164]
+      [199,165] [200,166] [201,167] [202,168] [203,169] [204,170] [205,171] [206,172]
+      [207,173] [207,174] [207,175] [207,176] [207,177] [207,178] [207,179] [207,180]
+      [207,181] [207,182] [207,183] [207,184] [207,185] [208,185] [209,185] [210,185]
+      [210,184] [210,183] [211,183]'
+    goalCoordinates: 181,144
+  mateID: 327
+  activeNodeName: AI_STORE_RESOURCE
+  dexterity: 166
+  currentVelocity: 0.7192
+  inventoryRangedWeaponSlotID: 6096
+  baseVelocity: 0.899
+  tileX: 188
+  age: 15
+  tileY: 153
+mob72:
+  lastName: DesJarlais
+  gender: MALE
+  strength: 164
+  colorLayers0: 34,170,170,255
+  bodyTempMax: 100
+  friendlyMobGroups: VILLAGER
+  colorLayers3: 118,127,190,255
+  colorLayers1: 85,72,56,255
+  colorLayers2: 62,0,187,255
+  workSpeedReductionBase: 15
+  mobGroup: GHOST
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  angle: 0.7853982
+  hitPoints: 492
+  hungerMax: 100
+  mobType: GHOST
+  noSelect: true
+  level: 9
+  assignment: {
+    }
+  mobID: 1679
+  socialMax: 100
+  fullName: Scott DesJarlais
+  mobY: 2373.2834
+  mobX: 2861.1506
+  activeNodeData:
+    aiStep: 1
+    pathStep: 44
+    pathCoordinatesList: '[223,182] [222,182] [221,181] [220,180] [219,179] [218,178]
+      [217,177] [216,176] [215,175] [214,175] [213,175] [212,174] [211,173] [210,172]
+      [209,171] [208,170] [207,169] [206,168] [205,167] [204,166] [203,165] [202,164]
+      [201,163] [200,162] [199,162] [198,161] [197,160] [196,160] [195,159] [194,159]
+      [193,159] [192,158] [191,158] [190,158] [189,158] [188,157] [187,156] [186,155]
+      [185,154] [184,153] [183,152] [182,151] [181,150] [180,149] [179,149] [178,148]
+      [177,147] [176,146] [175,145] [175,144] [174,143] [173,142] [172,141] [171,140]
+      [170,139] [169,138] [168,137] [167,136] [166,135] [165,135] [164,134] [163,133]
+      [162,132] [161,131] [160,130] [159,129] [158,128] [157,127] [156,126] [155,125]
+      [154,124] [153,123] [152,122] [151,121] [150,120] [149,119] [148,119] [147,119]
+      [146,118] [145,117] [144,116] [143,115] [142,114] [141,113] [140,112] [139,111]
+      [138,110] [137,109] [136,109] [135,108] [134,108] [133,107] [132,106] [131,106]
+      [130,105] [129,104] [128,103] [127,102] [126,101] [125,100] [124,100] [123,100]
+      [122,100] [121,100] [120,99] [119,99] [118,98] [117,98] [116,98] [115,98] [114,98]
+      [113,98] [113,97] [113,96]'
+    goalCoordinates: 223,182
+  hitPointsMax: 492
+  activeNodeName: AI_WANDER
+  dexterity: 136
+  firstName: Scott
+  currentVelocity: 0.27264
+  statusIconDelayTick: 86
+  baseVelocity: 0.2272
+  position: EAST
+  thirstMax: 100
+  tileX: 178
+  age: 10
+  energyMax: 100
+  tileY: 148
+mob71:
+  socialRateTick: 693
+  strength: 146
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 561
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 438
+  hungerMax: 110
+  energy: 38
+  mobType: VILLAGER
+  level: 8
+  mobID: 307
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 438
+  hunger: 58
+  agingRateTick: 42783
+  firstName: Lea
+  statusIconDelayTick: 205
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 5600
+  energyMax: 100
+  lastName: Corbin
+  inventoryShieldSlotID: 7283
+  inventoryFoodSlotID: 22491
+  thermalAdjustRateTick: 1327
+  gender: MALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 156
+  energyDecayRateTick: 1257
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,153,255
+  colorLayers1: 183,166,158,255
+  workFindExtraResourcesLastX: 152
+  colorLayers2: 221,221,221,255
+  lifeExpectancy: 40
+  healthRegenRateTick: 251
+  workSpeedReductionBase: 13
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 3.1415927
+  mobJobType: COOK
+  inventoryMeleeWeaponSlotID: 16520
+  thirst: 65
+  social: 88
+  assignment: {
+    }
+  fullName: Lea Corbin
+  hungerDecayRateTick: 1291
+  thirstDecayRateTick: 1447
+  mobY: 2362.9548
+  bodyTemp: 36
+  mobX: 2322.5957
+  activeNodeData:
+    aiStep: 1
+    pathStep: 5
+    pathCoordinatesList: '[146,143] [145,144] [145,145] [145,146] [145,147] [145,148]'
+    goalCoordinates: 146,143
+  activeNodeName: AI_WANDER
+  dexterity: 129
+  inventoryRangedWeaponSlotID: 6098
+  baseVelocity: 0.84349996
+  tileX: 145
+  age: 13
+  tileY: 148
+  sleepDelayTick: 5
+mob70:
+  socialRateTick: 149
+  strength: 227
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 211
+  inventoryRangedWeaponAmmoSlotID: 6078
+  lastDamageCause: COMBAT
+  inventoryRecoverySlotID: 18887
+  socialPregnantDelayTick: 180000
+  hitPoints: 749
+  hungerMax: 110
+  inventoryChestSlotID: 7282
+  energy: 50
+  lastDamageMobID: 1974
+  mobType: VILLAGER
+  level: 15
+  mobID: 31
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 749
+  hunger: 51
+  agingRateTick: 73034
+  firstName: Belle
+  statusIconDelayTick: 376
+  thirstDrinkTimeTick: 8
+  position: WEST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 42785
+  energyMax: 100
+  lastName: Lacey
+  inventoryFoodSlotID: 22589
+  thermalAdjustRateTick: 308
+  gender: FEMALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 112
+  energyDecayRateTick: 62
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,0,0,255
+  colorLayers1: 183,166,158,255
+  workFindExtraResourcesLastX: 81
+  colorLayers2: 68,68,68,255
+  hungerEatTimeTick: 14
+  lifeExpectancy: 39
+  healthRegenRateTick: 159
+  healthRepairTimeTick: 240
+  workSpeedReductionBase: 22
+  mobGroup: VILLAGER
+  assignedHome: 64
+  lastDamageType: DYSENTERY
+  alpha: 1.0
+  angle: -2.3561945
+  thirstDehydrationRateTick: 127
+  mobJobType: RANGER
+  inventoryMeleeWeaponSlotID: 8015
+  thirst: 59
+  social: 58
+  assignment:
+    secondaryMobName: $PIN1Natasha Horner
+    primaryMobName: $PIN1Natasha Horner
+    secondaryMobID: '69'
+    assignmentType: COMBAT
+    primaryMobID: '69'
+  fullName: Belle Lacey
+  hungerDecayRateTick: 1538
+  thirstDecayRateTick: 406
+  mobY: 2359.0198
+  bodyTemp: 35
+  mobX: 2847.999
+  activeNodeData:
+    aiStep: 1
+    pathStep: 22
+    pathCoordinatesList: '[174,125] [175,126] [175,127] [175,128] [175,129] [175,130]
+      [175,131] [175,132] [175,133] [175,134] [175,135] [175,136] [175,137] [175,138]
+      [175,139] [175,140] [175,141] [175,142] [175,143] [175,144] [175,145] [176,146]
+      [177,147] [178,148] [178,149]'
+    goalCoordinates: 174,125
+  mateID: 8
+  activeNodeName: AI_RANGER_SUMMONED
+  dexterity: 223
+  currentVelocity: 1.41768
+  inventoryRangedWeaponSlotID: 17096
+  inventoryHeadSlotID: 7281
+  baseVelocity: 0.9845
+  tileX: 178
+  age: 19
+  tileY: 148
+  sleepDelayTick: 36
+mob76:
+  socialRateTick: 811
+  strength: 122
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 696
+  lastDamageCause: FROM_DYSENTERY
+  inventoryRecoverySlotID: 22577
+  socialPregnantDelayTick: 180000
+  hitPoints: 366
+  hungerMax: 110
+  inventoryChestSlotID: 11795
+  energy: 56
+  mobType: VILLAGER
+  level: 6
+  mobID: 597
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 366
+  hunger: 54
+  agingRateTick: 61713
+  firstName: Sylvana
+  statusIconDelayTick: 437
+  thirstDrinkTimeTick: 24
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 27893
+  energyMax: 100
+  lastName: Gomerstone
+  inventoryFoodSlotID: 22096
+  thermalAdjustRateTick: 1917
+  gender: FEMALE
+  colorLayers0: 229,160,115,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 161
+  inventoryToolSlotID: 15463
+  energyDecayRateTick: 606
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,68,68,255
+  colorLayers1: 229,200,168,255
+  workFindExtraResourcesLastX: 162
+  colorLayers2: 34,34,34,255
+  hungerEatTimeTick: 42
+  lifeExpectancy: 40
+  healthRegenRateTick: 98
+  workSpeedReductionBase: 11
+  mobGroup: VILLAGER
+  assignedHome: 134
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 3.1415927
+  mobJobType: WAY_MAKER
+  inventoryMeleeWeaponSlotID: 11796
+  thirst: 79
+  social: 92
+  assignment:
+    secondaryCoordinates: 160,16
+    primaryCoordinates: 160,15
+    assignmentType: CLEARING
+  fullName: Sylvana Gomerstone
+  hungerDecayRateTick: 772
+  thirstDecayRateTick: 1533
+  mobY: 2410.8486
+  bodyTemp: 34
+  mobX: 2900.1875
+  activeNodeData:
+    aiStep: 1
+    pathStep: 149
+    pathCoordinatesList: '[160,15] [159,14] [158,13] [157,13] [156,13] [155,14] [154,15]
+      [153,15] [152,15] [151,15] [150,15] [149,15] [148,16] [147,17] [146,18] [145,18]
+      [144,19] [143,20] [142,21] [141,22] [140,23] [139,24] [138,25] [137,26] [136,27]
+      [135,28] [134,29] [133,30] [132,31] [132,32] [132,33] [132,34] [132,35] [131,36]
+      [130,37] [130,38] [130,39] [130,40] [130,41] [130,42] [130,43] [130,44] [130,45]
+      [130,46] [130,47] [130,48] [130,49] [131,50] [132,51] [132,52] [133,53] [133,54]
+      [133,55] [133,56] [133,57] [133,58] [133,59] [133,60] [133,61] [133,62] [133,63]
+      [133,64] [133,65] [133,66] [133,67] [133,68] [133,69] [133,70] [133,71] [133,72]
+      [133,73] [133,74] [133,75] [134,76] [134,77] [134,78] [134,79] [134,80] [133,81]
+      [133,82] [133,83] [133,84] [133,85] [134,86] [135,87] [135,88] [136,89] [137,90]
+      [138,91] [139,92] [139,93] [140,94] [141,95] [142,96] [143,97] [144,98] [144,99]
+      [144,100] [144,101] [144,102] [144,103] [145,104] [146,105] [147,106] [148,107]
+      [149,108] [150,109] [151,110] [152,111] [153,112] [154,113] [155,114] [156,115]
+      [157,116] [158,117] [159,118] [160,119] [161,120] [162,121] [163,122] [164,123]
+      [165,124] [166,125] [167,126] [168,127] [169,128] [170,129] [171,129] [171,130]
+      [171,131] [171,132] [171,133] [171,134] [171,135] [172,136] [173,137] [174,138]
+      [174,139] [174,140] [174,141] [174,142] [174,143] [174,144] [175,145] [176,146]
+      [177,147] [178,148] [179,149] [180,150] [181,151] [182,151] [183,152] [184,153]
+      [185,154] [186,155] [187,156] [188,157] [189,158] [190,158] [191,158] [192,158]
+      [193,158] [194,158] [195,159] [195,160] [196,161] [197,162] [198,163] [199,164]
+      [200,165] [201,166] [202,167] [203,168] [204,169] [205,170] [206,171] [207,172]
+      [208,172] [209,172] [210,172] [211,172] [211,173] [211,174] [212,174] [213,175]
+      [214,175] [215,175] [215,176] [215,177] [216,178] [217,179] [218,179] [219,179]
+      [220,179] [221,179] [222,179] [223,179] [224,179] [225,180] [226,181] [227,182]
+      [227,183] [227,184]'
+    goalCoordinates: 160,15
+  activeNodeName: AI_CLEAR_TOPOGRAPHY_WORK
+  dexterity: 103
+  currentVelocity: 0.8045
+  inventoryRangedWeaponSlotID: 15462
+  baseVelocity: 0.8045
+  tileX: 182
+  age: 12
+  tileY: 151
+  sleepDelayTick: 14
+mob75:
+  gender: MALE
+  strength: 85
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 151
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  experience: 185
+  colorLayers4: 0,0,0,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 28
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1182
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  hitPoints: 255
+  hungerMax: 100
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 114,145
+    primaryCoordinates: 114,144
+    assignmentType: CLEARING
+  mobID: 1766
+  socialMax: 100
+  fullName: Seven of Sixteen
+  mobY: 2394.9736
+  mobX: 719.3968
+  activeNodeData:
+    aiStep: 1
+    pathStep: 73
+    pathCoordinatesList: '[114,144] [113,143] [112,142] [111,141] [111,140] [110,139]
+      [110,138] [110,137] [109,137] [108,137] [107,138] [106,138] [105,139] [104,140]
+      [103,141] [103,142] [102,143] [101,144] [100,145] [99,146] [98,147] [97,148]
+      [96,148] [95,148] [94,148] [93,148] [92,148] [91,149] [90,150] [89,150] [88,150]
+      [87,150] [86,150] [85,150] [84,149] [83,149] [82,150] [81,150] [80,151] [79,151]
+      [78,152] [77,152] [76,152] [75,152] [74,152] [73,152] [72,153] [71,153] [70,152]
+      [69,152] [68,152] [67,151] [66,151] [65,151] [64,151] [63,151] [62,151] [61,151]
+      [60,151] [59,151] [58,151] [57,151] [56,151] [55,151] [54,151] [53,151] [52,151]
+      [51,151] [50,151] [49,151] [48,150] [47,150] [46,150] [45,150] [44,150] [43,150]
+      [42,150] [41,150] [40,150] [39,150] [38,150] [37,150] [36,150] [35,150] [34,150]
+      [33,151] [32,152] [31,153] [30,154] [29,154] [28,154] [27,154] [26,155] [25,156]
+      [24,157] [23,158] [22,158] [21,158] [20,158] [19,158] [18,158] [17,158] [16,158]
+      [15,158] [14,158] [13,158] [12,158] [11,157]'
+    goalCoordinates: 114,144
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 255
+  activeNodeName: AI_CORRUPTION_CLEAR_TOPOGRAPHY_TO_BUILD_WORK
+  dexterity: 35
+  agingRateTick: 125244
+  currentVelocity: 0.15
+  statusIconDelayTick: 294
+  baseVelocity: 0.5025
+  diesSlowlyRateTick: 56
+  position: EAST
+  thirstMax: 100
+  tileX: 44
+  age: 1
+  energyMax: 100
+  tileY: 150
+mob74:
+  socialRateTick: 825
+  strength: 231
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 396
+  lastDamageCause: HEAT
+  socialPregnantDelayTick: 180000
+  hitPoints: 762
+  hungerMax: 110
+  energy: 28
+  mobType: VILLAGER
+  level: 16
+  mobID: 32
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 762
+  hunger: 64
+  agingRateTick: 87940
+  firstName: Scott
+  statusIconDelayTick: 424
+  thirstDrinkTimeTick: 8
+  position: WEST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 7676
+  energyMax: 100
+  lastName: Miller
+  inventoryShieldSlotID: 12097
+  thermalAdjustRateTick: 1088
+  gender: MALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 185
+  energyDecayRateTick: 1419
+  socialCoitusDelayTick: 50000
+  colorLayers3: 153,153,0,255
+  colorLayers1: 181,82,57,255
+  workFindExtraResourcesLastX: 211
+  colorLayers2: 0,85,0,255
+  lifeExpectancy: 39
+  healthRegenRateTick: 122
+  workSpeedReductionBase: 23
+  mobGroup: VILLAGER
+  assignedHome: 56
+  lastDamageType: FIRE
+  alpha: 1.0
+  angle: -2.3561945
+  mobJobType: FARMER
+  inventoryMeleeWeaponSlotID: 14365
+  thirst: 53
+  social: 60
+  assignment:
+    deliveryObjectName: $YEL1Established Farm
+    pickupResourceIDs: '22622'
+    primaryCoordinates: 182,143
+    deliveryObjectID: '70'
+    assignmentType: PICK_UP_RESOURCE_FROM_GROUND
+  fullName: Scott Miller
+  hungerDecayRateTick: 1343
+  thirstDecayRateTick: 1515
+  mobY: 2388.933
+  bodyTemp: 52
+  mobX: 2972.8184
+  activeNodeData:
+    aiStep: 1
+    pathStep: 6
+    pathCoordinatesList: '[182,143] [183,144] [183,145] [183,146] [183,147] [184,148]
+      [185,149] [186,150] [187,151] [188,152] [188,153] [189,154] [190,155] [191,156]
+      [192,157] [193,158] [194,158] [195,159] [195,160] [195,161] [196,162] [197,163]
+      [198,164] [199,165] [200,166] [201,167] [202,168] [203,169] [204,170] [205,171]
+      [206,172] [207,173] [207,174] [207,175] [207,176] [207,177] [207,178] [207,179]
+      [207,180] [207,181] [207,182] [207,183] [207,184] [207,185] [208,185] [209,185]
+      [210,185] [211,185] [212,185]'
+    goalCoordinates: 182,143
+  mateID: 332
+  activeNodeName: AI_STORE_RESOURCE
+  dexterity: 244
+  currentVelocity: 1.0
+  baseVelocity: 1.0
+  tileX: 186
+  age: 17
+  tileY: 150
+  sleepDelayTick: 11
+mob73:
+  gender: MALE
+  strength: 69
+  colorLayers0: 65,65,65,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 153
+  carriedResourcesListIDs: 21972,21983,21998
+  friendlyMobGroups: MONSTER
+  colorLayers3: 65,65,65,255
+  colorLayers4: 0,0,0,255
+  colorLayers1: 230,206,168,255
+  workFindExtraResourcesLastX: 69
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1389
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: 3.1415927
+  hitPoints: 207
+  hungerMax: 100
+  mobType: DRONE
+  level: 4
+  assignment:
+    secondaryCoordinates: 70,152
+    deliveryObjectName: $YEL1Corrupted Graveyard
+    primaryCoordinates: 15,158
+    deliveryObjectID: '344'
+    assignmentType: DELIVERY
+  mobID: 1986
+  socialMax: 100
+  fullName: One of Four
+  mobY: 2378.8389
+  mobX: 642.91766
+  activeNodeData:
+    aiStep: 1
+    pathStep: 24
+    pathCoordinatesList: '[15,158] [16,158] [17,158] [18,158] [19,158] [20,158] [21,158]
+      [22,158] [23,158] [24,157] [25,156] [26,155] [27,154] [28,154] [29,154] [30,153]
+      [31,153] [32,152] [33,151] [34,150] [35,149] [36,149] [37,149] [38,149] [39,149]
+      [40,149] [41,149] [42,149] [43,149] [44,149] [45,150] [46,150] [47,150] [48,150]
+      [49,151] [50,151] [51,151] [52,151] [53,151] [54,151] [55,151] [56,151] [57,151]
+      [58,151] [59,151] [60,151] [61,151] [62,151] [63,151] [64,151] [65,151] [66,151]
+      [67,151] [68,152] [69,152] [70,152]'
+    goalCoordinates: 15,158
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 207
+  activeNodeName: AI_CORRUPTION_DELIVER_RESOURCE_IN_HAND
+  dexterity: 36
+  agingRateTick: 3390
+  statusIconDelayTick: 562
+  baseVelocity: 0.504
+  position: WEST
+  thirstMax: 100
+  tileX: 40
+  energyMax: 100
+  tileY: 149
+mob69:
+  gender: FEMALE
+  strength: 78
+  colorLayers0: 160,160,160,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 146
+  carriedResourcesListIDs: 22606,22638,22627
+  friendlyMobGroups: MONSTER
+  colorLayers3: 160,160,160,255
+  experience: 12
+  colorLayers4: 0,0,0,255
+  colorLayers1: 220,208,186,255
+  workFindExtraResourcesLastX: 28
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 30
+  workSpeedReductionBase: 5
+  mobGroup: MONSTER
+  alpha: 1.0
+  angle: 2.3561945
+  hitPoints: 234
+  hungerMax: 100
+  mobType: DRONE
+  level: 4
+  assignment:
+    secondaryCoordinates: 28,144
+    deliveryObjectName: $YEL1Corrupted Graveyard
+    primaryCoordinates: 16,157
+    deliveryObjectID: '344'
+    assignmentType: DELIVERY
+  mobID: 1977
+  socialMax: 100
+  fullName: Fourteen of Fourteen
+  mobY: 2359.6106
+  mobX: 371.3129
+  activeNodeData:
+    aiStep: 1
+    pathStep: 9
+    pathCoordinatesList: '[16,157] [16,156] [16,155] [17,154] [18,153] [19,152] [20,151]
+      [21,150] [22,149] [23,148] [24,147] [25,146] [26,145] [27,144] [28,144]'
+    goalCoordinates: 16,157
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 234
+  activeNodeName: AI_CORRUPTION_DELIVER_RESOURCE_IN_HAND
+  dexterity: 27
+  agingRateTick: 6033
+  currentVelocity: 0.15
+  statusIconDelayTick: 397
+  baseVelocity: 0.49049997
+  position: WEST
+  thirstMax: 100
+  tileX: 24
+  energyMax: 100
+  tileY: 147
+mob68:
+  socialRateTick: 960
+  strength: 193
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 262
+  inventoryRangedWeaponAmmoSlotID: 6063
+  lastDamageCause: COMBAT
+  inventoryRecoverySlotID: 8755
+  socialPregnantDelayTick: 180000
+  hitPoints: 636
+  hungerMax: 110
+  inventoryChestSlotID: 9170
+  energy: 50
+  lastDamageMobID: 1949
+  mobType: VILLAGER
+  level: 12
+  mobID: 241
+  socialMax: 115
+  hostileMobGroups: MONSTER
+  hitPointsMax: 636
+  hunger: 60
+  agingRateTick: 32389
+  firstName: Brendan
+  statusIconDelayTick: 559
+  thirstDrinkTimeTick: 9
+  position: WEST
+  thirstMax: 105
+  agingConstitutionDecayRateTick: 46537
+  energyMax: 100
+  lastName: Boyle
+  inventoryFoodSlotID: 22613
+  thermalAdjustRateTick: 174
+  gender: MALE
+  colorLayers0: 186,108,73,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 171
+  energyDecayRateTick: 346
+  socialCoitusDelayTick: 50000
+  colorLayers3: 68,0,0,255
+  colorLayers1: 214,196,194,255
+  workFindExtraResourcesLastX: 155
+  colorLayers2: 68,68,68,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 199
+  workSpeedReductionBase: 18
+  mobGroup: VILLAGER
+  assignedHome: 64
+  lastDamageType: CRUSHING
+  alpha: 1.0
+  angle: -2.3561945
+  mobJobType: RANGER
+  inventoryMeleeWeaponSlotID: 6051
+  thirst: 34
+  social: 85
+  idle: true
+  assignment:
+    secondaryMobName: $RED1a Small Trashy Slime
+    primaryMobName: $PIN1Natasha Horner
+    secondaryMobID: '1991'
+    assignmentType: COMBAT
+    primaryMobID: '69'
+  fullName: Brendan Boyle
+  hungerDecayRateTick: 161
+  thirstDecayRateTick: 231
+  mobY: 2346.7803
+  bodyTemp: 38
+  mobX: 2834.336
+  activeNodeData:
+    aiStep: 1
+    pathStep: 21
+    pathCoordinatesList: '[174,125] [175,126] [175,127] [175,128] [175,129] [175,130]
+      [175,131] [175,132] [175,133] [175,134] [175,135] [175,136] [175,137] [175,138]
+      [175,139] [175,140] [175,141] [175,142] [175,143] [175,144] [175,145] [176,146]
+      [177,147] [178,148] [178,149]'
+    goalCoordinates: 174,125
+  activeNodeName: AI_RANGER_SUMMONED
+  dexterity: 182
+  inventoryRangedWeaponSlotID: 6072
+  inventoryHeadSlotID: 17103
+  baseVelocity: 0.923
+  tileX: 177
+  age: 13
+  tileY: 147
+mob67:
+  socialRateTick: 974
+  strength: 140
+  friendlyMobGroups: VILLAGER,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT,PROVISIONER
+  experience: 450
+  lastDamageCause: FROM_DYSENTERY
+  socialPregnantDelayTick: 180000
+  hitPoints: 420
+  hungerMax: 110
+  energy: 55
+  mobType: VILLAGER
+  level: 8
+  mobID: 335
+  socialMax: 105
+  hostileMobGroups: MONSTER
+  hitPointsMax: 420
+  hunger: 19
+  agingRateTick: 93317
+  firstName: Glenn
+  statusIconDelayTick: 446
+  position: WEST
+  thirstMax: 100
+  agingConstitutionDecayRateTick: 2821
+  energyMax: 100
+  lastName: Grothman
+  thermalAdjustRateTick: 1801
+  gender: MALE
+  colorLayers0: 112,65,57,255
+  bodyTempMax: 100
+  workFindExtraResourcesLastY: 159
+  energyDecayRateTick: 1378
+  socialCoitusDelayTick: 50000
+  colorLayers3: 17,17,51,255
+  colorLayers1: 220,208,186,255
+  workFindExtraResourcesLastX: 161
+  colorLayers2: 0,153,153,255
+  lifeExpectancy: 37
+  healthRegenRateTick: 43
+  workSpeedReductionBase: 13
+  mobGroup: VILLAGER
+  assignedHome: 103
+  lastDamageType: FROM_DYSENTERY
+  alpha: 1.0
+  angle: 3.1415927
+  hungerStarvationRateTick: 445
+  mobJobType: BUILDER
+  inventoryMeleeWeaponSlotID: 6068
+  thirst: 88
+  social: 20
+  assignment:
+    secondaryCoordinates: 159,16
+    primaryCoordinates: 159,15
+    assignmentType: CLEARING
+  fullName: Glenn Grothman
+  hungerDecayRateTick: 688
+  thirstDecayRateTick: 138
+  mobY: 2330.4563
+  bodyTemp: 35
+  mobX: 2514.7637
+  activeNodeData:
+    aiStep: 1
+    pathStep: 142
+    pathCoordinatesList: '[159,15] [158,14] [158,13] [157,13] [156,13] [155,13] [154,13]
+      [153,13] [152,13] [151,13] [150,14] [149,15] [148,16] [147,17] [146,18] [145,19]
+      [144,20] [143,21] [142,22] [141,23] [140,24] [139,25] [138,26] [137,27] [136,28]
+      [136,29] [136,30] [135,31] [134,32] [133,33] [132,34] [131,35] [130,36] [130,37]
+      [130,38] [130,39] [130,40] [130,41] [130,42] [130,43] [130,44] [130,45] [130,46]
+      [130,47] [130,48] [130,49] [130,50] [130,51] [131,52] [132,53] [132,54] [132,55]
+      [132,56] [132,57] [132,58] [132,59] [132,60] [132,61] [132,62] [132,63] [132,64]
+      [132,65] [132,66] [132,67] [132,68] [132,69] [132,70] [132,71] [132,72] [132,73]
+      [132,74] [132,75] [132,76] [132,77] [132,78] [132,79] [132,80] [132,81] [132,82]
+      [132,83] [132,84] [132,85] [132,86] [132,87] [132,88] [133,89] [134,90] [134,91]
+      [134,92] [134,93] [134,94] [134,95] [134,96] [134,97] [134,98] [134,99] [134,100]
+      [134,101] [134,102] [134,103] [134,104] [134,105] [134,106] [134,107] [134,108]
+      [135,109] [136,110] [137,111] [138,112] [139,113] [140,114] [140,115] [140,116]
+      [140,117] [140,118] [140,119] [140,120] [140,121] [141,122] [142,123] [143,124]
+      [144,125] [145,126] [146,127] [147,128] [148,129] [149,130] [150,131] [151,132]
+      [152,133] [153,134] [154,135] [154,136] [154,137] [154,138] [154,139] [154,140]
+      [154,141] [154,142] [154,143] [155,144] [156,145] [157,146] [158,146] [158,147]
+      [158,148] [158,149] [158,150] [158,151] [158,152] [157,153] [157,154] [157,155]
+      [157,156] [157,157] [157,158] [157,159] [157,160] [157,161] [157,162] [157,163]
+      [157,164] [157,165] [158,165] [159,165] [160,165] [161,165] [162,165] [162,164]
+      [162,163] [162,162] [162,161] [162,160] [162,159] [162,158] [162,157]'
+    goalCoordinates: 159,15
+  activeNodeName: AI_CLEAR_TOPOGRAPHY_WORK
+  dexterity: 135
+  currentVelocity: 0.85249996
+  inventoryRangedWeaponSlotID: 6074
+  baseVelocity: 0.85249996
+  tileX: 158
+  age: 12
+  tileY: 146
+mob66:
+  gender: FEMALE
+  strength: 79
+  colorLayers0: 108,108,108,255
+  bodyTempMax: 100
+  friendlyMobGroups: MONSTER
+  colorLayers3: 108,108,108,255
+  experience: 138
+  colorLayers4: 0,0,0,255
+  colorLayers1: 181,82,57,255
+  colorLayers2: 118,112,0,255
+  healthRegenRateTick: 1408
+  workSpeedReductionBase: 6
+  mobGroup: MONSTER
+  lastDamageCause: NONE
+  lastDamageType: REGULAR
+  alpha: 1.0
+  angle: 3.1415927
+  hitPoints: 237
+  hungerMax: 100
+  workDelayTick: 416
+  mobType: DRONE
+  level: 5
+  assignment:
+    secondaryCoordinates: 29,144
+    primaryCoordinates: 29,145
+    pickupResourceType: ROCK
+    assignmentType: CORRUPTION_HARVESTING
+  mobID: 1916
+  socialMax: 100
+  fullName: Four of Sixteen
+  mobY: 2314.979
+  mobX: 466.89014
+  activeNodeData:
+    aiStep: 2
+    pathCompleted: true
+  hostileMobGroups: VILLAGER,DOMESTICATED_ANIMAL,GOLEM,CHARMED_MONSTER,NOMAD,MIGRANT
+  hitPointsMax: 237
+  activeNodeName: AI_CORRUPTION_HARVEST_WORK
+  dexterity: 41
+  agingRateTick: 41428
+  statusIconDelayTick: 435
+  baseVelocity: 0.5115
+  diesSlowlyRateTick: 163
+  thirstMax: 100
+  tileX: 29
+  energyMax: 100
+  tileY: 145
